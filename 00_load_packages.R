@@ -1,0 +1,44 @@
+##############################################
+#
+# Load packages
+#
+# For easy install, set libraries as a vector and use with install.packages()
+#
+##############################################
+
+library(easypackages)
+libraries(
+  "biglm",
+  "boot",
+  "data.table",
+  "DBI"
+  "dbplyr",
+  "dplyr",
+  "formattable",
+  "fs",
+  "ggplot2",
+  "Hmisc",
+  "httr",
+  "jsonlite",
+  "magrittr",
+  "maps",
+  "olsrr",
+  "pbapply",
+  "plm",
+  "quantreg",
+  "RcppSimdJson",
+  "readxl",
+  "reshape",
+  "rlist",
+  "RSQLite",
+  "sf",
+  "stargazer",
+  "stringr",
+  "summarytools",
+  "tidycensus",
+  "tidyverse", 
+  "tigris",
+  "tseries",
+  "usmap",
+  "zoo" 
+)

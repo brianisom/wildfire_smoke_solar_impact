@@ -1,0 +1,174 @@
+
+## Monthly PM 2.5 readings
+
+In order to combine the PM2.5 data with the generation data to create the panel data set, the daily readings need to be averaged for each month across every county.
+
+```{r  "Converting daily PM2.5 readings into monthly averages by county"}
+
+AZ_daily_pm25 <- read.csv("data/raw/AZ_daily_pm25_raw.csv",
+                        header = TRUE,
+                        sep = ",")
+
+CA_daily_pm25 <- read.csv("data/raw/CA_daily_pm25_raw.csv",
+                        header = TRUE,
+                        sep = ",")
+
+CO_daily_pm25 <- read.csv("data/raw/CO_daily_pm25_raw.csv",
+                        header = TRUE,
+                        sep = ",")
+
+ID_daily_pm25 <- read.csv("data/raw/ID_daily_pm25_raw.csv",
+                        header = TRUE,
+                        sep = ",")
+
+MT_daily_pm25 <- read.csv("data/raw/MT_daily_pm25_raw.csv",
+                        header = TRUE,
+                        sep = ",")
+
+NV_daily_pm25 <- read.csv("data/raw/NV_daily_pm25_raw.csv",
+                        header = TRUE,
+                        sep = ",")
+
+NM_daily_pm25 <- read.csv("data/raw/NM_daily_pm25_raw.csv",
+                        header = TRUE,
+                        sep = ",")
+
+OR_daily_pm25 <- read.csv("data/raw/OR_daily_pm25_raw.csv",
+                        header = TRUE,
+                        sep = ",")
+
+TX_daily_pm25 <- read.csv("data/raw/TX_daily_pm25_raw.csv",
+                        header = TRUE,
+                        sep = ",")
+
+UT_daily_pm25 <- read.csv("data/raw/UT_daily_pm25_raw.csv",
+                        header = TRUE,
+                        sep = ",")
+
+WA_daily_pm25 <- read.csv("data/raw/WA_daily_pm25_raw.csv",
+                        header = TRUE,
+                        sep = ",")
+
+WY_daily_pm25 <- read.csv("data/raw/WY_daily_pm25_raw.csv",
+                        header = TRUE,
+                        sep = ",")
+
+# Define a function to return monthly PM2.5 averages
+
+avg.monthly.pm25 <- function(df, ...) {
+  df$day <- substr(df$date_local, 9, 10)
+  df$month <- substr(df$date_local, 6, 7)
+  df$year <- substr(df$date_local, 1, 4)
+  
+  result <- df %>% group_by(state, county, year, month) %>%
+    summarize(pm_measure = mean(arithmetic_mean))
+  
+  return(result)
+  
+}
+
+# Create a list of each states' readings, then combine into one data table
+state_pm25_list <- list(AZ_daily_pm25,
+                      CA_daily_pm25,
+                      CO_daily_pm25,
+                      ID_daily_pm25,
+                      MT_daily_pm25,
+                      NV_daily_pm25,
+                      NM_daily_pm25,
+                      OR_daily_pm25,
+                      TX_daily_pm25,
+                      UT_daily_pm25,
+                      WA_daily_pm25,
+                      WY_daily_pm25)
+
+state_pm25 <- rbindlist(state_pm25_list) #n = 4901769
+
+#Create .csv of individual monitors for mapping in tableau
+pm25_latlon <-
+  state_pm25 %>%
+  distinct(.,local_site_name, .keep_all = TRUE)
+
+write.csv(pm25_latlon, "data/processed/pm25_latlon.csv")
+
+#Remove unnecessary columns and data from PM2.5 table
+
+##Remove event_type "Excluded." From EPA: "Events Excluded means that events occurred but data form them is excluded from the summary. Concurred Events Excluded means that events occurred but only EPA concurred exclusions are removed from the summary. If an event occurred for the parameter in question, the data will have multiple records for each monitor."
+
+##Remove validity_indicator "N." From EPA: "[Validity indicator] An indicator whether the calculated value meets all completeness criteria to be considered valid."
+
+##Remove negative daily concentration readings. From monitor manufacturer: "What you should not see -  Negative 24-hour daily averages for PM10, PM2.5, or PM10-2.5 concentrations. This always means something is wrong."  https://metone.com/wp-content/uploads/2019/04/pm_coarse_resolution.pdf
+
+state_pm_sub <- state_pm25 %>%
+  filter(event_type != "Excluded", validity_indicator != "N", arithmetic_mean >= 0) #n = 4857549
+
+#Convert full state names to abbreviations
+state_pm_sub$state <- state.abb[match(state_pm_sub$state,
+                                  state.name)]
+
+#Create a table of average monthly readings by county
+avg_monthly_pm25 <- avg.monthly.pm25(state_pm_sub)
+avg_monthly_pm25$county <- tolower(avg_monthly_pm25$county)
+```
+
+#Build the panel
+
+```{r "Create the panel data set"}
+
+#Before combining, convert year and month cols in generation data to characters
+total_monthly_solargen <- total_monthly_solargen %>%
+  mutate(year = as.character(
+    year)) %>%
+   mutate(month = as.character(
+    month))
+
+# Combine monthly_pm with county_gen
+unbal_panel <- left_join(
+  total_monthly_solargen,
+  avg_monthly_pm25,
+  by = c(
+    "stateid" = "state",
+    "county" = "county",
+    "year" = "year",
+    "month" = "month"
+  )
+)
+
+#Convert state and county names to fips codes
+fips_codes <- fips(state = first(unbal_panel$stateid), county = unbal_panel$county)
+
+unbal_panel <- unbal_panel %>% group_by(stateid,county) %>% mutate(fips_codes = fips(state = first(stateid), county = county)) 
+
+unbal_panel$date <- paste(unbal_panel$year,
+                                unbal_panel$month,
+                                sep = "-")
+
+##Balancing the panel
+
+#Remove pre-2016 data (allows me to include LA and Orange County). Drops about 2700 obs
+bal_panel <-
+  unbal_panel[unbal_panel$year >= 2016,] 
+
+#Identify rows with missing values
+na_panel <-
+  is.na.data.frame(bal_panel$pm_measure)
+  #bal_panel[rowSums(is.na(bal_panel)) > 0,]
+
+#Identify all counties with missing data between 2016 and 2020
+county_na <- as.list(unique(na_panel$fips_codes))
+
+#Remove counties with missing data from the panel
+bal_panel <- subset(bal_panel, !(fips_codes %in% county_na))
+
+#Remove counties with less than 5 years of data
+bal_panel <- bal_panel %>%
+  group_by(fips_codes) %>%
+  filter(n() >= 60)
+
+#Unbalanced panel includes 9705 obs
+#Balanced panel includes 960 observations
+
+# Write data to .csv for easy loading
+write.csv(unbal_panel, "data/processed/unbalanced_panel_data.csv")
+write.csv(bal_panel, "data/processed/balanced_panel_data.csv")
+
+```

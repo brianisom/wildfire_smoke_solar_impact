@@ -1,0 +1,43 @@
+V1,V2,N
+"",  total_gen,Min.   :     0.3  
+"",  total_gen,1st Qu.:   217.2  
+"",  total_gen,Median :   627.7  
+"",  total_gen,Mean   :  6722.9  
+"",  total_gen,3rd Qu.:  2893.5  
+"",  total_gen,Max.   :498941.0  
+"", capacity_mw,Min.   :   0.20  
+"", capacity_mw,1st Qu.:   1.50  
+"", capacity_mw,Median :   4.00  
+"", capacity_mw,Mean   :  34.14  
+"", capacity_mw,3rd Qu.:  18.00  
+"", capacity_mw,Max.   :1396.40  
+"",    precip,Min.   : 0.00000  
+"",    precip,1st Qu.: 0.03667  
+"",    precip,Median : 0.46000  
+"",    precip,Mean   : 1.09487  
+"",    precip,3rd Qu.: 1.42691  
+"",    precip,Max.   :25.69000  
+"",     tmin,Min.   :-14.55  
+"",     tmin,1st Qu.: 39.80  
+"",     tmin,Median : 49.20  
+"",     tmin,Mean   : 49.09  
+"",     tmin,3rd Qu.: 59.50  
+"",     tmin,Max.   : 86.90  
+"",     tmax,Min.   : 10.40  
+"",     tmax,1st Qu.: 64.40  
+"",     tmax,Median : 76.00  
+"",     tmax,Mean   : 75.68  
+"",     tmax,3rd Qu.: 88.40  
+"",     tmax,Max.   :112.30  
+"",    tdmean,Min.   :-6.775  
+"",    tdmean,1st Qu.:28.712  
+"",    tdmean,Median :38.900  
+"",    tdmean,Mean   :37.947  
+"",    tdmean,3rd Qu.:47.000  
+"",    tdmean,Max.   :75.400  
+"",   total_pm,Min.   :   0.000  
+"",   total_pm,1st Qu.:   0.000  
+"",   total_pm,Median :   0.015  
+"",   total_pm,Mean   :  25.208  
+"",   total_pm,3rd Qu.:   8.212  
+"",   total_pm,Max.   :3705.564  

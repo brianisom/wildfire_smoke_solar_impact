@@ -1,0 +1,10 @@
+sector,entityid,entityName,plantName,plantid,balancing_authority_code,balancing.authority.name,status,county,nameplate.capacity.mw,operating.year.month,intersection,geoid,lat,lon
+ipp-non-chp,58863,Main Street Power,Paradise Valley H.S. PV,58293,AZPS,Arizona Public Service Company,OP,maricopa,1.3,2013-01,962,4013619600,33.6416,-111.9997
+ipp-non-chp,58863,Main Street Power,Paradise Valley H.S. PV,58293,AZPS,Arizona Public Service Company,OP,maricopa,1.3,2013-01,1257,4013103303,33.638333,-112
+commercial-non-chp,58649,Solar Star Arizona II LLC,Phoenix Airport East Economy Lot,58708,AZPS,Arizona Public Service Company,OP,maricopa,1.1,2012-12,1332,4013113802,33.4345,-111.9842
+commercial-non-chp,58649,Solar Star Arizona II LLC,Phoenix Airport East Economy Lot,58708,AZPS,Arizona Public Service Company,OP,maricopa,1.1,2012-12,651,4013113801,33.45,-111.98
+commercial-non-chp,58649,Solar Star Arizona II LLC,Phoenix Airport Rental Car Center,58709,AZPS,Arizona Public Service Company,OP,maricopa,1.6,2012-12,532,4013117200,33.43042,-112.04484
+ipp-non-chp,56769,Consolidated Edison Development Inc.,Panoche Valley Solar Farm,57340,CISO,California Independent System Operator,OP,san benito,140,2018-01,3852,6019008402,36.78005,-120.729752
+ipp-non-chp,56769,Consolidated Edison Development Inc.,Panoche Valley Solar Farm,57340,CISO,California Independent System Operator,OP,san benito,140,2018-01,7828,6069000802,36.627,-120.879
+ipp-non-chp,57354,X-Elio North America Inc,Rio Grande Solar,58500,CISO,California Independent System Operator,OP,kern,5,2013-12,1769,6029006500,35.00745,-118.16451
+ipp-non-chp,58480,"RE Rio Grande, LLC",Rio Grande Solar,58500,CISO,California Independent System Operator,OP,kern,5,2013-12,7644,6029005900,35.046667,-118.167222

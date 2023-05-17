@@ -1,0 +1,1726 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <z:Attachment rdf:about="#item_225">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/225/Air Pollution and the Labor Market.pdf"/>
+        <dc:title>Air Pollution and the Labor Market.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_231">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/231/Data Analysis Using Regression and MultilevelHierarchical Models by Andrew Gelman, Jennifer Hill (z-lib.org).pdf"/>
+        <dc:title>Data Analysis Using Regression and MultilevelHierarchical Models by Andrew Gelman, Jennifer Hill (z-lib.org).pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_239">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/239/Increased trends in global extreme fire weather driven predominately by atmosphereic humidity and temp.pdf"/>
+        <dc:title>Increased trends in global extreme fire weather driven predominately by atmosphereic humidity and temp.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/full/10.1080/21606544.2019.1630014">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2160-6544,%202160-6552"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burkhardt</foaf:surname>
+                        <foaf:givenName>Jesse</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bayham</foaf:surname>
+                        <foaf:givenName>Jude</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilson</foaf:surname>
+                        <foaf:givenName>Ander</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Berman</foaf:surname>
+                        <foaf:givenName>Jesse D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>O'Dell</foaf:surname>
+                        <foaf:givenName>Katelyn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ford</foaf:surname>
+                        <foaf:givenName>Bonne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fischer</foaf:surname>
+                        <foaf:givenName>Emily V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pierce</foaf:surname>
+                        <foaf:givenName>Jeffrey R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_218"/>
+        <dc:title>The relationship between monthly air pollution and violent crime across the United States</dc:title>
+        <dcterms:abstract>Recent evidence suggests a relationship between short-term pollution exposure and crime, with a particular emphasis on aggressive behavior. However, the previous analyses are limited in geographic scope. In this paper, we estimate the eﬀect of ﬁne particulate air pollution (PM2.5) exposure on crime across 99% of counties in the contiguous United States. We combine monthly data on crime, PM2.5, and satellite-derived smoke plumes for a ten-year period. We use adjusted satellite-based landscape ﬁre smoke plume data as an instrument for overall changes in PM2.5. Our ﬁndings are consistent with previous research and suggest that increases in PM2.5 raise violent crime rates, and speciﬁcally assaults. Our results indicate the eﬀect is relatively homogeneous across the U.S. However, we ﬁnd the eﬀect is positively correlated with county median age, suggesting older populations are more susceptible to changes in air pollution. Our results indicate a need for more research on the physiological and social mechanisms behind the measured eﬀects.</dcterms:abstract>
+        <dc:date>2020-04-02</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/21606544.2019.1630014</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:05</dcterms:dateSubmitted>
+        <bib:pages>188-205</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2160-6544,%202160-6552">
+        <prism:volume>9</prism:volume>
+        <dc:title>Journal of Environmental Economics and Policy</dc:title>
+        <dc:identifier>DOI 10.1080/21606544.2019.1630014</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Journal of Environmental Economics and Policy</dcterms:alternative>
+        <dc:identifier>ISSN 2160-6544, 2160-6552</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_218">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/218/Burkhardt et al. - 2020 - The relationship between monthly air pollution and.pdf"/>
+        <dc:title>Burkhardt et al. - 2020 - The relationship between monthly air pollution and.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-72810-494-2">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-72810-494-2</dc:identifier>
+                <dc:title>2019 IEEE 46th Photovoltaic Specialists Conference (PVSC)</dc:title>
+                <dc:identifier>DOI 10.1109/PVSC40753.2019.8980515</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Chicago, IL, USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peters</foaf:surname>
+                        <foaf:givenName>Ian Marius</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buonassisi</foaf:surname>
+                        <foaf:givenName>Tonio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_219"/>
+        <dc:title>The Impact of Global Warming on Silicon PV Energy Yield in 2100</dc:title>
+        <dcterms:abstract>While the installed photovoltaic (PV) capacity grows to a terawatt scale, effects of global climate change unfold. The question arises, how a changing climate, and especially raising temperatures, will affect the performance of PV installations in the future. In this paper we present an estimate of the reduction in energy yield for silicon PV installations due to global warming in the year 2100. Using IPCC warming scenarios and published temperature coefficients for today’s silicon PV panels, we project median reductions in annual energy output of 15kWh/kWP, with reductions up to 50kWh/kWP in some areas. Higher efficiency cells and advanced cell and module architectures can significantly reduce these losses.</dcterms:abstract>
+        <dc:date>6/2019</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/8980515/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:07</dcterms:dateSubmitted>
+        <bib:pages>3179-3181</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2019 IEEE 46th Photovoltaic Specialists Conference (PVSC)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_219">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/219/Peters and Buonassisi - 2019 - The Impact of Global Warming on Silicon PV Energy .pdf"/>
+        <dc:title>Peters and Buonassisi - 2019 - The Impact of Global Warming on Silicon PV Energy .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.science.org/doi/10.1126/sciadv.abc0020">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2375-2548"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Iglesias</foaf:surname>
+                        <foaf:givenName>Virginia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Balch</foaf:surname>
+                        <foaf:givenName>Jennifer K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Travis</foaf:surname>
+                        <foaf:givenName>William R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_220"/>
+        <dc:title>U.S. fires became larger, more frequent, and more widespread in the 2000s</dc:title>
+        <dcterms:abstract>Recent fires have fueled concerns that regional and global warming trends are leading to more extreme burning. We found compelling evidence that average fire events in regions of the United States are up to four times the size, triple the frequency, and more widespread in the 2000s than in the previous two decades. Moreover, the most extreme fires are also larger, more common, and more likely to co-occur with other extreme fires. This documented shift in burning patterns across most of the country aligns with the palpable change in fire dynamics noted by the media, public, and fire-fighting officials.
+          , 
+            Fires are more than twice as frequent and four times the size compared to previous decades.</dcterms:abstract>
+        <dc:date>2022-03-18</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.science.org/doi/10.1126/sciadv.abc0020</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:08</dcterms:dateSubmitted>
+        <bib:pages>eabc0020</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2375-2548">
+        <prism:volume>8</prism:volume>
+        <dc:title>Science Advances</dc:title>
+        <dc:identifier>DOI 10.1126/sciadv.abc0020</dc:identifier>
+        <prism:number>11</prism:number>
+        <dcterms:alternative>Sci. Adv.</dcterms:alternative>
+        <dc:identifier>ISSN 2375-2548</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_220">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/220/Iglesias et al. - 2022 - U.S. fires became larger, more frequent, and more .pdf"/>
+        <dc:title>Iglesias et al. - 2022 - U.S. fires became larger, more frequent, and more .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.nowpublishers.com/article/Details/JFE-0195">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:11046899"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kochi</foaf:surname>
+                        <foaf:givenName>Ikuho</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Champ</foaf:surname>
+                        <foaf:givenName>Patricia A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Loomis</foaf:surname>
+                        <foaf:givenName>John B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Donovan</foaf:surname>
+                        <foaf:givenName>Geoffrey H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_221"/>
+        <dc:title>Valuing mortality impacts of smoke exposure from major southern California wildfires</dc:title>
+        <dc:date>1/2012</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nowpublishers.com/article/Details/JFE-0195</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:10</dcterms:dateSubmitted>
+        <bib:pages>61-75</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:11046899">
+        <prism:volume>18</prism:volume>
+        <dc:title>Journal of Forest Economics</dc:title>
+        <dc:identifier>DOI 10.1016/j.jfe.2011.10.002</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>JFE</dcterms:alternative>
+        <dc:identifier>ISSN 11046899</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_221">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/221/Kochi et al. - 2012 - Valuing mortality impacts of smoke exposure from m.pdf"/>
+        <dc:title>Kochi et al. - 2012 - Valuing mortality impacts of smoke exposure from m.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/full/10.1080/13504851.2020.1730747">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1350-4851,%201466-4291"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mccoy</foaf:surname>
+                        <foaf:givenName>Shawn J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Xiaoxi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_222"/>
+        <dc:title>Wildfire and infant health: a geospatial approach to estimating the health impacts of wildfire smoke exposure</dc:title>
+        <dcterms:abstract>We estimate the eﬀects of wildﬁre smoke exposure on infant health. Exposure to wildﬁre smoke is determined using the latitude and longitude coordinates corresponding to each infant’s home address and a ﬁne-scaled spatial dataset of wildﬁre smoke plumes constructed in GIS from satellite images of the landscape. Using a diﬀerence-in-diﬀerences estimation strategy, model estimates show that exposure to wildﬁre smoke leads to a .034 increase in the probability of low birthweight.</dcterms:abstract>
+        <dc:date>2021-01-02</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Wildfire and infant health</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/13504851.2020.1730747</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:12</dcterms:dateSubmitted>
+        <bib:pages>32-37</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1350-4851,%201466-4291">
+        <prism:volume>28</prism:volume>
+        <dc:title>Applied Economics Letters</dc:title>
+        <dc:identifier>DOI 10.1080/13504851.2020.1730747</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Applied Economics Letters</dcterms:alternative>
+        <dc:identifier>ISSN 1350-4851, 1466-4291</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_222">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/222/Mccoy and Zhao - 2021 - Wildfire and infant health a geospatial approach .pdf"/>
+        <dc:title>Mccoy and Zhao - 2021 - Wildfire and infant health a geospatial approach .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0095069613000661">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00950696"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moeltner</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenName>M.-K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhu</foaf:surname>
+                        <foaf:givenName>E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_223"/>
+        <dc:title>Wildfire smoke and health impacts: A closer look at fire attributes and their marginal effects</dc:title>
+        <dcterms:abstract>Existing studies on the economic impact of wildfire smoke have focused on single fire events or entire seasons without considering the marginal effect of daily fire progression on downwind communities. Neither approach allows for an examination of the impact of even the most basic fire attributes, such as distance and fuel type, on air quality and health outcomes. Improved knowledge of these effects can provide important guidance for efficient wildfire management strategies. This study aims to bridge this gap using detailed information on 24 large-scale wildfires that sent smoke plumes to the Reno/Sparks area of Northern Nevada over a 4-year period. We relate the daily acreage burned by these fires to daily data on air pollutants and local hospital admissions. Using information on medical expenses, we compute the per-acre health cost of wildfires of different attributes. We find that patient counts can be causally linked to fires as far as 200–300 miles from the impact area. As expected, the marginal impact per acre burned generally diminishes with distance and for fires with lighter fuel loads. Our results also highlight the importance of allowing for temporal lags between fire occurrence and pollutant levels.</dcterms:abstract>
+        <dc:date>11/2013</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Wildfire smoke and health impacts</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0095069613000661</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:13</dcterms:dateSubmitted>
+        <bib:pages>476-496</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00950696">
+        <prism:volume>66</prism:volume>
+        <dc:title>Journal of Environmental Economics and Management</dc:title>
+        <dc:identifier>DOI 10.1016/j.jeem.2013.09.004</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Journal of Environmental Economics and Management</dcterms:alternative>
+        <dc:identifier>ISSN 00950696</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_223">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/223/Moeltner et al. - 2013 - Wildfire smoke and health impacts A closer look a.pdf"/>
+        <dc:title>Moeltner et al. - 2013 - Wildfire smoke and health impacts A closer look a.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2071-1050/14/15/9037">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2071-1050"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bertoletti</foaf:surname>
+                        <foaf:givenName>Augusto Zanin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Phan</foaf:surname>
+                        <foaf:givenName>Theresa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Campos do Prado</foaf:surname>
+                        <foaf:givenName>Josue</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_224"/>
+        <dc:title>Wildfire Smoke, Air Quality, and Renewable Energy—Examining the Impacts of the 2020 Wildfire Season in Washington State</dc:title>
+        <dcterms:abstract>The 2020 wildﬁre season was devastating, setting negative records in many states and regions around the world, especially in North America. Five of the six largest ﬁres in California’s recorded history burned in 2020. In the Paciﬁc Northwest region of the United States, Oregon and eastern Washington almost doubled their 10-year average of burnt acres recently. Depending on wind speed and direction conditions, the smoke from wildﬁres may signiﬁcantly impact the air quality and reduce solar photovoltaic (PV) generation even in regions located hundreds of kilometers away from high-risk zones. Thus, during those periods, power system operators must ensure reliability and resilience across power generation, transmission, and distribution, while minimizing carbon emissions that can harm the air quality of the affected communities during wildﬁre events even more. This paper analyzes the impact of the 2020 wildﬁre season in the state of Washington, verifying the wind speed and solar irradiance data, and correlating these with the particulate matter 2.5 (PM 2.5) concentration and aerosol optical thickness (AOT) through a multi-variable regression model. The results show that PV production may be signiﬁcantly reduced during the periods of high concentration of wildﬁre smoke and reduced wind speeds, thus highlighting the need for efﬁcient and sustainable power system operations during wildﬁre events.</dcterms:abstract>
+        <dc:date>2022-07-23</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2071-1050/14/15/9037</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:15</dcterms:dateSubmitted>
+        <bib:pages>9037</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2071-1050">
+        <prism:volume>14</prism:volume>
+        <dc:title>Sustainability</dc:title>
+        <dc:identifier>DOI 10.3390/su14159037</dc:identifier>
+        <prism:number>15</prism:number>
+        <dcterms:alternative>Sustainability</dcterms:alternative>
+        <dc:identifier>ISSN 2071-1050</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_224">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/224/Bertoletti et al. - 2022 - Wildfire Smoke, Air Quality, and Renewable Energy—.pdf"/>
+        <dc:title>Bertoletti et al. - 2022 - Wildfire Smoke, Air Quality, and Renewable Energy—.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/10.1002/pip.2860">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1062-7995,%201099-159X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Micheli</foaf:surname>
+                        <foaf:givenName>Leonardo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Muller</foaf:surname>
+                        <foaf:givenName>Matthew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_226"/>
+        <dc:title>An investigation of the key parameters for predicting PV soiling losses</dc:title>
+        <dcterms:abstract>One hundred and two environmental and meteorological parameters have been investigated and compared with the performance of twenty soiling stations installed in the USA, in order to determine their ability to predict the soiling losses occurring on PV systems. The results of this investigation showed that the annual average of the daily mean particulate matter values recorded by monitoring stations deployed near the PV systems are the best soiling predictors, with coefficients of determination (R2) as high as 0.82. The precipitation pattern was also found to be relevant: among the different meteorological parameters, the average length of dry periods had the best correlation with the soiling ratio. A preliminary investigation of two-variable regressions was attempted, and resulted in an adjusted R2 of 0.90 when a combination of PM2.5 and a binary classification for the average length of the dry period was introduced.</dcterms:abstract>
+        <dc:date>04/2017</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/10.1002/pip.2860</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:17</dcterms:dateSubmitted>
+        <bib:pages>291-307</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1062-7995,%201099-159X">
+        <prism:volume>25</prism:volume>
+        <dc:title>Progress in Photovoltaics: Research and Applications</dc:title>
+        <dc:identifier>DOI 10.1002/pip.2860</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>Prog. Photovolt: Res. Appl.</dcterms:alternative>
+        <dc:identifier>ISSN 1062-7995, 1099-159X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_226">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/226/Micheli and Muller - 2017 - An investigation of the key parameters for predict.pdf"/>
+        <dc:title>Micheli and Muller - 2017 - An investigation of the key parameters for predict.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/full/10.1080/10473289.2006.10464439">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1096-2247,%202162-2906"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Viswanathan</foaf:surname>
+                        <foaf:givenName>Shekar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eria</foaf:surname>
+                        <foaf:givenName>Luis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Diunugala</foaf:surname>
+                        <foaf:givenName>Nimal</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnson</foaf:surname>
+                        <foaf:givenName>Jeffrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McClean</foaf:surname>
+                        <foaf:givenName>Christopher</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_227"/>
+        <dc:title>An Analysis of Effects of San Diego Wildfire on Ambient Air Quality</dc:title>
+        <dc:date>01/2006</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/10473289.2006.10464439</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:19</dcterms:dateSubmitted>
+        <bib:pages>56-67</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1096-2247,%202162-2906">
+        <prism:volume>56</prism:volume>
+        <dc:title>Journal of the Air &amp; Waste Management Association</dc:title>
+        <dc:identifier>DOI 10.1080/10473289.2006.10464439</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Journal of the Air &amp; Waste Management Association</dcterms:alternative>
+        <dc:identifier>ISSN 1096-2247, 2162-2906</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_227">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/227/Viswanathan et al. - 2006 - An Analysis of Effects of San Diego Wildfire on Am.pdf"/>
+        <dc:title>Viswanathan et al. - 2006 - An Analysis of Effects of San Diego Wildfire on Am.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_256">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miller</foaf:surname>
+                        <foaf:givenName>Nolan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Molitor</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zou</foaf:surname>
+                        <foaf:givenName>Eric</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_228"/>
+        <dc:title>Blowing Smoke: Health Impacts of Wildfire Plume Dynamics</dc:title>
+        <dcterms:abstract>Long-range transport of wildfire smoke affects air quality on a broad geographic and temporal scale. Using a novel satellite-based dataset that allows us to observe daily smoke plume coverage for almost every location in the U.S. from 2006 to 2013, we find that transport of wildfire smoke generates frequent and significant variations in air pollution, especially fine particulate matter, for cities hundreds of miles away from the fire itself. We link this variation to Medicare administrative data to provide the first nationalscale evaluation of the health cost of wildfire pollution among the U.S. elderly. We show that wildfire smoke exposure poses a significant mortality risk for the elderly. The effect concentrates among individuals who live in areas with generally low background levels of air pollution. We find strong and consistent evidence that smoke exposure also increases healthcare use and spending.</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <bib:pages>35</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_228">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/228/Miller et al. - Blowing Smoke Health Impacts of Wildfire Plume Dy.pdf"/>
+        <dc:title>Miller et al. - Blowing Smoke Health Impacts of Wildfire Plume Dy.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://acp.copernicus.org/articles/18/1745/2018/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1680-7324"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brey</foaf:surname>
+                        <foaf:givenName>Steven J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ruminski</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Atwood</foaf:surname>
+                        <foaf:givenName>Samuel A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fischer</foaf:surname>
+                        <foaf:givenName>Emily V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_229"/>
+        <dc:title>Connecting smoke plumes to sources using Hazard Mapping System (HMS) smoke and fire location data over North America</dc:title>
+        <dcterms:abstract>Fires represent an air quality challenge because they are large, dynamic and transient sources of particulate matter and ozone precursors. Transported smoke can deteriorate air quality over large regions. Fire severity and frequency are likely to increase in the future, exacerbating an existing problem. Using the National Environmental Satellite, Data, and Information Service (NESDIS) Hazard Mapping System (HMS) smoke data for North America for the period 2007 to 2014, we examine a subset of ﬁres that are conﬁrmed to have produced sufﬁcient smoke to warrant the initiation of a U.S. National Weather Service smoke forecast. We ﬁnd that gridded HMS-analyzed ﬁres are well correlated (r = 0.84) with emissions from the Global Fire Emissions Inventory Database 4s (GFED4s). We deﬁne a new metric, smoke hours, by linking observed smoke plumes to active ﬁres using ensembles of forward trajectories. This work shows that the Southwest, Northwest, and Northwest Territories initiate the most air quality forecasts and produce more smoke than any other North American region by measure of the number of HYSPLIT points analyzed, the duration of those HYSPLIT points, and the total number of smoke hours produced. The average number of days with smoke plumes overhead is largest over the north-central United States. Only Alaska, the Northwest, the Southwest, and Southeast United States regions produce the majority of smoke plumes observed over their own borders. This work moves a new dataset from a daily operational setting to a research context, and it demonstrates how changes to the frequency or intensity of ﬁres in the western United States could impact other regions.</dcterms:abstract>
+        <dc:date>2018-02-06</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://acp.copernicus.org/articles/18/1745/2018/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:22</dcterms:dateSubmitted>
+        <bib:pages>1745-1761</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1680-7324">
+        <prism:volume>18</prism:volume>
+        <dc:title>Atmospheric Chemistry and Physics</dc:title>
+        <dc:identifier>DOI 10.5194/acp-18-1745-2018</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Atmos. Chem. Phys.</dcterms:alternative>
+        <dc:identifier>ISSN 1680-7324</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_229">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/229/Brey et al. - 2018 - Connecting smoke plumes to sources using Hazard Ma.pdf"/>
+        <dc:title>Brey et al. - 2018 - Connecting smoke plumes to sources using Hazard Ma.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://acp.copernicus.org/articles/12/6067/2012/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>12</prism:volume>
+                <dc:title>Atmospheric Chemistry and Physics</dc:title>
+                <dc:identifier>DOI 10.5194/acp-12-6067-2012</dc:identifier>
+                <prism:number>14</prism:number>
+                <dcterms:alternative>Atmos. Chem. Phys.</dcterms:alternative>
+                <dc:identifier>ISSN 1680-7324</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kirchstetter</foaf:surname>
+                        <foaf:givenName>T. W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thatcher</foaf:surname>
+                        <foaf:givenName>T. L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_230"/>
+        <dc:title>Contribution of organic carbon to wood smoke particulate matter absorption of solar radiation</dc:title>
+        <dcterms:abstract>A spectroscopic analysis of 115 wintertime particulate matter samples collected in rural California shows that wood smoke absorbs solar radiation with a strong spectral selectivity. This is consistent with prior work that has demonstrated that organic carbon (OC), in addition to black carbon (BC), appreciably absorbs solar radiation in the visible and ultraviolet spectral regions. We apportion light absorption to OC and BC and ﬁnd that the absorption A˚ ngstro¨m exponent of the light-absorbing OC in these samples ranges from 3.0 to 7.4 and averages 5.0. Further, we calculate that OC would account for 14 % and BC would account for 86 % of solar radiation absorbed by the wood smoke in the atmosphere (integrated over the solar spectrum from 300 to 2500 nm). OC would contribute 49 % of the wood smoke particulate matter absorption of ultraviolet solar radiation at wavelengths below 400 nm and, therefore, may affect tropospheric photochemistry. These results illustrate that BC is the dominant light-absorbing particulate matter species in atmospheres burdened with residential wood smoke and OC absorption is secondary but not insigniﬁcant. Further, these results add to the growing body of evidence that lightabsorbing OC is ubiquitous in atmospheres inﬂuenced by biomass burning and may be important to include when considering particulate matter effects on climate.</dcterms:abstract>
+        <dc:date>2012-07-16</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://acp.copernicus.org/articles/12/6067/2012/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:24</dcterms:dateSubmitted>
+        <bib:pages>6067-6072</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_230">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/230/Kirchstetter and Thatcher - 2012 - Contribution of organic carbon to wood smoke parti.pdf"/>
+        <dc:title>Kirchstetter and Thatcher - 2012 - Contribution of organic carbon to wood smoke parti.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.nrcresearchpress.com/doi/10.1139/x05-293">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0045-5067,%201208-6037"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rittmaster</foaf:surname>
+                        <foaf:givenName>R</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adamowicz</foaf:surname>
+                        <foaf:givenName>W L</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amiro</foaf:surname>
+                        <foaf:givenName>B</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pelletier</foaf:surname>
+                        <foaf:givenName>R T</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_232"/>
+        <dc:title>Economic analysis of health effects from forest fires</dc:title>
+        <dcterms:abstract>Epidemiological studies have shown that high levels of fine particulate matter (PM) are correlated with adverse human health effects. Approximately one-third of PM emissions in Canada originate from forest fires. However, air quality concerns are not typically included in resource allocation decisions in fire management. In this paper we examine the economic magnitude of these health concerns and compare them to other costs of forest fires using the 2001 fire in Chisholm, Alberta, as a case study. We construct an empirical air dispersion model to estimate the concentration of PM arising from the fire. Benefit transfer methods were used to determine the health impacts associated with elevated PM from the fire and to value these impacts. The economic impacts appear to be substantial, second only to timber losses. The approaches used in this case study can be extended to construct a map that identifies the values at risk from health effects. The use of monetary values of these impacts helps in comparison and aggregation of the values at risk.</dcterms:abstract>
+        <dc:date>2006-04-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.nrcresearchpress.com/doi/10.1139/x05-293</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:26</dcterms:dateSubmitted>
+        <bib:pages>868-877</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0045-5067,%201208-6037">
+        <prism:volume>36</prism:volume>
+        <dc:title>Canadian Journal of Forest Research</dc:title>
+        <dc:identifier>DOI 10.1139/x05-293</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>Can. J. For. Res.</dcterms:alternative>
+        <dc:identifier>ISSN 0045-5067, 1208-6037</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_232">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/232/Rittmaster et al. - 2006 - Economic analysis of health effects from forest fi.pdf"/>
+        <dc:title>Rittmaster et al. - 2006 - Economic analysis of health effects from forest fi.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0095069619301901">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>98</prism:volume>
+                <dc:title>Journal of Environmental Economics and Management</dc:title>
+                <dc:identifier>DOI 10.1016/j.jeem.2019.102267</dc:identifier>
+                <dcterms:alternative>Journal of Environmental Economics and Management</dcterms:alternative>
+                <dc:identifier>ISSN 00950696</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burkhardt</foaf:surname>
+                        <foaf:givenName>Jesse</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bayham</foaf:surname>
+                        <foaf:givenName>Jude</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilson</foaf:surname>
+                        <foaf:givenName>Ander</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carter</foaf:surname>
+                        <foaf:givenName>Ellison</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Berman</foaf:surname>
+                        <foaf:givenName>Jesse D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>O'Dell</foaf:surname>
+                        <foaf:givenName>Katelyn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ford</foaf:surname>
+                        <foaf:givenName>Bonne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fischer</foaf:surname>
+                        <foaf:givenName>Emily V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pierce</foaf:surname>
+                        <foaf:givenName>Jeffrey R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_233"/>
+        <dc:title>The effect of pollution on crime: Evidence from data on particulate matter and ozone</dc:title>
+        <dcterms:abstract>We estimate the effect of short-term air pollution exposure (PM2.5 and ozone) on several categories of crime, with a particular emphasis on aggressive behavior. To identify this relationship, we combine detailed daily data on crime, air pollution, and weather for an eightyear period across the United States. Our primary identiﬁcation strategy employs extremely high dimensional ﬁxed effects and we perform a series of robustness checks to address confounding variation between temperature and air pollution. We ﬁnd a robust positive effect of increased air pollution on violent crimes, and speciﬁcally assaults, but no relationship between increases in air pollution and property crimes. The effects are present in and out of the home, at levels well below Ambient Air Pollution Standards, and PM2.5 effects are strongest at lower temperatures. The results suggest that a 10% reduction in daily PM2.5 and ozone could save $1.4 billion in crime costs per year, a previously overlooked cost associated with pollution.</dcterms:abstract>
+        <dc:date>11/2019</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The effect of pollution on crime</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0095069619301901</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:28</dcterms:dateSubmitted>
+        <bib:pages>102267</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_233">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/233/Burkhardt et al. - 2019 - The effect of pollution on crime Evidence from da.pdf"/>
+        <dc:title>Burkhardt et al. - 2019 - The effect of pollution on crime Evidence from da.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.nature.com/articles/s41560-019-0412-4">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2058-7546"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sweerts</foaf:surname>
+                        <foaf:givenName>Bart</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pfenninger</foaf:surname>
+                        <foaf:givenName>Stefan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Su</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Folini</foaf:surname>
+                        <foaf:givenName>Doris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van der Zwaan</foaf:surname>
+                        <foaf:givenName>Bob</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wild</foaf:surname>
+                        <foaf:givenName>Martin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_234"/>
+        <dc:title>Estimation of losses in solar energy production from air pollution in China since 1960 using surface radiation data</dc:title>
+        <dc:date>8/2019</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.nature.com/articles/s41560-019-0412-4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:31</dcterms:dateSubmitted>
+        <bib:pages>657-663</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2058-7546">
+        <prism:volume>4</prism:volume>
+        <dc:title>Nature Energy</dc:title>
+        <dc:identifier>DOI 10.1038/s41560-019-0412-4</dc:identifier>
+        <prism:number>8</prism:number>
+        <dcterms:alternative>Nat Energy</dcterms:alternative>
+        <dc:identifier>ISSN 2058-7546</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_234">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/234/Sweerts et al. - 2019 - Estimation of losses in solar energy production fr.pdf"/>
+        <dc:title>Sweerts et al. - 2019 - Estimation of losses in solar energy production fr.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_262">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gruber</foaf:surname>
+                        <foaf:givenName>Anja</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_235"/>
+        <dc:title>The Impact of Wildfires on Internal Migration in the United States</dc:title>
+        <dcterms:abstract>Wildfires are threatening the lives and livelihoods of more and more Americans each year. The increase in threat is driven by growing wildfire activity, in part a result of climate change, and by a large expansion of the number of homes located in Wildland Urban Interface (WUI) areas. Increasing amounts of tax payer funds are directed to areas at severe risk of wildfires in order to mitigate and fight wildfires. In this paper, I study how direct wildfire exposure affects the nature of these welfare transfers by evaluating the impact of wildfires on local migration patterns. I obtain records of all wildfire perimeters in the United States from 2000-18 and ZIP code level IRS data on the number of individuals claiming exemptions within an income category and conduct a difference-in-difference analysis as well as a robustness check using the two-way fixed effects framework with multiple time periods as proposed by Callaway and Sant’Anna (2020). I find that ZIP code level wildfire exposure, when an area has not recently experienced a wildfire, leads to an increase (2%) in net migration and a small shift away from low-income households. I do not find this same impact when an area is exposed to a second wildfire within a 19 year time period, suggesting that wildfires have the greatest impact when communities have not historically dealt with a threat of fire. Together with an observed increase in home prices (5%) and an increase in annual payroll (2%), these results suggest that local, state, and federal agency spending in the wake of a wildfire as well as property insurance policies may play an important role the mechanisms through which wildfires affect local net migration. My analysis implies that federal firefighting and other fire mitigation expenditures may become increasingly regressive welfare transfers.</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <bib:pages>30</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_235">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/235/Gruber - The Impact of Wildfires on Internal Migration in t.pdf"/>
+        <dc:title>Gruber - The Impact of Wildfires on Internal Migration in t.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://scholarcommons.usf.edu/jea/vol7/iss1/3/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1528-6509,%202162-4593"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fowler</foaf:surname>
+                        <foaf:givenName>Cynthia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_236"/>
+        <dc:title>Human Health Impacts of Forest Fires in the Southern United States: A Literature Review</dc:title>
+        <dcterms:abstract>Forestry management practices can shape patterns of health, illness, and disease. A primary goal for owners of federal, state, and private forests is to craft ecosystem management plans that simultaneously optimize forest health and human health. Fire––a major forest management issue in the United States––complicates these goals. Wildﬁres are natural phenomena with unpredictable effects. Controlled ﬁres, on the other hand, are often prescribed to reduce biomass fuels, reduce wildﬁre risks, and protect resource values. While ﬁres can enhance the health of ﬁre-adapted ecosystems, research on the human health impacts of smoke from forest ﬁres is somewhat equivocal. This article synthesizes 30 years of research on the human health impacts of forest ﬁres. It summarizes our current state of knowledge about the following: biophysical effects of environmental contamination resulting from forest ﬁres; psychosocial impacts of forest ﬁres; occupational exposure issues among ﬁre crew; visibility impairment from forest ﬁre smoke; and health care measures that address the impacts of forest ﬁres. This article provides information that may be useful for land managers, researchers, policy makers, health care workers, and the general public in decision-making about forest management practices. It also recommends that future research use integrative health models and adopt ethnographic research methods.</dcterms:abstract>
+        <dc:date>01/2003</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Human Health Impacts of Forest Fires in the Southern United States</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://scholarcommons.usf.edu/jea/vol7/iss1/3/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:33</dcterms:dateSubmitted>
+        <bib:pages>39-63</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1528-6509,%202162-4593">
+        <prism:volume>7</prism:volume>
+        <dc:title>Journal of Ecological Anthropology</dc:title>
+        <dc:identifier>DOI 10.5038/2162-4593.7.1.3</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>JEA</dcterms:alternative>
+        <dc:identifier>ISSN 1528-6509, 2162-4593</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_236">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/236/Fowler - 2003 - Human Health Impacts of Forest Fires in the Southe.pdf"/>
+        <dc:title>Fowler - 2003 - Human Health Impacts of Forest Fires in the Southe.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_264">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>98</prism:volume>
+                <dc:title>Journal of Environmental Economics and Management</dc:title>
+                <dc:identifier>DOI 10.1016/j.jeem.2019.102267</dc:identifier>
+                <dcterms:alternative>Journal of Environmental Economics and Management</dcterms:alternative>
+                <dc:identifier>ISSN 00950696</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burkhardt</foaf:surname>
+                        <foaf:givenName>Jesse</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bayham</foaf:surname>
+                        <foaf:givenName>Jude</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilson</foaf:surname>
+                        <foaf:givenName>Ander</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carter</foaf:surname>
+                        <foaf:givenName>Ellison</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Berman</foaf:surname>
+                        <foaf:givenName>Jesse D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>O'Dell</foaf:surname>
+                        <foaf:givenName>Katelyn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ford</foaf:surname>
+                        <foaf:givenName>Bonne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fischer</foaf:surname>
+                        <foaf:givenName>Emily V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pierce</foaf:surname>
+                        <foaf:givenName>Jeffrey R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_237"/>
+        <dc:title>The effect of pollution on crime: Evidence from data on particulate matter and ozone</dc:title>
+        <dcterms:abstract>We estimate the effect of short-term air pollution exposure (PM2.5 and ozone) on several categories of crime, with a particular emphasis on aggressive behavior. To identify this relationship, we combine detailed daily data on crime, air pollution, and weather for an eightyear period across the United States. Our primary identiﬁcation strategy employs extremely high dimensional ﬁxed effects and we perform a series of robustness checks to address confounding variation between temperature and air pollution. We ﬁnd a robust positive effect of increased air pollution on violent crimes, and speciﬁcally assaults, but no relationship between increases in air pollution and property crimes. The effects are present in and out of the home, at levels well below Ambient Air Pollution Standards, and PM2.5 effects are strongest at lower temperatures. The results suggest that a 10% reduction in daily PM2.5 and ozone could save $1.4 billion in crime costs per year, a previously overlooked cost associated with pollution.</dcterms:abstract>
+        <dc:date>11/2019</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The effect of pollution on crime</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0095069619301901</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:35</dcterms:dateSubmitted>
+        <bib:pages>102267</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_237">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/237/Burkhardt et al. - 2019 - The effect of pollution on crime Evidence from da.pdf"/>
+        <dc:title>Burkhardt et al. - 2019 - The effect of pollution on crime Evidence from da.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S1389934121002252">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:13899341"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gellman</foaf:surname>
+                        <foaf:givenName>Jacob</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Walls</foaf:surname>
+                        <foaf:givenName>Margaret</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wibbenmeyer</foaf:surname>
+                        <foaf:givenName>Matthew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_238"/>
+        <dc:title>Wildfire, smoke, and outdoor recreation in the western United States</dc:title>
+        <dcterms:abstract>Wildfire activity is increasing in the western United States at a time when outdoor recreation is growing in popularity. Because peak outdoor recreation and wildfire seasons overlap, fires can disrupt recreation and expose people to poor air quality. We link daily data on campground use at 1069 public campgrounds across the western United States over a ten-year period to daily satellite data on wildfire and smoke. We use this data set to (1) tabulate the number of campers affected by wildfire and smoke at campgrounds across the western US, and (2) provide estimates of how campground use responds to wildfire and smoke impacts, including the first causal estimates of the impacts of wildfire smoke on recreation behavior. We find that, on average, more than 120,000 campground visitor-days per year are close to an actively burning fire and nearly 400,000 are impacted by adverse smoke conditions. In some regions more than 10% of camper-days occur when air quality is poor due to wildfire smoke. Combining the results with monthly national park visitation data at the 30 parks in our sample, we estimate that fire and smoke affect 400,000 and 1 million visitor-days per year, respectively. Using fixed effects panel regressions at the campground level, we estimate declines in campground use in response to fire and smoke. The magnitude of the smoke effect is small, however, suggesting that smoke fails to deter most visitors to public lands. Back-of-the envelope calculations based on our findings and estimates from the literature suggest that most of the total welfare losses accruing to campers due to smoke occurs via health impacts from trips taken in spite of smoky conditions, rather than due to cancelled trips.</dcterms:abstract>
+        <dc:date>01/2022</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S1389934121002252</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:37</dcterms:dateSubmitted>
+        <bib:pages>102619</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:13899341">
+        <prism:volume>134</prism:volume>
+        <dc:title>Forest Policy and Economics</dc:title>
+        <dc:identifier>DOI 10.1016/j.forpol.2021.102619</dc:identifier>
+        <dcterms:alternative>Forest Policy and Economics</dcterms:alternative>
+        <dc:identifier>ISSN 13899341</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_238">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/238/Gellman et al. - 2022 - Wildfire, smoke, and outdoor recreation in the wes.pdf"/>
+        <dc:title>Gellman et al. - 2022 - Wildfire, smoke, and outdoor recreation in the wes.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acs.estlett.7b00197">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2328-8930,%202328-8930"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bergin</foaf:surname>
+                        <foaf:givenName>Mike H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ghoroi</foaf:surname>
+                        <foaf:givenName>Chinmay</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dixit</foaf:surname>
+                        <foaf:givenName>Deepa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schauer</foaf:surname>
+                        <foaf:givenName>James J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shindell</foaf:surname>
+                        <foaf:givenName>Drew T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_240"/>
+        <dc:title>Large Reductions in Solar Energy Production Due to Dust and Particulate Air Pollution</dc:title>
+        <dcterms:abstract>Atmospheric particulate matter (PM) has the potential to diminish solar energy production by direct and indirect radiative forcing as well as by being deposited on solar panel surfaces, thereby reducing solar energy transmittance to photovoltaics. Worldwide solar energy production is expected to increase more rapidly than any other energy source into the middle of this century, especially in regions that experience high levels of dust and/or anthropogenic particulate pollutants, including large areas of India, China, and the Arabian Peninsula. Here we combine ﬁeld measurements and global modeling to estimate the inﬂuence of dust and PM related to anthropogenic sources (e.g., fossil and biomass fuel combustion) on solar electricity generation. Results indicate that solar energy production is currently reduced by ∼17−25% across these regions, with roughly equal contributions from ambient PM and PM deposited on photovoltaic surfaces. Reductions due to dust and anthropogenic PM are comparable in northern India, whereas over eastern China, anthropogenic PM dominates. On the basis of current solar generation capacity, PM is responsible for ∼1 and ∼11 GW of solar power reduction in India and China, respectively, underscoring the large role that PM plays in reducing solar power generation output.</dcterms:abstract>
+        <dc:date>2017-08-08</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acs.estlett.7b00197</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:39</dcterms:dateSubmitted>
+        <bib:pages>339-344</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2328-8930,%202328-8930">
+        <prism:volume>4</prism:volume>
+        <dc:title>Environmental Science &amp; Technology Letters</dc:title>
+        <dc:identifier>DOI 10.1021/acs.estlett.7b00197</dc:identifier>
+        <prism:number>8</prism:number>
+        <dcterms:alternative>Environ. Sci. Technol. Lett.</dcterms:alternative>
+        <dc:identifier>ISSN 2328-8930, 2328-8930</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_240">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/240/Bergin et al. - 2017 - Large Reductions in Solar Energy Production Due to.pdf"/>
+        <dc:title>Bergin et al. - 2017 - Large Reductions in Solar Energy Production Due to.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pnas.org/doi/full/10.1073/pnas.2012218117">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0027-8424,%201091-6490"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Palm</foaf:surname>
+                        <foaf:givenName>Brett B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peng</foaf:surname>
+                        <foaf:givenName>Qiaoyun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fredrickson</foaf:surname>
+                        <foaf:givenName>Carley D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Ben H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garofalo</foaf:surname>
+                        <foaf:givenName>Lauren A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pothier</foaf:surname>
+                        <foaf:givenName>Matson A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kreidenweis</foaf:surname>
+                        <foaf:givenName>Sonia M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Farmer</foaf:surname>
+                        <foaf:givenName>Delphine K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pokhrel</foaf:surname>
+                        <foaf:givenName>Rudra P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shen</foaf:surname>
+                        <foaf:givenName>Yingjie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Murphy</foaf:surname>
+                        <foaf:givenName>Shane M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Permar</foaf:surname>
+                        <foaf:givenName>Wade</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Lu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Campos</foaf:surname>
+                        <foaf:givenName>Teresa L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hall</foaf:surname>
+                        <foaf:givenName>Samuel R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ullmann</foaf:surname>
+                        <foaf:givenName>Kirk</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Xuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Flocke</foaf:surname>
+                        <foaf:givenName>Frank</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fischer</foaf:surname>
+                        <foaf:givenName>Emily V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thornton</foaf:surname>
+                        <foaf:givenName>Joel A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_241"/>
+        <dc:title>Quantification of organic aerosol and brown carbon evolution in fresh wildfire plumes</dc:title>
+        <dcterms:abstract>Significance
+            
+              Wildfire emissions in the western United States have had increasingly larger impacts on air quality, health, and climate forcing in recent decades. However, our understanding of how wildfire plume composition evolves remains incomplete. Particularly, the evolution of carbonaceous material, including fine particle mass (PM
+              2.5
+              ) and light-absorbing brown carbon, has remained elusive because of limited knowledge about the interplay between primary emissions and subsequent chemical and physical transformations that convert material between vapors and particles. Using a comprehensive analysis of in situ wildfire smoke measurements in combination with simulation chamber experiments, we quantitatively assess primary versus secondary organic particulate matter and brown carbon light absorption in authentic wildfires plumes. These results improve our fundamental knowledge of wildfire plume composition and evolution.
+            
+          , 
+            
+              The evolution of organic aerosol (OA) and brown carbon (BrC) in wildfire plumes, including the relative contributions of primary versus secondary sources, has been uncertain in part because of limited knowledge of the precursor emissions and the chemical environment of smoke plumes. We made airborne measurements of a suite of reactive trace gases, particle composition, and optical properties in fresh western US wildfire smoke in July through August 2018. We use these observations to quantify primary versus secondary sources of biomass-burning OA (BBPOA versus BBSOA) and BrC in wildfire plumes. When a daytime wildfire plume dilutes by a factor of 5 to 10, we estimate that up to one-third of the primary OA has evaporated and subsequently reacted to form BBSOA with near unit yield. The reactions of measured BBSOA precursors contribute only 13 ± 3% of the total BBSOA source, with evaporated BBPOA comprising the rest. We find that oxidation of phenolic compounds contributes the majority of BBSOA from emitted vapors. The corresponding particulate nitrophenolic compounds are estimated to explain 29 ± 15% of average BrC light absorption at 405 nm (BrC Abs
+              405
+              ) measured in the first few hours of plume evolution, despite accounting for just 4 ± 2% of average OA mass. These measurements provide quantitative constraints on the role of dilution-driven evaporation of OA and subsequent radical-driven oxidation on the fate of biomass-burning OA and BrC in daytime wildfire plumes and point to the need to understand how processing of nighttime emissions differs.</dcterms:abstract>
+        <dc:date>2020-11-24</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pnas.org/doi/full/10.1073/pnas.2012218117</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:42</dcterms:dateSubmitted>
+        <bib:pages>29469-29477</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0027-8424,%201091-6490">
+        <prism:volume>117</prism:volume>
+        <dc:title>Proceedings of the National Academy of Sciences</dc:title>
+        <dc:identifier>DOI 10.1073/pnas.2012218117</dc:identifier>
+        <prism:number>47</prism:number>
+        <dcterms:alternative>Proc. Natl. Acad. Sci. U.S.A.</dcterms:alternative>
+        <dc:identifier>ISSN 0027-8424, 1091-6490</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_241">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/241/Palm et al. - 2020 - Quantification of organic aerosol and brown carbon.pdf"/>
+        <dc:title>Palm et al. - 2020 - Quantification of organic aerosol and brown carbon.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-66541-922-2">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-66541-922-2</dc:identifier>
+                <dc:title>2021 IEEE 48th Photovoltaic Specialists Conference (PVSC)</dc:title>
+                <dc:identifier>DOI 10.1109/PVSC43889.2021.9518440</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Fort Lauderdale, FL, USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keelin</foaf:surname>
+                        <foaf:givenName>Patrick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kubiniec</foaf:surname>
+                        <foaf:givenName>Alex</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bhat</foaf:surname>
+                        <foaf:givenName>Akanksha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perez</foaf:surname>
+                        <foaf:givenName>Marc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dise</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perez</foaf:surname>
+                        <foaf:givenName>Richard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schlemmer</foaf:surname>
+                        <foaf:givenName>James</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_242"/>
+        <dc:title>Quantifying the solar impacts of wildfire smoke in western North America</dc:title>
+        <dc:date>2021-6-20</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/9518440/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:43</dcterms:dateSubmitted>
+        <bib:pages>1401-1404</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2021 IEEE 48th Photovoltaic Specialists Conference (PVSC)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_242">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/242/Keelin et al. - 2021 - Quantifying the solar impacts of wildfire smoke in.pdf"/>
+        <dc:title>Keelin et al. - 2021 - Quantifying the solar impacts of wildfire smoke in.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://ieeexplore.ieee.org/document/9518440/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-66541-922-2</dc:identifier>
+                <dc:title>2021 IEEE 48th Photovoltaic Specialists Conference (PVSC)</dc:title>
+                <dc:identifier>DOI 10.1109/PVSC43889.2021.9518440</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Fort Lauderdale, FL, USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keelin</foaf:surname>
+                        <foaf:givenName>Patrick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kubiniec</foaf:surname>
+                        <foaf:givenName>Alex</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bhat</foaf:surname>
+                        <foaf:givenName>Akanksha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perez</foaf:surname>
+                        <foaf:givenName>Marc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dise</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perez</foaf:surname>
+                        <foaf:givenName>Richard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schlemmer</foaf:surname>
+                        <foaf:givenName>James</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_243"/>
+        <dc:title>Quantifying the solar impacts of wildfire smoke in western North America</dc:title>
+        <dc:date>2021-6-20</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/9518440/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:45</dcterms:dateSubmitted>
+        <bib:pages>1401-1404</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2021 IEEE 48th Photovoltaic Specialists Conference (PVSC)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_243">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/243/Keelin et al. - 2021 - Quantifying the solar impacts of wildfire smoke in.pdf"/>
+        <dc:title>Keelin et al. - 2021 - Quantifying the solar impacts of wildfire smoke in.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_270">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>14</prism:volume>
+                <dc:title>Sustainability</dc:title>
+                <dc:identifier>DOI 10.3390/su14159037</dc:identifier>
+                <prism:number>15</prism:number>
+                <dcterms:alternative>Sustainability</dcterms:alternative>
+                <dc:identifier>ISSN 2071-1050</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bertoletti</foaf:surname>
+                        <foaf:givenName>Augusto Zanin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Phan</foaf:surname>
+                        <foaf:givenName>Theresa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Campos do Prado</foaf:surname>
+                        <foaf:givenName>Josue</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_244"/>
+        <dc:title>Wildfire Smoke, Air Quality, and Renewable Energy—Examining the Impacts of the 2020 Wildfire Season in Washington State</dc:title>
+        <dcterms:abstract>The 2020 wildﬁre season was devastating, setting negative records in many states and regions around the world, especially in North America. Five of the six largest ﬁres in California’s recorded history burned in 2020. In the Paciﬁc Northwest region of the United States, Oregon and eastern Washington almost doubled their 10-year average of burnt acres recently. Depending on wind speed and direction conditions, the smoke from wildﬁres may signiﬁcantly impact the air quality and reduce solar photovoltaic (PV) generation even in regions located hundreds of kilometers away from high-risk zones. Thus, during those periods, power system operators must ensure reliability and resilience across power generation, transmission, and distribution, while minimizing carbon emissions that can harm the air quality of the affected communities during wildﬁre events even more. This paper analyzes the impact of the 2020 wildﬁre season in the state of Washington, verifying the wind speed and solar irradiance data, and correlating these with the particulate matter 2.5 (PM 2.5) concentration and aerosol optical thickness (AOT) through a multi-variable regression model. The results show that PV production may be signiﬁcantly reduced during the periods of high concentration of wildﬁre smoke and reduced wind speeds, thus highlighting the need for efﬁcient and sustainable power system operations during wildﬁre events.</dcterms:abstract>
+        <dc:date>2022-07-23</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2071-1050/14/15/9037</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:47</dcterms:dateSubmitted>
+        <bib:pages>9037</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_244">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/244/Bertoletti et al. - 2022 - Wildfire Smoke, Air Quality, and Renewable Energy—.pdf"/>
+        <dc:title>Bertoletti et al. - 2022 - Wildfire Smoke, Air Quality, and Renewable Energy—.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ieeexplore.ieee.org/document/9442713/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2169-3536"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Donaldson</foaf:surname>
+                        <foaf:givenName>Daniel L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Piper</foaf:surname>
+                        <foaf:givenName>David M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jayaweera</foaf:surname>
+                        <foaf:givenName>Dilan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_245"/>
+        <dc:title>Temporal Solar Photovoltaic Generation Capacity Reduction From Wildfire Smoke</dc:title>
+        <dcterms:abstract>Wildﬁre smoke and other particulate matter can substantially inhibit solar photovoltaic (PV) generation production. While solar PV facilities may not be located in areas with a high ﬁre risk, smoke from wildﬁres can travel hundreds of kilometers impacting a large number of facilities. This paper proposes a geospatial wildﬁre PV capacity model to quantify the anticipated temporal reduction in PV capacity due to wildﬁre smoke. A case study using data for two time periods from the 2020 California wildﬁres and real utility scale solar generation data evidences the model’s high accuracy. Results argue that wildﬁre smoke can cause signiﬁcant temporal solar generation capacity reductions over wide geographic regions. Application of the proposed model to inform power system resiliency planning is demonstrated for two use cases: generation scheduling and siting. With meteorological service providers beginning to release smoke forecasts, our geospatial wildﬁre PV capacity model enables balancing authorities to make use of this information to proactively schedule generation to compensate for reductions in PV capacity. The trained model also produces geospatial derate maps that can enable generation developers to consider historical capacity derates due to smoke when making siting or planning decisions.</dcterms:abstract>
+        <dc:date>2021</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/9442713/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:48</dcterms:dateSubmitted>
+        <bib:pages>79841-79852</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2169-3536">
+        <prism:volume>9</prism:volume>
+        <dc:title>IEEE Access</dc:title>
+        <dc:identifier>DOI 10.1109/ACCESS.2021.3084528</dc:identifier>
+        <dcterms:alternative>IEEE Access</dcterms:alternative>
+        <dc:identifier>ISSN 2169-3536</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_245">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/245/Donaldson et al. - 2021 - Temporal Solar Photovoltaic Generation Capacity Re.pdf"/>
+        <dc:title>Donaldson et al. - 2021 - Temporal Solar Photovoltaic Generation Capacity Re.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://iopscience.iop.org/article/10.1088/1748-9326/ab905b">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1748-9326"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Son</foaf:surname>
+                        <foaf:givenName>Junghoon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jeong</foaf:surname>
+                        <foaf:givenName>Sujong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Park</foaf:surname>
+                        <foaf:givenName>Hayoung</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Park</foaf:surname>
+                        <foaf:givenName>Chang-Eui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_246"/>
+        <dc:title>The effect of particulate matter on solar photovoltaic power generation over the Republic of Korea</dc:title>
+        <dcterms:abstract>Abstract
+            
+              Degradation in air quality could be a potential factor for decreasing solar photovoltaic (PV) power generation. However, our understandings of the potential of airborne particulate matter (PM) to reduce actual solar PV power generation remain unclear. This study quantifies attenuation impacts of airborne PM on solar PV power generation on cloudless days at Yeongam and Eunpyeong-gu power plants installed in the Republic of Korea. The reduction rate of solar PV power generation according to the substantial amount of PM is calculated by constructing multiple regression models based on actual solar PV power generation record, observed meteorological parameters, and measured PM2.5 and PM10 concentrations for 2015–2017. At both power plants, PM2.5 and PM10 commonly reduce solar PV power generation by more than 10% of the maximum capacity under the conditions of ‘normal’ air quality, 35
+              μ
+              g m
+              −3
+              and 80
+              μ
+              g m
+              −3
+              for PM2.5 and PM10, respectively. Moreover, the reduction rate of solar PV power generation exceeds 20% of the maximum capacity under ‘bad’ air quality, 75
+              μ
+              g m
+              −3
+              and 150
+              μ
+              g m
+              −3
+              for PM2.5 and PM10, respectively. Results show that the negative impacts of PM on solar PV power generation should be considered in the process of policymaking on target solar power generation in Korea, as well as in countries with high PM emissions.</dcterms:abstract>
+        <dc:date>2020-08-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://iopscience.iop.org/article/10.1088/1748-9326/ab905b</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-12 17:32:50</dcterms:dateSubmitted>
+        <bib:pages>084004</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1748-9326">
+        <prism:volume>15</prism:volume>
+        <dc:title>Environmental Research Letters</dc:title>
+        <dc:identifier>DOI 10.1088/1748-9326/ab905b</dc:identifier>
+        <prism:number>8</prism:number>
+        <dcterms:alternative>Environ. Res. Lett.</dcterms:alternative>
+        <dc:identifier>ISSN 1748-9326</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_246">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/246/Son et al. - 2020 - The effect of particulate matter on solar photovol.pdf"/>
+        <dc:title>Son et al. - 2020 - The effect of particulate matter on solar photovol.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>

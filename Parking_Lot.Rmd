@@ -1,0 +1,472 @@
+---
+title: "Panel Analysis of the impact of WF Smoke on Solar Gen: West US 2013-2020"
+subtitle: "Parking Lot"
+output: 
+  html_document: default
+  md_document:
+    variant: markdown_github
+---
+~~~~~~~ Parking Lot ~~~~~~
+
+```{r "Pulling PM2.5 monitor characteristics from EPA", eval=FALSE}
+
+#Define key parameters
+EPAkey <- "blueswift59"
+parameter <- "88101"  #Returns local PM 2.5 measures
+bdate <- "20200101"
+edate <- "20201231"
+frequency <- "monthly"
+state <- "06"
+county <- c("067","013","005","017","009","061","077","095","113","101")
+n_iter <- 10
+  
+# Initializes the progress bar
+pb <- txtProgressBar(min = 0,
+                     max = n_iter,
+                     style = 3,
+                     width = 50,
+                     char = "=")   
+
+j=0
+for(i in 1:10) {
+  
+  url_epa <- 
+    paste("https://aqs.epa.gov/data/api/monitors/byCounty?email=brian@thecgo.org",
+          "&key=",EPAkey,
+          "&param=",parameter,
+          "&bdate=",bdate,
+          "&edate=",edate,
+          "&state=",state,
+          "&county=",county[i],
+          sep = "")
+
+  res_epa <- GET(url_epa)
+
+  pm25AZ <- fromJSON(rawToChar(res_epa$content))
+  
+  pm25AZ_df <- data.frame(pm25AZ$Data)
+  
+    if (j == 0){
+      pm25AZ_final <- pm25AZ_df
+   }
+    else{
+      pm25AZ_final <- rbind(pm25AZ_final, pm25AZ_df)
+    }
+  
+  setTxtProgressBar(pb, i)
+  
+  j = j+1
+
+}
+
+close(pb)
+
+plant_char <- subset(plant_char, 
+                       select = c(
+                         "sector",
+                         "entityid",
+                         "entityName",
+                         "plantid",
+                         "balancing_authority_code",
+                         "status",
+                         "county",
+                         "latitude",
+                         "longitude",
+                         "nameplate.capacity.mw",
+                         "operating.year.month"
+    
+))
+
+
+```
+
+```{r  "Define functions to pull air monitor data using EPA's API"}
+
+# Define a function to call the PM2.5 hourly data using EPA's API ----------
+
+pm25.sample.api.call <-
+  function(bdate,
+           edate,
+           state,
+           EPAkey = "blueswift59",
+           parameter = "88101",
+           frequency = "monthly",
+           duration = "1",
+           ...) {
+    url_epa <-
+      paste(
+        "https://aqs.epa.gov/data/api/sampleData/byState?email=brian@thecgo.org",
+        "&key=",
+        EPAkey,
+        "&param=",
+        parameter,
+        "&bdate=",
+        bdate,
+        "&edate=",
+        edate,
+        "&state=",
+        state,
+        "&duration=",
+        duration,
+        sep = ""
+      )
+    
+    res_epa <- GET(url_epa)
+    
+    pm <- fromJSON(rawToChar(res_epa$content))
+    
+    pm_final <- data.frame(pm$Data)
+    
+    return(pm_final)
+  }
+
+pm25.daily.api.call <-
+  function(date,
+           state,
+           EPAkey = "blueswift59",
+           parameter = "88101",
+           ...) {
+    url_daily_epa <-
+      paste(
+        "https://aqs.epa.gov/data/api/dailyData/byState?email=brian@thecgo.org",
+        "&key=",
+        EPAkey,
+        "&param=",
+        parameter,
+        date,
+        "&state=",
+        state,
+        sep = ""
+      )
+    
+    res_daily_epa <- GET(url_daily_epa)
+    
+    pm_daily <- fparse(res_daily_epa$content)
+    
+    pm_daily_final <- subset(
+      pm_daily$Data,
+      select = c(
+        "state_code",
+        "county_code",
+        "site_number",
+        "poc",
+        "latitude",
+        "longitude",
+        "sample_duration_code",
+        "sample_duration",
+        "date_local",
+        "event_type",
+        "observation_count",
+        "observation_percent",
+        "validity_indicator",
+        "arithmetic_mean",
+        "aqi",
+        "method_code",
+        "method",
+        "local_site_name",
+        "state",
+        "county",
+        "city"
+      )
+    )
+      
+    return(pm_daily_final)
+  }
+
+# Define a function to return monthly PM2.5 averages ----------
+
+monthly.avg.pm <- function(df, ...) {
+  df$day <- substr(df$date_local, 9, 10)
+  df$month <- substr(df$date_local, 6, 7)
+  df$year <- substr(df$date_local, 1, 4)
+  
+  df <- df %>% drop_na(sample_measurement)
+  
+  result <- df %>% group_by(state, county, year, month) %>%
+    summarize(pm_measure = mean(sample_measurement))
+  
+  return(result)
+  
+}
+
+monthly.avg.daily.pm <- function(df, ...) {
+  df$day <- substr(df$date_local, 9, 10)
+  df$month <- substr(df$date_local, 6, 7)
+  df$year <- substr(df$date_local, 1, 4)
+  
+  result <- df %>% group_by(state, county, year, month) %>%
+    summarize(pm_measure = mean(arithmetic_mean))
+  
+  return(result)
+  
+}
+
+# Define a function to return daily PM2.5 averages ----------
+
+daily.avg.pm <- function(df, ...) {
+  df$day <- substr(df$date_local, 9, 10)
+  df$month <- substr(df$date_local, 6, 7)
+  df$year <- substr(df$date_local, 1, 4)
+  
+  df <- df %>% drop_na(sample_measurement)
+  
+  result <-
+    df %>% group_by(state_code, county_code, state, county, year, month, day) %>%
+    summarize(pm_measure = mean(sample_measurement))
+  
+  return(result)
+  
+} 
+```
+
+```{r EIA API v1 example, eval=FALSE}
+
+#Call multiple series using a for loop
+j = 0
+for(i in plantID.AZ$Plant.Id) {
+  
+  url <- 
+    paste("https://api.eia.gov/series/?api_key=",EIAkey,
+          "&series_id=ELEC.PLANT.GEN.",i,"-SUN-PV.M",sep = ""
+               )
+  
+  res <- GET(url)
+  
+  json_data.AZ <- fromJSON(rawToChar(res$content), flatten = TRUE
+                        )
+  APIdata.AZ <- data.frame(json_data.AZ$series$data)
+  
+  #Create new columns to organize the data we want
+  APIdata.AZ$Year <- substr(APIdata.AZ$X1,1,4) 
+  APIdata.AZ$Month <- substr(APIdata.AZ$X1,5,6)
+  APIdata.AZ$Day <- 1
+  APIdata.AZ$Date <- as.Date(paste(APIdata.AZ$Year, APIdata.AZ$Month, APIdata.AZ$Day, sep="-"))
+  colnames(APIdata.AZ)[2] <- word(json_data.AZ$series$name, 1, sep = fixed(":"))
+  #APIdata.AZ$Lat <- json_data.AZ$series$lat
+  #APIdata.AZ$Lon <- json_data.AZ$series$lon
+  
+  APIdata.AZ <- APIdata.AZ[-c(1,5)]
+  
+  if (j == 0){
+    APIdata.AZ.final <-APIdata.AZ
+  }
+  else{
+    APIdata.AZ.final <- merge(APIdata.AZ.final, APIdata.AZ, by="Date")
+  }
+  
+  j = j+1
+}
+
+#APIdata.AZ.final <- subset(APIdata.AZ.final, Date>= startdate & Date <= enddate)
+
+write.csv(APIdata.AZ.final,"temp/APIdata.AZ.csv")
+write.csv(json_data.AZ,"temp/json_data.AZ.csv")
+```
+
+Import 860 data from 2___Plant_Yyyyy and 3_3_Solar_Yyyyy (only operable plants)
+
+```{r, eval=FALSE}
+
+plant2020 <- read.csv("data/raw/form_860/EIA860_2020_plant.csv")
+
+solar2020 <- read.csv("data/raw/form_860/EIA860_2020_solar.csv")
+
+```
+
+Remove unnecessary columns from plant2020
+
+```{r, eval=FALSE}
+
+plant2020 <- subset(plant2020, select = c(Plant.Code,
+                                          Plant.Name,
+                                          Street.Address,
+                                          City,
+                                          State,
+                                          Zip,
+                                          County,
+                                          Latitude,
+                                          Longitude
+))
+
+```
+Combine form 860 data using Plant Id
+
+```{r, eval=FALSE}
+
+plantchar2020 <- inner_join(x = solar2020, y = plant2020, by = "Plant.Code")
+
+```
+
+Remove unwanted info by creating a subset of imported data
+
+Check if new joined dataset is matched correctly. If utility IDs and counties match,then duplicates are removed and a simpler dataset is created.
+
+```{r, eval=FALSE}
+
+if(all(plantchar2020$Utility.ID.x == plantchar2020$Utility.ID.y)
+   &(all(plantchar2020$County.x == plantchar2020$County.y))
+    ){simple_plantchar2020 <- plantchar2020[!duplicated(as.list(plantchar2020))]
+    }else print("MISMATCH")
+
+```
+
+Remove unwanted columns
+
+```{r, eval=FALSE}
+
+plantchar2020 <- subset(plantchar2020, 
+                        select = -c(Ash.Impoundment., 
+                                    Ash.Impoundment.Lined.,
+                                    Ash.Impoundment.Status, 
+                                    Natural.Gas.LDC.Name,
+                                    Natural.Gas.Pipeline.Name.1, 
+                                    Natural.Gas.Pipeline.Name.2,
+                                    Natural.Gas.Pipeline.Name.3, 
+                                    Pipeline.Notes,
+                                    Natural.Gas.Storage,
+                                    Liquefied.Natural.Gas.Storage
+))
+
+```
+
+Import form 923 generation data for years 2013-2020:
+
+Create a vector for each file name
+(NOTE: THE 2013 DATA HAS SLIGHTLY DIFFERENT COLUMN HEADINGS, I CHANGED THEM
+MANUALLY IN EXCEL TO MATCH 2014-2020)
+
+```{r, eval=FALSE}
+
+form923_paths <- fs::dir_ls("data/raw/form_923")
+form923_paths
+
+```
+
+Write a loop that will read in all files
+
+```{r, eval=FALSE}
+
+list_form923 <- list()
+
+for (i in seq_along(form923_paths)) {
+    list_form923[[i]] <- read.csv(
+      file = form923_paths[[i]], fileEncoding = 'UTF-8-BOM'
+    )
+}
+
+list_form923 <- set_names(list_form923, form923_paths)
+
+```
+
+Eliminate all non-utility and non-solar generation from each
+
+```{r, eval=FALSE}
+
+pvlist_form923 <- lapply(list_form923, function(x)
+                         filter(x, NAICS.Code == "22",
+                                Reported.Prime.Mover == "PV"))
+
+```
+
+Get rid of unnecessary columns of data
+
+```{r, eval=FALSE}
+
+simplepvlist_form923 <- lapply(pvlist_form923, function(x)
+                              subset(x, select = c(Plant.Id, 
+                                                   Plant.Name, 
+                                                   Plant.State, 
+                                                   Census.Region, 
+                                                   NERC.Region, 
+                                                   Netgen.January, 
+                                                   Netgen.February,	
+                                                   Netgen.March, 
+                                                   Netgen.April,	
+                                                   Netgen.May, 
+                                                   Netgen.June,	
+                                                   Netgen.July, 
+                                                   Netgen.August,	
+                                                   Netgen.September,	
+                                                   Netgen.October,	
+                                                   Netgen.November,	
+                                                   Netgen.December,	
+                                                   YEAR)))
+
+```
+
+Combine each annual form 923  data set to form one complete table 
+
+```{r, eval=FALSE}
+
+monthlygen <- simplepvlist_form923 %>% reduce(full_join, by="Plant.Id")
+write.csv(monthlygen, "temp/monthlygen.csv")
+
+```
+
+Combine form 923 data with form 860 data by matching plant code with plant id
+
+```{r, eval=FALSE}
+
+monthlygen2 <- left_join(x = monthlygen, y = plant2020, by = c("Plant.Id" = "Plant.Code"))
+write.csv(monthlygen2, "temp/monthlygen2.csv")
+
+```
+
+Attempt to convert from wide to long
+
+```{r, eval=FALSE}
+
+setDT(monthlygen2)
+longmonthlygen <- melt(monthlygen2, id.vars=c("County"))
+write.csv(longmonthlygen, "temp/longmonthlygen.csv")
+
+```
+
+Remove duplicates created by multiple generator ids
+
+```{r, eval=FALSE}
+
+spv2020data <- distinct(pv2020data, Plant.Id, .keep_all = TRUE)
+
+```
+
+Remove unnecessary data columns
+
+```{r, eval=FALSE}
+
+cpv2020data <- subset(spv2020data, select = c(Plant.Id, Plant.Name,
+                                             Census.Region, NERC.Region.x,
+                                             Respondent.Frequency, Netgen.January,	
+                                             Netgen.February,	Netgen.March,	Netgen.April,	
+                                             Netgen.May,	Netgen.June,	Netgen.July,	
+                                             Netgen.August,	Netgen.September,	Netgen.October,	
+                                             Netgen.November,	Netgen.December,	
+                                             YEAR,	State.x,
+                                             County.x,	Generator.ID,	Status,
+                                             Nameplate.Capacity..MW.,	
+                                             Operating.Year,	Street.Address,	
+                                             City,	Zip,	Latitude,	Longitude))
+
+```
+
+Set cpv2020data as a data table
+
+```{r, eval=FALSE}
+
+setDT(cpv2020data)
+
+```
+
+Convert data from wide to long form
+
+```{r, eval=FALSE}
+
+Wide2020 <- melt(cpv2020data,
+                 measure.vars = c("Netgen.January",	"Netgen.February","Netgen.March",	
+                                  "Netgen.April",	"Netgen.May",	"Netgen.June","Netgen.July",	
+                                  "Netgen.August","Netgen.September","Netgen.October",	
+                                  "Netgen.November",	"Netgen.December"),
+                 variable.name = "Month",
+                 value.name = "Generation")
+
+```

@@ -1,0 +1,246 @@
+---
+title: "Panel Analysis of the impact of WF Smoke on Solar Gen: West US 2013-2020"
+output: 
+  html_document: default
+  md_document:
+    variant: markdown_github
+---
+
+R Markdown cheat sheet: https://www.rstudio.com/blog/the-r-markdown-cheat-sheet/
+
+Use "?rmarkdown::_________" to look up formatting options for the YAML
+header. For example, "?rmarkdown::html_document" will provide potential options
+for html documents. More info on Rmarkdown anatomy can be found at
+https://bookdown.org/yihui/rmarkdown-cookbook/rmarkdown-anatomy.html
+
+Short guide to chunk options: https://bookdown.org/yihui/rmarkdown/r-code.html
+
+
+## Panel data regression analysis
+
+```{r}
+p.census <- pdata.frame(census_panel)
+
+p.census.2015 <- pdata.frame(census_panel[census_panel$year >= 2015,])
+p.census.2016 <- pdata.frame(census_panel[census_panel$year >= 2016,])
+p.census.2017 <- pdata.frame(census_panel[census_panel$year >= 2017,])
+
+p.census.tfe <- plm(total_gen ~ smoke_days,
+                         data = p.census,
+                         model = "within",
+                         effect = "twoways")
+
+p.census.tfe.2017 <- plm(total_gen ~ smoke_days,
+                         data = p.census.2017,
+                         model = "within",
+                         effect = "twoways")
+
+p.census.2016.tfe <- plm(total_gen ~ smoke_days,
+                         data = p.census.2016,
+                         model = "within",
+                         effect = "twoways")
+
+p.census.2015.tfe <- plm(total_gen ~ smoke_days,
+                         data = p.census.2015,
+                         model = "within",
+                         effect = "twoways")
+
+p.census.lm <- lm(total_gen ~ smoke_days, data = p.census)
+
+p.census.fe <- plm(total_gen ~ smoke_days,
+                  data = p.census,
+                  model = "within")
+
+yhat <- p.census.fe$fitted.values
+
+p.census.ca <- pdata.frame(census_panel[census_panel$state_fips %in% 06,])
+
+p.census.ca.fe <- plm(total_gen ~ smoke_days - 1,
+                     data = p.census.ca)
+
+kable <- knitr::kable(tidy(p.census.ca.fe), digits = 3, caption = "table")
+
+dailyBApanel.FE<- plm(value ~ Clear + Light + Medium + Heavy, data = dailyBApanel, model = "within")
+
+dailyBA.fe <-
+  plm(
+    value ~ pm_pred - 1,
+    data = dailyBApanel,
+    index = c("respondent","period"),
+    effect = "individual",
+    model = "within"
+  )
+
+consolidatedBApanel.fe <-
+    plm(
+    value ~ smoke + pm_pred,
+    data = consolidatedBApanel,
+    index = c("respondent","period"),
+    effect = "twoways",
+    model = "within"
+  )
+
+consolidatedBApanel.twfe <-
+    lm(value ~ smoke + respondent + period - 1,
+    data = consolidatedBApanel
+  )
+
+census.panel.lm.fe <-
+    lm(total_gen ~  smoke_days +
+         avg_pm_smoke +
+         factor(geoid) + 
+         factor(month) - 1,
+    data = census_panel
+  )
+
+consolidatedBApanel.M.fe <-
+    plm(
+    value ~ smokeMedium - 1,
+    data = consolidatedBApanel,
+    index = c("respondent","period"),
+    effect = "twoways",
+    model = "within"
+  )
+
+census.panel.fe <-
+    plm(
+    total_gen ~ avg_pm_smoke + year + month,
+    data = census_panel,
+    index = c("geoid","period"),
+    effect = "individual",
+    model = "within"
+  )
+
+census.panel.lm <- lm(total_gen ~ smoke_days, data = census_panel)
+
+coeftest(census.panel.lm, vcov. = vcovHC, type = "HC1")
+
+plot(x = census_panel$)
+
+
+
+pdata_dupes <- census_panel %>%
+  group_by(geoid, period) %>%
+  filter(n()>1)
+
+dupes <- table(index(census_panel), useNA = "ifany")
+```
+
+```{r "Regression Analysis - Picking a model using an unbalanced panel"}
+
+##Unbalanced Panel
+unbalanced_panel <- read.csv('data/processed/unbalanced_panel_data.csv',
+                        header = TRUE,
+                        sep = ",")
+
+#Ordinary Least Squares
+ols_unbal <- lm(total_generation ~ pm_measure, data = unbalanced_panel)
+
+summary(ols_unbal)
+
+
+#Fixed Effects
+fe_model_unbal <-
+  plm(
+    total_generation ~ pm_measure,
+    data = unbalanced_panel,
+    index = c("fips_codes", "date"),
+    effect = "individual",
+    model = "within"
+  )
+
+summary(fe_model_unbal)
+
+#Year and Month Fixed Effects
+fe.time_model_unbal <- plm(
+  total_generation ~ pm_measure +
+    factor(year) + factor(month),
+  data = unbalanced_panel,
+  index = c("fips_codes", "date"),
+  effect = "individual",
+  model = "within"
+)
+
+summary(fe.time_model_unbal)
+
+#Random Effects
+random_model_unbal <-
+  plm(
+    total_generation ~ pm_measure,
+    data = unbalanced_panel,
+    index = c("fips_codes", "date"),
+    effect = "individual",
+    model = "random"
+  )
+
+summary(random_model_unbal)
+
+#Comparing Models
+pFtest(fe_model_unbal, ols_unbal)    #F test for individual effects, null: OLS preferred to FE
+
+phtest(fe_model_unbal, random_model_unbal)    #Hausman test, null: random effects preferred to FE
+
+```
+
+```{r "Regression Analysis - Picking a model using a balanced panel"}
+
+##Balanced Panel
+balanced_panel <- read.csv('data/processed/balanced_panel_data.csv',
+                        header = TRUE,
+                        sep = ",")
+
+#Ordinary Least Squares
+ols_bal <- lm(total_generation ~ pm_measure, data = balanced_panel)
+
+summary(ols_bal)
+
+
+#Fixed Effects
+fe_model_bal <-
+  plm(
+    total_generation ~ pm_measure,
+    data = balanced_panel,
+    index = c("fips_codes", "date"),
+    effect = "individual",
+    model = "within"
+  )
+
+summary(fe_model_bal)
+
+#Year and Month Fixed Effects
+fe.time_model_bal <- plm(
+  total_generation ~ pm_measure +
+    factor(year) + factor(month),
+  data = balanced_panel,
+  index = c("fips_codes", "date"),
+  effect = "individual",
+  model = "within"
+)
+
+summary(fe.time_model_bal)
+
+#Random Effects
+random_model_bal <-
+  plm(
+    total_generation ~ pm_measure,
+    data = balanced_panel,
+    index = c("fips_codes", "date"),
+    effect = "individual",
+    model = "random"
+  )
+
+summary(random_model_bal)
+
+#Two-ways Fixed Effects
+twoways_model_bal <-
+  plm(
+    total_generation ~ pm_measure,
+    data = balanced_panel,
+    index = c("fips_codes", "date"),
+    effect = "twoways",
+    model = "within"
+  )
+
+summary(twoways_model_bal)
+
+```

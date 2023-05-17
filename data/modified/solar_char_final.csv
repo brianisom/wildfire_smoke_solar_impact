@@ -1,0 +1,1166 @@
+sector,entityid,entityName,plantid,balancing_authority_code,balancing.authority.name,status,gen_cap,operating.year.month,geometry,intersection,geoid
+ipp-non-chp,59469,"Mt. Home Solar 1, LLC",59695,IPCO,Idaho Power Company,OP,20,2017-03,-115.752|43.129,10834,16039960400
+ipp-non-chp,59755,"Murphy Flat Power, LLC",60009,IPCO,Idaho Power Company,OP,20,2017-04,-116.439|43.213,10896,16073950200
+ipp-non-chp,59756,"Orchard Ranch Solar, LLC",60010,IPCO,Idaho Power Company,OP,20,2017-03,-116.285|43.467,10819,16001010501
+ipp-non-chp,59757,American Falls Solar LLC,60011,IPCO,Idaho Power Company,OP,20,2017-03,-112.752|42.824,11073,16077960200
+ipp-non-chp,59758,"American Falls Solar II, LLC",60012,IPCO,Idaho Power Company,OP,20,2017-03,-112.752|42.824,11073,16077960200
+ipp-non-chp,59806,"Grand View PV Solar Two, LLC",60068,IPCO,Idaho Power Company,OP,80,2016-12,-116.093431|42.989614,10896,16073950200
+ipp-non-chp,61060,Cypress Creek Renewables,60445,IPCO,Idaho Power Company,OP,40,2016-08,-116.333|43.444,10819,16001010501
+ipp-non-chp,60448,Simcoe Solar,60748,IPCO,Idaho Power Company,OP,20,2017-03,-115.955371|43.288439,10833,16039960200
+industrial-non-chp,57449,Borrego Solar Systems Inc,62151,IPCO,Idaho Power Company,OP,2,2019-06,-114.412523|42.540968,10940,16083000600
+ipp-non-chp,60496,Enerparc Inc.,61289,NWMT,NorthWestern Energy (NWMT),OP,2,2017-04,-109.565219|45.703779,11377,30097967000
+ipp-non-chp,60496,Enerparc Inc.,61290,NWMT,NorthWestern Energy (NWMT),OP,3,2017-04,-107.632624|45.730113,11300,30003000100
+ipp-non-chp,60496,Enerparc Inc.,61291,NWMT,NorthWestern Energy (NWMT),OP,3,2017-04,-112.063623|46.694488,11270,30049000501
+ipp-non-chp,60496,Enerparc Inc.,61335,NWMT,NorthWestern Energy (NWMT),OP,3,2017-09,-112.249048|46.805739,11120,30049000200
+ipp-non-chp,60496,Enerparc Inc.,61336,NWMT,NorthWestern Energy (NWMT),OP,3,2017-09,-111.253974|47.547466,11137,30013010100
+ipp-non-chp,60496,Enerparc Inc.,61337,NWMT,NorthWestern Energy (NWMT),OP,3,2017-09,-108.937935|46.291439,11312,30037000100
+ipp-non-chp,17650,Southern Power Co,57243,WACM,Western Area Power Administration - Rocky Mountain Region,OP,30.6,2010-12,-104.635659|36.468078,12087,35007950700
+ipp-non-chp,59400,NRG Solar Roadrunner,57338,EPE,El Paso Electric Company,OP,20.2,2011-08,-106.673333|31.792778,12479,35013001701
+ipp-non-chp,56706,Chevron Technology Ventures,57369,PNM,Public Service Company of New Mexico,OP,1,2011-01,-105.60944|36.716944,12106,35055952300
+electric-utility,59300,PNM Resources,57567,PNM,Public Service Company of New Mexico,OP,2,2011-04,-106.60005|35.168957,12389,35001003736
+electric-utility,59300,PNM Resources,57571,PNM,Public Service Company of New Mexico,OP,7,2011-06,-106.772413|34.833136,12470,35061971400
+electric-utility,59300,PNM Resources,57575,PNM,Public Service Company of New Mexico,OP,9,2011-08,-107.75056|32.165833,12548,35029000400
+electric-utility,59300,PNM Resources,57576,PNM,Public Service Company of New Mexico,OP,5,2011-11,-105.206667|35.643333,12256,35047957200
+electric-utility,59300,PNM Resources,57577,PNM,Public Service Company of New Mexico,OP,5,2011-10,-105.999775|32.86571,12268,35035000500
+ipp-non-chp,56926,"Hatch Solar Energy Center I, LLC",57591,EPE,El Paso Electric Company,OP,5,2011-06,-107.259722|32.63,12265,35013001400
+ipp-non-chp,57055,"SunE SPS1, LLC",57736,SWPP,Southwest Power Pool,OP,10,2011-09,-103.137825|32.12743,12290,35025000900
+ipp-non-chp,57056,"SunE SPS2, LLC",57737,SWPP,Southwest Power Pool,OP,10,2011-09,-103.183056|32.183611,12290,35025000900
+ipp-non-chp,57057,"SunE SPS3, LLC",57738,SWPP,Southwest Power Pool,OP,10,2011-11,-103.323333|32.469722,12409,35025000800
+ipp-non-chp,57059,"SunE SPS4, LLC",57739,SWPP,Southwest Power Pool,OP,10.1,2011-12,-103.303611|32.681944,12542,35025000702
+ipp-non-chp,57058,"SunE SPS5, LLC",57740,SWPP,Southwest Power Pool,OP,10.1,2011-12,-104.234722|32.345556,12272,35015000700
+ipp-non-chp,57361,SunE EPE2 LLC,57985,EPE,El Paso Electric Company,OP,12,2012-05,-106.913333|32.251667,12114,35013001500
+ipp-non-chp,57360,SunE EPE1 LLC,57986,EPE,El Paso Electric Company,OP,10,2012-06,-106.340986|32.034383,12081,35035000902
+ipp-non-chp,57390,Siemens Government Technologies Inc,58010,EPE,El Paso Electric Company,OP,4.6,2012-12,-106.47722|32.395833,12453,35013001900
+ipp-non-chp,57081,"WGL Energy Systems, Inc",58240,PNM,Public Service Company of New Mexico,OP,1.3,2012-06,-105.438056|36.966667,12151,35055952100
+electric-utility,11204,Los Alamos County,58256,PNM,Public Service Company of New Mexico,OP,1,2012-09,-106.31|35.875556,12460,35028000400
+ipp-non-chp,58465,"Green States Energy, Inc.",58479,SWPP,Southwest Power Pool,OP,2,2013-06,-104.506944|33.351111,12478,35005000600
+electric-utility,59300,PNM Resources,58520,PNM,Public Service Company of New Mexico,OP,8,2013-12,-105.971111|32.976389,12241,35035000603
+electric-utility,59300,PNM Resources,58521,PNM,Public Service Company of New Mexico,OP,8.4,2013-10,-106.654444|34.746667,12301,35061970301
+ipp-non-chp,58509,"Affordable Solar Silver City, LLC",58540,PNM,Public Service Company of New Mexico,OP,1,2013-06,-108.248056|32.713889,12118,35017964700
+ipp-non-chp,58465,"Green States Energy, Inc.",58576,SWPP,Southwest Power Pool,OP,2.3,2011-05,-104.4|33.3,12085,35005001200
+ipp-non-chp,57081,"WGL Energy Systems, Inc",58588,PNM,Public Service Company of New Mexico,OP,1,2013-11,-106.657778|35.313333,12343,35043010718
+ipp-non-chp,57081,"WGL Energy Systems, Inc",58589,PNM,Public Service Company of New Mexico,OP,1,2013-11,-106.667778|35.264444,12228,35043010703
+ipp-non-chp,58621,"SSA Solar of NM, LLC",58689,PNM,Public Service Company of New Mexico,OP,1.3,2012-10,-105.985278|36.907778,12083,35039000400
+ipp-non-chp,58681,MSM Solar LLC,58794,PNM,Public Service Company of New Mexico,OP,1.9,2014-05,-105.183889|35.656944,12162,35047957500
+electric-utility,15473,Public Service Co of NM,58899,PNM,Public Service Company of New Mexico,OP,0.5,2011-09,-106.637222|35.001944,12391,35001004001
+ipp-non-chp,17650,Southern Power Co,59010,EPE,El Paso Electric Company,OP,52.2,2014-05,-107.48|32.57,12494,35029000500
+ipp-non-chp,59991,"Caprock Solar 1, LLC",59251,SWPP,Southwest Power Pool,OP,25,2016-12,-103.378333|34.982778,12211,35037958900
+ipp-non-chp,59171,"Suncore Photovoltaics, Inc",59393,PNM,Public Service Company of New Mexico,OP,2,2013-11,-106.53|35.049167,12222,35001000714
+electric-utility,59300,PNM Resources,59558,PNM,Public Service Company of New Mexico,OP,6.1,2014-12,-106.812778|35.283611,12201,35043010900
+electric-utility,17826,"Springer Electric Coop, Inc",59560,PNM,Public Service Company of New Mexico,OP,1,2015-05,-104.594167|36.398056,12087,35007950700
+electric-utility,59300,PNM Resources,59618,PNM,Public Service Company of New Mexico,OP,9.1,2015-01,-106.52|34.81,12469,35061970101
+electric-utility,59300,PNM Resources,59619,PNM,Public Service Company of New Mexico,OP,7.6,2015-02,-107.245156|35.20115,12193,35006974700
+ipp-non-chp,59424,"SSA Solar of NM 4, LLC",59653,PNM,Public Service Company of New Mexico,OP,1.9,2015-02,-107.287778|33.121111,12404,35051962300
+electric-utility,59300,PNM Resources,60195,PNM,Public Service Company of New Mexico,OP,10,2015-12,-106.736129|34.986073,12253,35001004715
+electric-utility,59300,PNM Resources,60196,PNM,Public Service Company of New Mexico,OP,9.5,2015-12,-106.060859|35.587795,12263,35049010308
+electric-utility,59300,PNM Resources,60197,PNM,Public Service Company of New Mexico,OP,10.5,2015-12,-106.855498|35.029719,12398,35001940600
+electric-utility,59300,PNM Resources,60198,PNM,Public Service Company of New Mexico,OP,10,2015-12,-106.682975|34.582598,12304,35061971100
+ipp-non-chp,60046,"TPE Alta Luna, LLC",60258,PNM,Public Service Company of New Mexico,OP,28.1,2017-01,-107.486458|32.572022,12494,35029000500
+electric-utility,5701,El Paso Electric Co,60301,EPE,El Paso Electric Company,OP,5,2018-10,-106.072411|32.921261,12226,35035000601
+ipp-non-chp,60127,"SSA Solar of NM 3, LLC",60341,PNM,Public Service Company of New Mexico,OP,1,2015-09,-107.249831|33.1526,12149,35051962401
+ipp-non-chp,60208,Chaves Solar LLC,60405,SWPP,Southwest Power Pool,OP,70,2016-10,-104.456|33.45,12141,35005001102
+ipp-non-chp,60209,"Roswell Solar, LLC",60406,SWPP,Southwest Power Pool,OP,70,2016-08,-104.461074|33.45293,12141,35005001102
+ipp-non-chp,61724,New Mexico Renewable Development LLC,61165,PNM,Public Service Company of New Mexico,OP,1.9,2017-12,-107.587513|31.86673,12548,35029000400
+ipp-non-chp,61156,"NMRD Data Center, LLC",61556,PNM,Public Service Company of New Mexico,OP,10,2017-12,-106.762|34.831,12470,35061971400
+ipp-non-chp,61156,"NMRD Data Center, LLC",61557,PNM,Public Service Company of New Mexico,OP,10,2018-02,-106.865|35.08,12398,35001940600
+ipp-non-chp,61156,"NMRD Data Center, LLC",61558,PNM,Public Service Company of New Mexico,OP,10,2018-04,-106.865|35.075,12398,35001940600
+ipp-non-chp,60520,SoCore Energy LLC,61662,PNM,Public Service Company of New Mexico,OP,3,2018-03,-105.747825|33.610306,12108,35027960200
+ipp-non-chp,60584,Onyx Asset Services Group,61681,SWPP,Southwest Power Pool,OP,5,2017-11,-103.371284|32.978636,12411,35025001100
+ipp-non-chp,61685,"Syncarpha Eagle Nest I, LLC",62149,PNM,Public Service Company of New Mexico,OP,1,2018-11,-105.2772|36.544166,12087,35007950700
+ipp-non-chp,61724,New Mexico Renewable Development LLC,62191,PNM,Public Service Company of New Mexico,OP,2,2018-10,-106.051092|34.783205,12507,35057963600
+ipp-non-chp,60531,Standard Solar,62406,PNM,Public Service Company of New Mexico,OP,8,2018-05,-108.778791|35.52236,12435,35031945200
+electric-utility,59300,PNM Resources,62467,PNM,Public Service Company of New Mexico,OP,10,2019-03,-106.655|34.741,12387,35061970302
+electric-utility,59300,PNM Resources,62597,PNM,Public Service Company of New Mexico,OP,10,2019-06,-106.688|34.692,12387,35061970302
+ipp-non-chp,62655,RC Energy AA LLC,62756,PNM,Public Service Company of New Mexico,OP,1,2011-01,-106.547222|35.152721,12531,35001003715
+ipp-non-chp,62842,"Lightsource Renewable Energy Asset Management, LLC",62994,PNM,Public Service Company of New Mexico,OP,2.4,2019-12,-107.946|35.24,12193,35006974700
+ipp-non-chp,62842,"Lightsource Renewable Energy Asset Management, LLC",62995,PNM,Public Service Company of New Mexico,OP,4.5,2019-12,-107.821|35.14,12328,35006974201
+electric-utility,59300,PNM Resources,63081,PNM,Public Service Company of New Mexico,OP,10,2019-09,-105.1784|35.63457,12162,35047957500
+electric-utility,59300,PNM Resources,63082,PNM,Public Service Company of New Mexico,OP,10,2019-10,-105.1732|35.63471,12162,35047957500
+ipp-non-chp,62905,"Syncarpha Taos I, LLC",63123,PNM,Public Service Company of New Mexico,OP,3.1,2020-05,-105.660152|36.371326,12422,35055952600
+ipp-non-chp,62904,"Syncarpha El Rito I, LLC",63124,PNM,Public Service Company of New Mexico,OP,1.6,2019-12,-106.190105|36.331724,12083,35039000400
+ipp-non-chp,62906,"Syncarpha Questa I, LLC",63125,PNM,Public Service Company of New Mexico,OP,1.6,2020-01,-105.588421|36.810668,12106,35055952300
+electric-utility,59300,PNM Resources,63184,PNM,Public Service Company of New Mexico,OP,10,2019-12,-106.48237|35.10476,12377,35001000112
+ipp-non-chp,61724,New Mexico Renewable Development LLC,63391,PNM,Public Service Company of New Mexico,OP,1.2,2019-09,-106.806583|35.179889,12398,35001940600
+ipp-non-chp,63213,Jemez Cuba LLC,63477,PNM,Public Service Company of New Mexico,OP,2.4,2020-02,-106.040879|36.091143,12249,35039000200
+ipp-non-chp,61156,"NMRD Data Center, LLC",63579,PNM,Public Service Company of New Mexico,OP,50,2019-12,-106.098|35.016,12425,35057963201
+ipp-non-chp,61156,"NMRD Data Center, LLC",63860,PNM,Public Service Company of New Mexico,OP,55,2020-07,-106.858|35.354,12201,35043010900
+ipp-non-chp,50131,Enel Stillwater LLC,50765,NEVP,Nevada Power Company,OP,22,2012-04,-118.555613|39.547537,11521,32001950100
+industrial-non-chp,55710,Barrick Goldstrike Mines Inc,56500,NEVP,Nevada Power Company,OP,1,2007-12,-119.5108|39.5603,11751,32029970200
+commercial-non-chp,56203,Solar Star NAFB LLC,56568,NEVP,Nevada Power Company,OP,14,2007-10,-115.0544|36.260278,12010,32003006001
+ipp-non-chp,57036,Copper Mountain 1 LLC,56944,CISO,California Independent System Operator,OP,10,2008-12,-114.9933|35.7881,11561,32003005703
+ipp-non-chp,57036,Copper Mountain 1 LLC,57205,CISO,California Independent System Operator,OP,48,2010-06,-114.9933|35.7814,11561,32003005703
+ipp-non-chp,58720,Enbridge,57442,NEVP,Nevada Power Company,OP,52,2012-05,-115.35028|35.793056,11642,32003005827
+ipp-non-chp,59745,First Solar Asset Management,57859,NEVP,Nevada Power Company,OP,250,2016-12,-114.770308|36.52995,11778,32003005902
+ipp-non-chp,57391,"Copper Mountain Solar 2, LLC",58017,CISO,California Independent System Operator,OP,154,2012-10,-114.962778|35.786389,11561,32003005703
+ipp-non-chp,58245,"Patua Acquisition Company, LLC",58319,NEVP,Nevada Power Company,OP,10.6,2017-07,-119.073056|39.585833,11627,32001950600
+ipp-non-chp,58464,City of Las Vegas,58477,NEVP,Nevada Power Company,OP,3.3,2013-05,-115.035278|36.134444,12003,32003005013
+ipp-non-chp,17650,Southern Power Co,58489,NEVP,Nevada Power Company,OP,20,2012-07,-114.97|36.39,11778,32003005902
+ipp-non-chp,17650,Southern Power Co,58490,NEVP,Nevada Power Company,OP,30,2013-09,-114.87|36.23,11432,32003005613
+ipp-non-chp,58515,NextEra Energy Mountain View Solar,58544,NEVP,Nevada Power Company,OP,20,2014-01,-114.964444|36.390556,11778,32003005902
+ipp-non-chp,59363,"Silver State Solar Power South, LLC",58644,CISO,California Independent System Operator,OP,260.1,2015-11,-115.32|35.63,11561,32003005703
+ipp-non-chp,17650,Southern Power Co,58646,CISO,California Independent System Operator,OP,299.5,2015-12,-115.4|35.6,2452,06071010300
+ipp-non-chp,58790,"Copper Mountain Solar 3, LLC",58915,LDWP,Los Angeles Department of Water and Power,OP,255,2014-05,-114.957912|35.889419,11906,32003005711
+ipp-non-chp,59175,Searchlight Solar LLC,59404,NEVP,Nevada Power Company,OP,17.5,2014-12,-114.936111|35.479722,11561,32003005703
+ipp-non-chp,59208,NRG Solar Las Vegas MB-1,59430,NEVP,Nevada Power Company,OP,5,2015-02,-115.177778|36.088611,11689,32003006800
+commercial-non-chp,57369,"Apple, Inc",59472,NEVP,Nevada Power Company,OP,19.9,2015-05,-119.14|39.128056,12052,32019960900
+ipp-non-chp,59514,"River Mountains Solar, LLC",59747,NEVP,Nevada Power Company,OP,14.4,2016-01,-114.929399|36.031616,11798,32003005435
+ipp-non-chp,59595,"Copper Mountain Solar 4, LLC",59814,CISO,California Independent System Operator,OP,93.6,2016-10,-114.975375|35.78222,11561,32003005703
+ipp-non-chp,61785,EDP Renewables North America LLC,59826,CISO,California Independent System Operator,OP,103.5,2019-12,-116.497|36.518,11713,32023960300
+ipp-non-chp,57170,"EDF Renewable Asset Holdings, Inc.",59827,NEVP,Nevada Power Company,OP,79,2017-10,-114.908|36.408,11778,32003005902
+electric-utility,13407,Nevada Power Co,59919,NEVP,Nevada Power Company,OP,15,2015-11,-115.047703|36.206672,11650,32003007800
+ipp-non-chp,57170,"EDF Renewable Asset Holdings, Inc.",60261,NEVP,Nevada Power Company,OP,100,2017-08,-114.908|36.408,11778,32003005902
+ipp-non-chp,60145,NRG Solar Las Vegas MB 2,60350,NEVP,Nevada Power Company,OP,1.9,2016-07,-115.175381|36.087426,11689,32003006800
+ipp-non-chp,17650,Southern Power Co,60352,NEVP,Nevada Power Company,OP,100,2016-12,-114.97|35.348,11561,32003005703
+ipp-non-chp,60472,Tungsten Mountain,60785,NEVP,Nevada Power Company,OP,7.3,2019-07,-117.693658|39.667002,11521,32001950100
+ipp-non-chp,60639,AEP Renewables,60885,NEVP,Nevada Power Company,OP,50,2017-01,-114.944|35.85,11906,32003005711
+ipp-non-chp,59050,Algonquin Power Co,61084,NEVP,Nevada Power Company,OP,50,2017-02,-118.19156|38.546947,11516,32021970800
+commercial-non-chp,57389,IKEA Property Inc,61193,NEVP,Nevada Power Company,OP,1,2016-05,-115.280825|36.068926,11647,32003005854
+ipp-non-chp,61532,Techren Solar I LLC,61611,NEVP,Nevada Power Company,OP,100,2019-03,-114.974386|35.851336,11906,32003005711
+ipp-non-chp,61435,"EGP Stillwater Solar PV II, LLC",61809,NEVP,Nevada Power Company,OP,20,2018-06,-118.560147|39.542041,11521,32001950100
+ipp-non-chp,61442,Dignity - Siena Campus,61825,NEVP,Nevada Power Company,OP,1.4,2018-05,-115.115305|36.004293,12049,32003005346
+ipp-non-chp,61481,Dignity - San Martin,61862,NEVP,Nevada Power Company,OP,1.7,2018-05,-115.272131|36.057181,11945,32003002976
+ipp-non-chp,61533,Techren Solar II LLC,61930,NEVP,Nevada Power Company,OP,200,2019-10,-114.956428|35.867258,11906,32003005711
+ipp-non-chp,61534,Techren Solar III LLC,61931,NEVP,Nevada Power Company,OP,25,2020-10,-114.9713|35.844106,11906,32003005711
+ipp-non-chp,61535,Techren Solar IV LLC,61932,NEVP,Nevada Power Company,OP,25,2020-10,-114.936525|35.892658,11906,32003005711
+ipp-non-chp,61954,Techren Solar V LLC,62440,NEVP,Nevada Power Company,OP,50,2020-12,-114.92625|35.899694,11906,32003005711
+ipp-non-chp,61494,Radian Generation,62636,NEVP,Nevada Power Company,OP,15,2017-02,-115.972329|36.275051,11772,32023960401
+electric-utility,57222,Liberty Utilities (CalPeco Electric) LLC,62980,NEVP,Nevada Power Company,OP,10,2019-11,-119.52|39.59,11489,32031003501
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,63906,NEVP,Nevada Power Company,OP,60,2020-12,-119.5242|39.57395,11489,32031003501
+industrial-non-chp,60947,Tesla Inc.,64098,NEVP,Nevada Power Company,OP,0.9,2019-07,-119.439158|39.539511,11751,32029970200
+ipp-non-chp,57170,"EDF Renewable Asset Holdings, Inc.",57372,PGE,Portland General Electric Company,OP,1.6,2011-10,-123.234722|45.112222,12946,41071031000
+ipp-non-chp,57170,"EDF Renewable Asset Holdings, Inc.",57652,PGE,Portland General Electric Company,OP,1,2011-10,-123.278611|45.108889,12721,41071030501
+electric-utility,15248,Portland General Electric Co,57882,PGE,Portland General Electric Company,OP,1.7,2012-01,-122.771667|45.269444,13068,41005022800
+ipp-non-chp,58083,"Outback Solar, LLC",58131,BPAT,Bonneville Power Administration,OP,4.4,2012-10,-120.49|43.236944,12626,41037960100
+electric-utility,14354,PacifiCorp,58150,PACW,PacifiCorp - West,OP,2,2012-10,-120.362631|42.17505,12745,41037960200
+ipp-non-chp,60947,Tesla Inc.,58961,PACW,PacifiCorp - West,OP,2,2014-01,-121.785|42.254167,13185,41035972000
+ipp-non-chp,59143,Old Mill Solar,59374,PACW,PacifiCorp - West,OP,5,2015-12,-121.046389|42.203333,12788,41035970500
+ipp-non-chp,60947,Tesla Inc.,59790,PACW,PacifiCorp - West,OP,1.2,2014-03,-123.31695|44.573484,12883,41003000900
+ipp-non-chp,59788,Steel Bridge Solar. LLC,60057,PGE,Portland General Electric Company,OP,2.3,2016-02,-123.47|45.068,13021,41053020400
+ipp-non-chp,60947,Tesla Inc.,60112,PACW,PacifiCorp - West,OP,1.4,2016-07,-122.66317|45.528457,12862,41051002303
+ipp-non-chp,58695,Coronal Development Services,60330,IPCO,Idaho Power Company,OP,6,2016-09,-117.381214|43.936687,12572,41045970600
+ipp-non-chp,61060,Cypress Creek Renewables,60331,IPCO,Idaho Power Company,OP,9,2016-10,-117.000071|44.151256,12679,41045970900
+ipp-non-chp,58695,Coronal Development Services,60332,IPCO,Idaho Power Company,OP,10,2016-09,-117.065311|43.796766,12678,41045970700
+ipp-non-chp,61060,Cypress Creek Renewables,60333,IPCO,Idaho Power Company,OP,4.5,2016-11,-117.10118|43.998019,13056,41045970200
+ipp-non-chp,61060,Cypress Creek Renewables,60334,IPCO,Idaho Power Company,OP,10,2016-11,-116.987626|43.93097,13305,41045970500
+ipp-non-chp,61060,Cypress Creek Renewables,60335,IPCO,Idaho Power Company,OP,10,2016-11,-117.25806|43.965031,12572,41045970600
+ipp-non-chp,61060,Cypress Creek Renewables,60548,PACW,PacifiCorp - West,OP,9.9,2016-12,-121.22838|44.06803,13005,41017001200
+ipp-non-chp,60358,BC Solar,60616,PACW,PacifiCorp - West,OP,8,2016-11,-120.3598|42.175,12745,41037960200
+ipp-non-chp,60610,"OSLH, LLC",60976,PACW,PacifiCorp - West,OP,9.9,2016-12,-121.228|44.061,12932,41017001901
+ipp-non-chp,15399,Avangrid Renewables LLC,61048,BPAT,Bonneville Power Administration,OP,56.3,2017-10,-120.918|44.1843,12994,41013950300
+ipp-non-chp,63757,"OR Solar 2, LLC",61200,PACW,PacifiCorp - West,OP,10,2020-10,-122.781338|42.542084,12731,41029002700
+ipp-non-chp,59462,"Heelstone Energy Holdings, LLC",61201,PACW,PacifiCorp - West,OP,10,2017-12,-121.418873|42.022336,12743,41035970600
+ipp-non-chp,60888,"GCL New Energy, Inc.",61281,PACW,PacifiCorp - West,OP,10,2018-09,-121.237203|44.060814,12932,41017001901
+ipp-non-chp,60978,"SP Solar 5, LLC",61338,PGE,Portland General Electric Company,OP,2.2,2017-12,-123.13633|45.16964,13219,41071030900
+ipp-non-chp,15399,Avangrid Renewables LLC,61345,AVRN,Avangrid Renewables LLC,OP,10,2018-08,-120.59994|45.5846,12777,41055950100
+ipp-non-chp,59462,"Heelstone Energy Holdings, LLC",61423,PACW,PacifiCorp - West,OP,8,2018-01,-121.611565|42.030332,13331,41035970700
+ipp-non-chp,59462,"Heelstone Energy Holdings, LLC",61424,PACW,PacifiCorp - West,OP,10,2018-03,-121.585833|42.238888,12737,41035970400
+ipp-non-chp,59462,"Heelstone Energy Holdings, LLC",61430,PACW,PacifiCorp - West,OP,10,2017-12,-120.367807|42.208988,12745,41037960200
+ipp-non-chp,60888,"GCL New Energy, Inc.",61496,PACW,PacifiCorp - West,OP,10,2018-07,-121.122|44.675,13173,41031960202
+ipp-non-chp,60888,"GCL New Energy, Inc.",61497,PACW,PacifiCorp - West,OP,10,2018-08,-121.205|44.618,12733,41031960302
+ipp-non-chp,60609,"Clean Focus Renewables, Inc.",61553,PACW,PacifiCorp - West,OP,2.9,2017-12,-121.764|42.183,13382,41035971500
+ipp-non-chp,61160,"Woodline Solar, LLC",61559,PACW,PacifiCorp - West,OP,8,2017-12,-121.57766|42.236443,12737,41035970400
+ipp-non-chp,61161,"Norwest Energy 7, LLC",61560,PACW,PacifiCorp - West,OP,9.9,2017-12,-122.82917|42.400814,12915,41029001301
+ipp-non-chp,59462,"Heelstone Energy Holdings, LLC",61580,PACW,PacifiCorp - West,OP,9.9,2017-12,-121.233106|44.192575,13020,41017001002
+ipp-non-chp,59462,"Heelstone Energy Holdings, LLC",61631,PACW,PacifiCorp - West,OP,9.9,2018-01,-121.861248|42.610732,12736,41035970200
+ipp-non-chp,61451,"SP Solar 7, LLC",61827,PGE,Portland General Electric Company,OP,2.2,2017-12,-123.135|45.17,13219,41071030900
+ipp-non-chp,61450,"SP Solar 8, LLC",61828,PGE,Portland General Electric Company,OP,2.2,2017-12,-123.094|45.033,12864,41053005300
+ipp-non-chp,61449,"Silverton Solar, LLC",61829,PGE,Portland General Electric Company,OP,2.2,2017-12,-122.807|45.014,12881,41047010503
+ipp-non-chp,61448,"Sheep Solar, LLC",61830,PGE,Portland General Electric Company,OP,2.2,2017-12,-122.949|44.826,13130,41047002700
+ipp-non-chp,61445,"SP Solar 6, LLC",61831,PGE,Portland General Electric Company,OP,2.2,2017-12,-122.473|45.17,12953,41005024100
+ipp-non-chp,61447,"SP Solar 1, LLC",61832,PGE,Portland General Electric Company,OP,2.2,2017-12,-122.899|45.129,13175,41047010303
+ipp-non-chp,61454,"NorWest Energy 14, LLC",61835,PGE,Portland General Electric Company,OP,2.2,2017-12,-123.61|45.054,13021,41053020400
+ipp-non-chp,60496,"Adapture Renewables, Inc.",61844,IPCO,Idaho Power Company,OP,2.8,2020-01,-118.204075|44.465334,12767,41001950100
+ipp-non-chp,60496,"Adapture Renewables, Inc.",61854,IPCO,Idaho Power Company,OP,15,2020-02,-117.763482|44.702418,12628,41001950300
+ipp-non-chp,60496,"Adapture Renewables, Inc.",61855,IPCO,Idaho Power Company,OP,3,2020-05,-117.07478|43.951376,13305,41045970500
+ipp-non-chp,60496,"Adapture Renewables, Inc.",61856,IPCO,Idaho Power Company,OP,3,2020-08,-117.44434|44.157874,12679,41045970900
+ipp-non-chp,60496,"Adapture Renewables, Inc.",61860,IPCO,Idaho Power Company,OP,3,2020-05,-117.028093|44.112841,12679,41045970900
+ipp-non-chp,61705,Boring Solar LLC,62169,PGE,Portland General Electric Company,OP,2.2,2019-04,-122.285|45.431,13279,41005023401
+ipp-non-chp,61703,Ballston Solar LLC,62170,PGE,Portland General Electric Company,OP,2.2,2018-12,-123.395|45.077,12721,41071030501
+ipp-non-chp,61704,Labish Solar LLC,62171,PGE,Portland General Electric Company,OP,2.2,2018-12,-122.922|45.023,13389,41047002502
+ipp-non-chp,61494,Radian Generation,62241,PACW,PacifiCorp - West,OP,8,2018-09,-119.343|45.917,13178,41059950900
+ipp-non-chp,61494,Radian Generation,62268,PACW,PacifiCorp - West,OP,5.6,2019-01,-121.614|42.695,12736,41035970200
+ipp-non-chp,60888,"GCL New Energy, Inc.",62272,PACW,PacifiCorp - West,OP,8,2018-12,-121.024494|42.392193,12788,41035970500
+ipp-non-chp,62051,Airport Solar LLC,62560,PACW,PacifiCorp - West,OP,47.3,2019-12,-120.402317|42.170176,12745,41037960200
+ipp-non-chp,62989,Rafael Solar LLC,63206,PGE,Portland General Electric Company,OP,2.2,2019-10,-123.007913|44.859838,13130,41047002700
+ipp-non-chp,62990,Case Creek Solar LLC,63207,PGE,Portland General Electric Company,OP,2.2,2019-10,-122.912|45.172,13175,41047010303
+ipp-non-chp,62991,Kale Patch Solar LLC,63208,PGE,Portland General Electric Company,OP,2.2,2019-10,-122.904|45.083,13175,41047010303
+ipp-non-chp,62992,O'Neill Creek Solar LLC,63235,PGE,Portland General Electric Company,OP,2.2,2019-11,-123.129|45.472,12616,41067033000
+ipp-non-chp,63065,SOLV Inc.,63301,PACW,PacifiCorp - West,OP,10,2019-12,-120.4|42.16,12745,41037960200
+ipp-non-chp,62627,Alchemy Renewable Energy,63330,PGE,Portland General Electric Company,OP,10,2020-02,-122.35|45.35,12999,41005023500
+ipp-non-chp,62627,Alchemy Renewable Energy,63331,PGE,Portland General Electric Company,OP,10,2020-02,-122.25|45.35,12999,41005023500
+ipp-non-chp,63121,"Starvation Solar I, LLC",63344,BPAT,Bonneville Power Administration,OP,9.9,2019-12,-119.14852|43.50222,13274,41025960200
+ipp-non-chp,63185,Neighborhood Power Corp.,63442,PGE,Portland General Electric Company,OP,1.9,2019-12,-122.265|45.375,12999,41005023500
+ipp-non-chp,63185,Neighborhood Power Corp.,63443,PGE,Portland General Electric Company,OP,2.2,2019-11,-122.619475|45.131407,13007,41005023800
+ipp-non-chp,63185,Neighborhood Power Corp.,63456,PGE,Portland General Electric Company,OP,2.2,2020-03,-122.9361|45.11994,13175,41047010303
+ipp-non-chp,63202,"Pika Solar, LLC",63462,PGE,Portland General Electric Company,OP,2.2,2020-12,-122.7705|45.089244,13140,41047010400
+ipp-non-chp,63205,"Brush Creek Solar, LLC",63464,PGE,Portland General Electric Company,OP,2.2,2020-05,-122.813127|44.984217,12881,41047010503
+ipp-non-chp,63206,"Minke Solar, LLC",63465,PGE,Portland General Electric Company,OP,2.2,2020-12,-122.622665|45.172332,13007,41005023800
+ipp-non-chp,63207,"Drift Creek Solar, LLC",63466,PGE,Portland General Electric Company,OP,2.2,2020-05,-122.803509|44.970572,12881,41047010503
+ipp-non-chp,63208,"Bighorn Solar, LLC",63467,PGE,Portland General Electric Company,OP,2.2,2020-12,-122.954234|44.965702,13096,41047001603
+ipp-non-chp,63339,"Fort Rock Solar I, LLC",63636,BPAT,Bonneville Power Administration,OP,9.9,2020-03,-121.003496|43.320081,12626,41037960100
+ipp-non-chp,63459,"Suntex Solar, LLC",63778,BPAT,Bonneville Power Administration,OP,10,2020-07,-119.68621|43.56149,13253,41025960100
+ipp-non-chp,63460,"Rock Garden, LLC",63779,BPAT,Bonneville Power Administration,OP,10,2020-06,-120.93038|43.39691,12626,41037960100
+ipp-non-chp,63468,"Alkali Solar, LLC",63795,BPAT,Bonneville Power Administration,OP,10,2020-06,-121.0035|43.31942,12626,41037960100
+ipp-non-chp,63469,"West Hines Solar I, LLC",63796,BPAT,Bonneville Power Administration,OP,10,2020-06,-119.14713|43.50259,13274,41025960200
+ipp-non-chp,63573,SulusSolar17,63908,PGE,Portland General Electric Company,OP,3.1,2020-06,-122.433515|45.34891,13010,41005023100
+ipp-non-chp,63592,Riley Solar I LLC,63925,BPAT,Bonneville Power Administration,OP,10,2020-07,-119.6852|43.5559,13253,41025960100
+ipp-non-chp,63593,Fort Rock Solar IV LLC,63926,BPAT,Bonneville Power Administration,OP,10,2020-06,-120.956087|43.38988,12626,41037960100
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,63956,PGE,Portland General Electric Company,OP,2.3,2020-11,-123.10175|45.18484,13219,41071030900
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,63957,PGE,Portland General Electric Company,OP,2.3,2020-10,-122.32942|45.26866,13292,41005023600
+ipp-non-chp,63623,"Thor Solar 1 CEI, LLC",63958,PGE,Portland General Electric Company,OP,2,2020-12,-122.938|44.985,13096,41047001603
+ipp-non-chp,63623,"Thor Solar 1 CEI, LLC",63959,PGE,Portland General Electric Company,OP,2,2020-12,-122.793791|45.11601,13140,41047010400
+ipp-non-chp,63623,"Thor Solar 1 CEI, LLC",63960,PGE,Portland General Electric Company,OP,2,2020-12,-122.806|45.254,13268,41047010201
+ipp-non-chp,63623,"Thor Solar 1 CEI, LLC",63961,PGE,Portland General Electric Company,OP,4,2020-12,-122.333|45.42,13279,41005023401
+ipp-non-chp,63623,"Thor Solar 1 CEI, LLC",63962,PGE,Portland General Electric Company,OP,2,2020-12,-122.662|45.102,13007,41005023800
+ipp-non-chp,63623,"Thor Solar 1 CEI, LLC",63963,PGE,Portland General Electric Company,OP,2,2020-12,-122.591|45.182,13007,41005023800
+ipp-non-chp,63623,"Thor Solar 1 CEI, LLC",63964,PGE,Portland General Electric Company,OP,2,2020-12,-122.904499|45.139507,13175,41047010303
+ipp-non-chp,63624,SulusSolar35,63969,PGE,Portland General Electric Company,OP,3,2020-07,-122.649655|45.140551,13007,41005023800
+ipp-non-chp,63656,SulusSolar28,64007,PGE,Portland General Electric Company,OP,3,2020-10,-123.52|45.1,13042,41071030502
+ipp-non-chp,63671,GreenparkSolar,64033,PGE,Portland General Electric Company,OP,1.3,2020-11,-122.937451|44.879414,13130,41047002700
+ipp-non-chp,63670,SulusSolar25,64034,PGE,Portland General Electric Company,OP,2.2,2020-10,-122.82|45.27,13268,41047010201
+ipp-non-chp,63688,SulusSolar29,64048,PGE,Portland General Electric Company,OP,2.6,2020-12,-122.29|45.46,13279,41005023401
+ipp-non-chp,56565,TX Solar I LLC,57197,ERCO,"Electric Reliability Council of Texas, Inc.",OP,13.9,2010-11,-98.400339|29.304177,15402,48029141700
+ipp-non-chp,57021,FRV AE Solar LLC,57699,ERCO,"Electric Reliability Council of Texas, Inc.",OP,30,2011-12,-97.508812|30.238492,18396,48453002210
+ipp-non-chp,57386,SunE CPS3 LLC,58009,ERCO,"Electric Reliability Council of Texas, Inc.",OP,10.6,2012-05,-98.669167|29.221944,16997,48029162003
+commercial-non-chp,57389,IKEA Property Inc,58013,ERCO,"Electric Reliability Council of Texas, Inc.",OP,1.4,2012-09,-97.690286|30.557044,14716,48491021507
+ipp-non-chp,57403,SunE CPS2 LLC,58027,ERCO,"Electric Reliability Council of Texas, Inc.",OP,10,2012-05,-98.418333|29.245,17034,48029152201
+ipp-non-chp,57419,SunE CPS1 LLC,58068,ERCO,"Electric Reliability Council of Texas, Inc.",OP,10,2012-05,-98.418333|29.245,17034,48029152201
+ipp-non-chp,58473,"NVT LICENSES, LLC",58488,ERCO,"Electric Reliability Council of Texas, Inc.",OP,10,2013-06,-104.3|29.6,14054,48377950200
+ipp-non-chp,58489,OCI Solar Power,58537,ERCO,"Electric Reliability Council of Texas, Inc.",OP,40.7,2013-12,-98.444722|29.271667,14856,48029151900
+ipp-non-chp,59745,First Solar Asset Management,58710,ERCO,"Electric Reliability Council of Texas, Inc.",OP,30.2,2015-06,-103.35|30.96,16023,48371950500
+ipp-non-chp,58489,OCI Solar Power,58716,ERCO,"Electric Reliability Council of Texas, Inc.",OP,4.4,2014-03,-98.331944|29.469444,14083,48029131614
+ipp-non-chp,56769,Consolidated Edison Development Inc.,58717,ERCO,"Electric Reliability Council of Texas, Inc.",OP,39.6,2014-08,-100.383889|29.328889,16029,48271950100
+ipp-non-chp,56769,Consolidated Edison Development Inc.,59204,ERCO,"Electric Reliability Council of Texas, Inc.",OP,5.5,2015-01,-98.297222|29.479167,17453,48029131606
+ipp-non-chp,56769,Consolidated Edison Development Inc.,59205,ERCO,"Electric Reliability Council of Texas, Inc.",OP,100,2015-12,-99.716111|29.216667,13411,48463950200
+ipp-non-chp,59359,"BHE Renewables, LLC",59206,ERCO,"Electric Reliability Council of Texas, Inc.",OP,105,2017-03,-102.270833|30.993056,13658,48371950100
+ipp-non-chp,56769,Consolidated Edison Development Inc.,59207,ERCO,"Electric Reliability Council of Texas, Inc.",OP,100,2016-08,-99.5525|33.04,18046,48207950300
+ipp-non-chp,59180,Newman Solar LLC,59407,EPE,El Paso Electric Company,OP,10.5,2014-12,-106.4275|31.978333,14595,48141010210
+ipp-non-chp,17650,Southern Power Co,59994,ERCO,"Electric Reliability Council of Texas, Inc.",OP,160,2016-11,-103.306662|30.960209,16023,48371950500
+ipp-non-chp,59777,"Buckthorn Westex, LLC",60044,ERCO,"Electric Reliability Council of Texas, Inc.",OP,202,2018-05,-102.551292|30.57552,16023,48371950500
+ipp-non-chp,61123,Upton County Solar 2 LLC,60123,ERCO,"Electric Reliability Council of Texas, Inc.",OP,180,2018-05,-102.272|31.255,16449,48461950200
+electric-utility,5701,El Paso Electric Co,60300,EPE,El Paso Electric Company,OP,3,2017-05,-106.218892|31.813061,18632,48141010339
+ipp-non-chp,17650,Southern Power Co,60372,ERCO,"Electric Reliability Council of Texas, Inc.",OP,100,2017-04,-101.926522|32.715611,18176,48115950402
+ipp-non-chp,60228,CoServ Electric,60427,ERCO,"Electric Reliability Council of Texas, Inc.",OP,2,2015-06,-96.979168|33.2706,17934,48121020103
+ipp-non-chp,17650,Southern Power Co,60436,ERCO,"Electric Reliability Council of Texas, Inc.",OP,118.5,2017-04,-102.281744|31.000883,13658,48371950100
+ipp-non-chp,58519,Clean Energy Collective LLC,60472,ERCO,"Electric Reliability Council of Texas, Inc.",OP,1,2016-08,-98.26922|29.377966,18282,48029131802
+ipp-non-chp,56769,Consolidated Edison Development Inc.,60581,ERCO,"Electric Reliability Council of Texas, Inc.",OP,150,2017-12,-102.29027|31.241808,16449,48461950200
+ipp-non-chp,59359,"BHE Renewables, LLC",60682,ERCO,"Electric Reliability Council of Texas, Inc.",OP,50,2017-10,-102.26831|30.98784,13658,48371950100
+ipp-non-chp,60400,"Phantom Solar, LLC",60774,ERCO,"Electric Reliability Council of Texas, Inc.",OP,15.4,2017-04,-97.845111|31.114983,18289,48099010504
+ipp-non-chp,60476,"Bluebell Solar, LLC",60789,ERCO,"Electric Reliability Council of Texas, Inc.",OP,30,2018-11,-100.828|31.87,14431,48431950100
+ipp-non-chp,60636,"SolaireHolman 1, LLC",60989,ERCO,"Electric Reliability Council of Texas, Inc.",OP,50,2017-04,-103.4747|30.45512,14676,48043950500
+ipp-non-chp,60520,SoCore Energy LLC,61205,ERCO,"Electric Reliability Council of Texas, Inc.",OP,1.5,2017-02,-99.762212|29.681032,17844,48385950100
+ipp-non-chp,57389,IKEA Property Inc,61309,ERCO,"Electric Reliability Council of Texas, Inc.",OP,1.2,2017-12,-97.05|32.82,16391,48439106518
+ipp-non-chp,61801,"D E Shaw & Co., LP",61368,ERCO,"Electric Reliability Council of Texas, Inc.",OP,182,2018-12,-102.223537|30.995503,13658,48371950100
+ipp-non-chp,61060,Cypress Creek Renewables,61370,ERCO,"Electric Reliability Council of Texas, Inc.",OP,5,2016-12,-97.768464|32.07868,17261,48035950100
+ipp-non-chp,61060,Cypress Creek Renewables,61409,ERCO,"Electric Reliability Council of Texas, Inc.",OP,5.3,2017-12,-96.690448|33.614436,14885,48181001900
+ipp-non-chp,61060,Cypress Creek Renewables,61410,ERCO,"Electric Reliability Council of Texas, Inc.",OP,5,2017-12,-96.868721|33.616526,16464,48181001102
+ipp-non-chp,61060,Cypress Creek Renewables,61411,ERCO,"Electric Reliability Council of Texas, Inc.",OP,5,2017-12,-96.867474|33.624853,16464,48181001102
+ipp-non-chp,61100,Harvest Moon Renewable Energy Company LLC,61493,ERCO,"Electric Reliability Council of Texas, Inc.",OP,1.6,2015-12,-96.15994|29.740788,15967,48015760300
+ipp-non-chp,61060,Cypress Creek Renewables,61513,ERCO,"Electric Reliability Council of Texas, Inc.",OP,5.3,2017-12,-96.877205|31.286739,17043,48145000400
+ipp-non-chp,61060,Cypress Creek Renewables,61514,ERCO,"Electric Reliability Council of Texas, Inc.",OP,5.2,2017-12,-97.148569|33.656072,13566,48097000500
+ipp-non-chp,61060,Cypress Creek Renewables,61524,ERCO,"Electric Reliability Council of Texas, Inc.",OP,10,2017-12,-96.378894|33.498186,17242,48147950702
+ipp-non-chp,61060,Cypress Creek Renewables,61532,ERCO,"Electric Reliability Council of Texas, Inc.",OP,10,2017-12,-96.239739|33.16114,17260,48231961400
+ipp-non-chp,61060,Cypress Creek Renewables,61625,ERCO,"Electric Reliability Council of Texas, Inc.",OP,5,2018-12,-96.627|33.619,16454,48181001700
+ipp-non-chp,62080,"Lamesa Solar II, L.L.C.",61697,ERCO,"Electric Reliability Council of Texas, Inc.",OP,50,2018-11,-101.885218|32.713326,18176,48115950402
+ipp-non-chp,61323,"PowerFin ASL 1, LLC",61700,ERCO,"Electric Reliability Council of Texas, Inc.",OP,2.6,2018-03,-97.684861|30.265877,17248,48453002110
+ipp-non-chp,61060,Cypress Creek Renewables,61810,ERCO,"Electric Reliability Council of Texas, Inc.",OP,10,2018-12,-95.39071|33.63291,14297,48277000300
+ipp-non-chp,61060,Cypress Creek Renewables,61867,ERCO,"Electric Reliability Council of Texas, Inc.",OP,10,2018-12,-96.076894|29.631324,16037,48015760100
+ipp-non-chp,61060,Cypress Creek Renewables,61868,ERCO,"Electric Reliability Council of Texas, Inc.",OP,10,2018-12,-95.969548|29.537482,14320,48157675800
+ipp-non-chp,61060,Cypress Creek Renewables,61871,ERCO,"Electric Reliability Council of Texas, Inc.",OP,10,2018-11,-96.172617|33.166173,17203,48231960400
+ipp-non-chp,61060,Cypress Creek Renewables,61872,ERCO,"Electric Reliability Council of Texas, Inc.",OP,7.5,2019-11,-99.537261|30.872228,13918,48327950300
+ipp-non-chp,61060,Cypress Creek Renewables,61873,ERCO,"Electric Reliability Council of Texas, Inc.",OP,5,2018-11,-97.653747|31.933841,15395,48035950200
+ipp-non-chp,61060,Cypress Creek Renewables,61874,ERCO,"Electric Reliability Council of Texas, Inc.",OP,10,2018-11,-97.260738|31.291151,15695,48309003802
+ipp-non-chp,61060,Cypress Creek Renewables,61875,ERCO,"Electric Reliability Council of Texas, Inc.",OP,10,2019-04,-96.023384|29.205355,16733,48481740600
+ipp-non-chp,60146,Ameresco Federal Solutions,61887,EPE,El Paso Electric Company,OP,2,2018-07,-106.372861|31.829986,14998,48141010101
+ipp-non-chp,61509,"PGC Plano I, LLC",61895,ERCO,"Electric Reliability Council of Texas, Inc.",OP,7.7,2017-09,-96.84113|33.084219,14861,48085031656
+ipp-non-chp,61515,"Phoebe Energy Project, LLC",61906,ERCO,"Electric Reliability Council of Texas, Inc.",OP,250,2019-11,-102.868295|31.843422,15907,48495950400
+ipp-non-chp,61524,226HC 8me LLC,61962,ERCO,"Electric Reliability Council of Texas, Inc.",OP,200,2020-06,-100.162375|32.104125,15903,48353950500
+ipp-non-chp,61678,RE Rambler LLC,62141,ERCO,"Electric Reliability Council of Texas, Inc.",OP,200,2020-06,-100.6|31.517,14143,48451001704
+commercial-non-chp,57389,IKEA Property Inc,62152,ERCO,"Electric Reliability Council of Texas, Inc.",OP,1.7,2019-04,-98.25|29.48,14964,48029131601
+ipp-non-chp,63048,Misae Lessee LLC,62249,ERCO,"Electric Reliability Council of Texas, Inc.",OP,240,2020-01,-100.099625|34.380532,16109,48075950100
+ipp-non-chp,56215,RWE Renewables Americas LLC,62415,ERCO,"Electric Reliability Council of Texas, Inc.",OP,100,2019-12,-103.7289|31.4308,13665,48389950100
+ipp-non-chp,61960,Lapetus Energy Project LLC,62448,ERCO,"Electric Reliability Council of Texas, Inc.",OP,100,2019-12,-102.672809|32.460054,15505,48003950100
+ipp-non-chp,62047,"Roadrunner Solar, LLC",62561,ERCO,"Electric Reliability Council of Texas, Inc.",OP,400,2020-08,-102.19222|31.219444,16449,48461950200
+electric-utility,16604,City of San Antonio - (TX),62610,ERCO,"Electric Reliability Council of Texas, Inc.",OP,5,2019-12,-98.61765|29.43445,16902,48029171602
+ipp-non-chp,61219,Longroad Energy Services LLC,62755,ERCO,"Electric Reliability Council of Texas, Inc.",OP,300,2020-06,-102.840399|32.287873,15505,48003950100
+ipp-non-chp,60496,"Adapture Renewables, Inc.",62773,ERCO,"Electric Reliability Council of Texas, Inc.",OP,59,2020-12,-97.1798|33.5493,13567,48097000900
+ipp-non-chp,62682,Kellam Solar LLC,62774,ERCO,"Electric Reliability Council of Texas, Inc.",OP,59,2020-12,-95.7156|32.4744,18413,48467950800
+ipp-non-chp,56201,Engie North America,62845,ERCO,"Electric Reliability Council of Texas, Inc.",OP,225,2020-12,-101.621793|32.741383,14104,48033950100
+ipp-non-chp,62789,Oberon Solar IB,62932,ERCO,"Electric Reliability Council of Texas, Inc.",OP,30,2020-07,-102.69743|31.692358,16940,48135002200
+ipp-non-chp,62788,Oberon Solar IA,62933,ERCO,"Electric Reliability Council of Texas, Inc.",OP,150,2020-07,-102.701206|31.703258,16940,48135002200
+ipp-non-chp,61060,Cypress Creek Renewables,62953,ERCO,"Electric Reliability Council of Texas, Inc.",OP,5,2019-11,-97.141218|31.474114,18048,48309003703
+ipp-non-chp,61060,Cypress Creek Renewables,63027,ERCO,"Electric Reliability Council of Texas, Inc.",OP,10,2019-08,-98.834962|27.421553,15371,48479001815
+ipp-non-chp,62627,Alchemy Renewable Energy,63180,ERCO,"Electric Reliability Council of Texas, Inc.",OP,9.9,2017-12,-97.35|32.05,15693,48217960200
+ipp-non-chp,62842,"Lightsource Renewable Energy Asset Management, LLC",63222,ERCO,"Electric Reliability Council of Texas, Inc.",OP,198.5,2020-12,-95.370856|33.467803,14297,48277000300
+ipp-non-chp,61060,Cypress Creek Renewables,63273,ERCO,"Electric Reliability Council of Texas, Inc.",OP,120,2020-08,-95.658144|29.242304,14376,48039662000
+ipp-non-chp,63116,"Bluebell Solar II, LLC",63351,ERCO,"Electric Reliability Council of Texas, Inc.",OP,115,2020-12,-100.825|31.888,14431,48431950100
+ipp-non-chp,63183,Oxy Renewable Energy LLC,63388,ERCO,"Electric Reliability Council of Texas, Inc.",OP,16.8,2020-05,-102.340588|31.982702,16677,48135003000
+ipp-non-chp,56769,Consolidated Edison Development Inc.,63519,ERCO,"Electric Reliability Council of Texas, Inc.",OP,150,2020-07,-102.31165|31.254361,13583,48103950100
+ipp-non-chp,63713,CatanSolar,64079,ERCO,"Electric Reliability Council of Texas, Inc.",OP,10,2020-12,-97.696944|28.871642,16004,48255970400
+ipp-non-chp,61677,Sol Systems,64227,ERCO,"Electric Reliability Council of Texas, Inc.",OP,10,2019-12,-98.233324|26.88913,17045,48047950100
+ipp-non-chp,57383,Wasatch View Solar LLC,58006,PACE,PacifiCorp - East,OP,1.3,2012-05,-111.895|40.767222,18675,49035102500
+ipp-non-chp,59155,"First Wind O&M, LLC",58598,PACE,PacifiCorp - East,OP,3,2015-08,-113.645833|37.639167,19179,49021110300
+ipp-non-chp,59155,"First Wind O&M, LLC",58599,PACE,PacifiCorp - East,OP,3,2015-12,-113.09|37.807778,18873,49021110200
+ipp-non-chp,59155,"First Wind O&M, LLC",58600,PACE,PacifiCorp - East,OP,3,2015-12,-112.731667|38.023333,19114,49021110100
+ipp-non-chp,59155,"First Wind O&M, LLC",58601,PACE,PacifiCorp - East,OP,3,2015-07,-113.008333|38.291389,19218,49001100200
+ipp-non-chp,59155,"First Wind O&M, LLC",58602,PACE,PacifiCorp - East,OP,3,2015-07,-113.035556|38.291389,19218,49001100200
+ipp-non-chp,59155,"First Wind O&M, LLC",58603,PACE,PacifiCorp - East,OP,2.2,2015-10,-112.735833|38.256111,19218,49001100200
+ipp-non-chp,59155,"First Wind O&M, LLC",58604,PACE,PacifiCorp - East,OP,3,2015-08,-112.988889|38.402778,19218,49001100200
+ipp-non-chp,58602,Utah Red Hills Renewable Energy Park LLC,58660,PACE,PacifiCorp - East,OP,80,2015-12,-112.904167|37.882778,19114,49021110100
+ipp-non-chp,58468,Dominion Renewable Energy,59386,PACE,PacifiCorp - East,OP,80,2016-07,-113.6125|37.641111,19179,49021110300
+ipp-non-chp,58468,Dominion Renewable Energy,59387,PACE,PacifiCorp - East,OP,80,2016-08,-113.033889|38.524167,19218,49001100200
+ipp-non-chp,58468,Dominion Renewable Energy,59388,PACE,PacifiCorp - East,OP,80,2016-08,-113.03|38.500833,19218,49001100200
+ipp-non-chp,58468,Dominion Renewable Energy,59389,PACE,PacifiCorp - East,OP,80,2016-08,-112.986944|38.497778,19218,49001100200
+ipp-non-chp,59358,"REUT Origination, LLC",59620,PACE,PacifiCorp - East,OP,2.9,2015-03,-113.053611|38.311111,19218,49001100200
+ipp-non-chp,58468,Dominion Renewable Energy,59702,PACE,PacifiCorp - East,OP,50,2015-12,-112.36327|38.960519,18765,49027974300
+ipp-non-chp,59561,"SunE Solar XVII Project 2, LLC",59786,PACE,PacifiCorp - East,OP,3,2015-09,-113.283666|37.794678,19179,49021110300
+ipp-non-chp,59560,"SunE Solar XVII Project 1, LLC",59787,PACE,PacifiCorp - East,OP,3,2015-09,-113.253724|37.750268,19179,49021110300
+ipp-non-chp,59695,"SunE Solar XVII Project 3, LLC",59932,PACE,PacifiCorp - East,OP,3,2015-12,-113.216634|37.731338,19179,49021110300
+ipp-non-chp,58468,Dominion Renewable Energy,59941,PACE,PacifiCorp - East,OP,80,2016-08,-113.1516|37.7212,19179,49021110300
+ipp-non-chp,58468,Dominion Renewable Energy,59945,PACE,PacifiCorp - East,OP,50.4,2016-09,-113.322|37.7989,19179,49021110300
+ipp-non-chp,58468,Dominion Renewable Energy,59946,PACE,PacifiCorp - East,OP,80,2016-09,-113.226403|37.77509,19179,49021110300
+ipp-non-chp,59716,SunE DB24 LLC,59958,PACE,PacifiCorp - East,OP,3,2015-12,-112.990812|38.388243,19218,49001100200
+ipp-non-chp,60245,Three Peaks Power LLC,60432,PACE,PacifiCorp - East,OP,80,2016-12,-113.137082|37.827082,18873,49021110200
+ipp-non-chp,60238,Pavant Solar II LLC,60449,PACE,PacifiCorp - East,OP,50,2016-11,-112.343|39.1625,18765,49027974300
+ipp-non-chp,60947,Tesla Inc.,60821,WACM,Western Area Power Administration - Rocky Mountain Region,OP,1.3,2017-01,-111.982167|41.098957,18690,49011125808
+ipp-non-chp,60536,Pavant Solar III LLC,60886,PACE,PacifiCorp - East,OP,20,2016-12,-112.359849|39.154474,18765,49027974300
+ipp-non-chp,60731,Quichapa 1 LLC,61119,PACE,PacifiCorp - East,OP,3,2016-12,-113.216679|37.658223,19121,49021110702
+ipp-non-chp,60732,Quichapa 2 LLC,61120,PACE,PacifiCorp - East,OP,3,2016-12,-113.188953|37.666772,19121,49021110702
+ipp-non-chp,60733,Quichapa 3 LLC,61121,PACE,PacifiCorp - East,OP,3,2016-12,-113.236928|37.649816,19179,49021110300
+ipp-non-chp,61934,CI III VK I TE Partnership LLC,62399,PACE,PacifiCorp - East,OP,57.6,2019-09,-111.06|41.77,18806,49033950100
+ipp-non-chp,62802,Cove Mountain Solar LLC,62469,PACE,PacifiCorp - East,OP,58,2020-11,-113.619219|37.623123,19179,49021110300
+ipp-non-chp,62803,Cove Mountain Solar 2 LLC,62470,PACE,PacifiCorp - East,OP,122,2020-10,-113.637097|37.638602,19179,49021110300
+ipp-non-chp,62703,Bloomington Solar I,62805,PACE,PacifiCorp - East,OP,2,2018-12,-113.627523|37.043828,19212,49053271600
+ipp-non-chp,63440,Milford Solar I (NES),62812,PACE,PacifiCorp - East,OP,99,2020-11,-113.018283|38.490667,19218,49001100200
+electric-utility,15500,Puget Sound Energy Inc,56322,PSEI,Puget Sound Energy,OP,0.5,2007-10,-120.206494|47.036269,19426,53037975300
+ipp-non-chp,61529,"Adams Nielson Solar, LLC",61933,AVA,Avista Corporation,OP,19.2,2018-11,-118.621244|46.95528,19504,53001950200
+electric-utility,20160,Energy Northwest,64198,BPAT,Bonneville Power Administration,OP,3.2,2020-10,-119.3222|46.3529,20011,53005012000
+electric-utility,17470,PUD 1 of Snohomish County,64446,BPAT,Bonneville Power Administration,OP,0.5,2019-06,-122.1502|48.15614,19624,53061053509
+ipp-non-chp,61005,Sweetwater Solar LLC,61369,PACE,PacifiCorp - East,OP,92,2018-12,-109.683472|41.629056,20807,56037970500
+electric-utility,803,Arizona Public Service Co,116,AZPS,Arizona Public Service Company,OP,0.6,1998-03,-111.9122|33.4225,806,04013318400
+electric-utility,16572,Salt River Project,141,SRP,Salt River Project,OP,0.2,2001-06,-112.2153|33.5561,299,04013093200
+electric-utility,24211,Tucson Electric Power Co,8223,TEPC,Tucson Electric Power Company,OP,13.4,2014-12,-109.1639|34.3186,1274,04001970300
+electric-utility,803,Arizona Public Service Co,56228,AZPS,Arizona Public Service Company,OP,2.1,2002-10,-112.4008|34.6584,1380,04025000300
+ipp-non-chp,15399,Avangrid Renewables LLC,57318,SRP,Salt River Project,OP,20,2011-12,-111.484011|33.160601,1452,04021000208
+electric-utility,803,Arizona Public Service Co,57324,AZPS,Arizona Public Service Company,OP,15,2015-06,-112.37944|33.526111,1021,04013061100
+ipp-non-chp,59396,Agua Caliente Solar,57373,CISO,California Independent System Operator,OP,347.7,2012-05,-113.4945|32.9774,1092,04027012100
+electric-utility,24211,Tucson Electric Power Co,57392,TEPC,Tucson Electric Power Company,OP,1.2,2010-12,-110.8106|32.096973,1263,04019004073
+ipp-non-chp,56857,SunE M5C Holdings LLC,57524,TEPC,Tucson Electric Power Company,OP,1.1,2010-08,-111.0331|32.2894,598,04019004418
+electric-utility,19728,"UNS Electric, Inc",57556,TEPC,Tucson Electric Power Company,OP,1,2011-11,-114.004591|35.241675,657,04015950705
+electric-utility,803,Arizona Public Service Co,57560,AZPS,Arizona Public Service Company,OP,19,2012-12,-112.42899|34.71843,217,04025000202
+electric-utility,803,Arizona Public Service Co,57561,AZPS,Arizona Public Service Company,OP,17,2011-11,-112.661667|33.034722,340,04013723305
+electric-utility,803,Arizona Public Service Co,57562,AZPS,Arizona Public Service Company,OP,17.6,2011-09,-112.661389|33.021111,340,04013723305
+electric-utility,803,Arizona Public Service Co,57563,AZPS,Arizona Public Service Company,OP,22,2011-11,-113.34397|33.02566,1092,04027012100
+ipp-non-chp,59398,NRG Solar Avra Valley,57657,TEPC,Tucson Electric Power Company,OP,26.5,2013-01,-111.282777|32.371667,904,04019004425
+ipp-non-chp,56998,"Macys Corporate Services, Inc",57673,AZPS,Arizona Public Service Company,OP,3.5,2010-12,-112.414596|33.409063,426,04013061024
+ipp-non-chp,57004,Arlington Valley Solar Energy II LLC,57680,AZPS,Arizona Public Service Company,OP,129,2013-04,-112.833888|33.305,1122,04013050604
+ipp-non-chp,57030,"Mesquite Solar 1, LLC",57707,SRP,Salt River Project,OP,170,2011-11,-112.904028|33.341833,375,04013050603
+electric-utility,24211,Tucson Electric Power Co,57717,TEPC,Tucson Electric Power Company,OP,2.8,2012-01,-110.820319|32.103471,1263,04019004073
+ipp-non-chp,58863,Main Street Power,57765,AZPS,Arizona Public Service Company,OP,5.7,2011-11,-114.49611|32.687778,579,04027010911
+ipp-non-chp,11556,Brookfield Energy Marketing LP,57775,AZPS,Arizona Public Service Company,OP,0.5,2011-09,-114.0675|35.145833,343,04015954800
+ipp-non-chp,57107,RE Bagdad Solar 1 LLC,57790,AZPS,Arizona Public Service Company,OP,16.6,2011-12,-113.177222|34.585833,66,04025001300
+ipp-non-chp,57112,RE Ajo 1 LLC,57795,AZPS,Arizona Public Service Company,OP,4.5,2011-08,-112.831401|32.367013,1474,04019005200
+ipp-non-chp,57219,Siete Solar LLC,57883,SRP,Salt River Project,OP,19,2012-10,-111.612222|33.2675,1296,04013816900
+ipp-non-chp,61055,FRB Solar LLC,57930,TEPC,Tucson Electric Power Company,OP,1.9,2011-04,-110.824662|32.108147,1263,04019004073
+ipp-non-chp,60947,Tesla Inc.,57939,AZPS,Arizona Public Service Company,OP,2,2011-06,-111.771751|32.866837,959,04021001500
+electric-utility,803,Arizona Public Service Co,57997,AZPS,Arizona Public Service Company,OP,35,2013-03,-114.428741|32.64856,971,04027011111
+ipp-non-chp,57408,Constellation Solar Arizona LLC,58037,AZPS,Arizona Public Service Company,OP,3.3,2011-12,-112.576111|33.419167,1172,04013050608
+ipp-non-chp,57413,Black Mountain Solar LLC,58042,AZPS,Arizona Public Service Company,OP,9,2012-12,-114.1627|35.0227,343,04015954800
+ipp-non-chp,58108,"SunE AZ1, LLC",58147,AZPS,Arizona Public Service Company,OP,10.8,2011-12,-112.4275|34.649444,1380,04025000300
+electric-utility,24211,Tucson Electric Power Co,58171,TEPC,Tucson Electric Power Company,OP,4.5,2012-12,-110.82|32.116389,1263,04019004073
+ipp-non-chp,58182,SunE AZ2 LLC,58213,AZPS,Arizona Public Service Company,OP,15,2012-12,-113.180833|33.378333,375,04013050603
+ipp-non-chp,58239,Desert Sky Solar LLC,58262,AZPS,Arizona Public Service Company,OP,14.8,2013-11,-112.813458|33.498003,667,04013050605
+ipp-non-chp,58863,Main Street Power,58292,AZPS,Arizona Public Service Company,OP,1.1,2012-09,-111.924722|33.603056,1417,04013216816
+ipp-non-chp,58863,Main Street Power,58293,AZPS,Arizona Public Service Company,OP,1.3,2013-01,-111.9997|33.6416,962,04013619600
+electric-utility,803,Arizona Public Service Co,58383,AZPS,Arizona Public Service Company,OP,14,2013-12,-113.3489|33.027,1092,04027012100
+ipp-non-chp,57369,"Apple, Inc",58466,CISO,California Independent System Operator,OP,4,2013-03,-111.603056|33.346944,862,04013980600
+ipp-non-chp,58473,"NVT LICENSES, LLC",58486,TEPC,Tucson Electric Power Company,OP,20,2012-12,-111.242778|32.369722,904,04019004425
+ipp-non-chp,57354,X-Elio North America Inc,58501,AZPS,Arizona Public Service Company,OP,15,2013-12,-112.665833|33.026389,340,04013723305
+ipp-non-chp,58491,"Constellation Solar Holding, LLC",58516,AZPS,Arizona Public Service Company,OP,1.6,2012-12,-111.738611|32.936944,206,04021001305
+ipp-non-chp,58491,"Constellation Solar Holding, LLC",58517,AZPS,Arizona Public Service Company,OP,1.8,2012-12,-111.713056|32.891389,335,04021001405
+commercial-non-chp,58507,Solar Star Arizona III LLC,58539,AZPS,Arizona Public Service Company,OP,6.5,2012-12,-112.24|33.820556,1481,04013610000
+ipp-non-chp,58514,"Gilbert Solar Facility I, LLC",58543,AZPS,Arizona Public Service Company,OP,2.5,2011-10,-111.802355|33.355862,1098,04013422401
+ipp-non-chp,60947,Tesla Inc.,58632,TEPC,Tucson Electric Power Company,OP,3,2009-12,-110.863333|32.1825,675,04019003600
+commercial-non-chp,58649,Solar Star Arizona II LLC,58708,AZPS,Arizona Public Service Company,OP,1.1,2012-12,-111.9842|33.4345,1332,04013113802
+commercial-non-chp,58649,Solar Star Arizona II LLC,58709,AZPS,Arizona Public Service Company,OP,1.6,2012-12,-112.04484|33.43042,532,04013117200
+ipp-non-chp,58705,Washington Gas Energy Systems,58832,TEPC,Tucson Electric Power Company,OP,1,2014-07,-110.813333|32.101944,1263,04019004073
+ipp-non-chp,59146,Red Horse 2,58833,TEPC,Tucson Electric Power Company,OP,51,2015-08,-110.088056|32.286111,1389,04003000201
+ipp-non-chp,58711,"Gato Montes Solar, LLC",58842,TEPC,Tucson Electric Power Company,OP,5,2012-12,-110.819722|32.102778,1263,04019004073
+electric-utility,24211,Tucson Electric Power Co,58972,TEPC,Tucson Electric Power Company,OP,17.7,2017-01,-110.35|31.555278,1118,04003001401
+electric-utility,803,Arizona Public Service Co,59020,AZPS,Arizona Public Service Company,OP,32,2014-10,-112.881389|32.940833,340,04013723305
+electric-utility,19728,"UNS Electric, Inc",59044,TEPC,Tucson Electric Power Company,OP,6,2014-03,-111.008056|31.5,216,04023966104
+ipp-non-chp,59384,Avalon Solar,59168,TEPC,Tucson Electric Power Company,OP,29,2014-12,-110.960556|32.001389,1016,04019004114
+electric-utility,803,Arizona Public Service Co,59444,AZPS,Arizona Public Service Company,OP,10,2015-09,-112.66|33.145,276,04013723306
+ipp-non-chp,59220,"Valencia Solar, LLC",59454,TEPC,Tucson Electric Power Company,OP,10,2013-06,-110.866944|32.145833,675,04019003600
+ipp-non-chp,59221,"Tech Park Solar, LLC",59455,TEPC,Tucson Electric Power Company,OP,5,2012-12,-110.815696|32.097884,1263,04019004073
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59634,SRP,Salt River Project,OP,45,2015-12,-111.430278|33.035556,1520,04021000801
+ipp-non-chp,59544,"SunE DM, LLC",59779,TEPC,Tucson Electric Power Company,OP,12.6,2014-01,-110.899734|32.17356,675,04019003600
+ipp-non-chp,59600,"Mohave Sunrise Solar I, LLC",59819,WALC,Western Area Power Administration - Desert Southwest Region,OP,14.4,2015-04,-114.5565|34.9843,778,04015952002
+ipp-non-chp,59789,"Avalon Solar Partners II, LLC",60062,TEPC,Tucson Electric Power Company,OP,16,2016-03,-110.958427|32.000854,614,04019004323
+ipp-non-chp,60947,Tesla Inc.,60230,AZPS,Arizona Public Service Company,OP,1.8,2019-06,-112.340297|33.409803,1032,04013082208
+ipp-non-chp,60068,Red Horse III,60285,TEPC,Tucson Electric Power Company,OP,30,2016-07,-110.05129|32.13597,1389,04003000201
+ipp-non-chp,60106,"Mesquite Solar 2, LLC",60307,CISO,California Independent System Operator,OP,100,2016-12,-112.911388|33.332777,1122,04013050604
+ipp-non-chp,60107,"Mesquite Solar 3, LLC",60308,CISO,California Independent System Operator,OP,150,2016-12,-112.936805|33.347583,375,04013050603
+ipp-non-chp,60177,"Solar Star Arizona XIII, LLC",60381,WALC,Western Area Power Administration - Desert Southwest Region,OP,20,2016-12,-109.919283|32.0628,1126,04003000203
+ipp-non-chp,57369,"Apple, Inc",60413,SRP,Salt River Project,OP,50,2016-11,-111.34|33.053,1005,04021000803
+electric-utility,803,Arizona Public Service Co,60467,AZPS,Arizona Public Service Company,OP,40,2017-02,-111.289232|32.551026,266,04021000802
+electric-utility,19728,"UNS Electric, Inc",60603,TEPC,Tucson Electric Power Company,OP,4.4,2017-03,-114.01183|35.304528,843,04015950704
+ipp-non-chp,60404,"Constellation Solar Arizona 2, LLC",60684,TEPC,Tucson Electric Power Company,OP,1,2016-12,-110.975|32.269,223,04019002604
+ipp-non-chp,60404,"Constellation Solar Arizona 2, LLC",60685,TEPC,Tucson Electric Power Company,OP,1.5,2016-12,-110.974|32.374,1488,04019004620
+ipp-non-chp,60947,Tesla Inc.,60822,AZPS,Arizona Public Service Company,OP,4.2,2017-12,-111.892354|33.243261,85,04013980500
+ipp-non-chp,61785,EDP Renewables North America LLC,60827,CISO,California Independent System Operator,OP,160,2020-01,-112.8348|33.34884,1122,04013050604
+electric-utility,796,Arizona Electric Pwr Coop Inc,60964,WALC,Western Area Power Administration - Desert Southwest Region,OP,90,2017-10,-109.890379|32.068141,1126,04003000203
+ipp-non-chp,60633,"Iron Horse Battery Storage, LLC",60996,TEPC,Tucson Electric Power Company,OP,2,2017-04,-110.819119|32.098492,1263,04019004073
+ipp-non-chp,60947,Tesla Inc.,61104,TEPC,Tucson Electric Power Company,OP,1.3,2017-08,-110.990639|32.146142,386,04019003902
+ipp-non-chp,60520,SoCore Energy LLC,61199,SRP,Salt River Project,OP,1.2,2017-05,-112.217664|33.447225,1067,04013112510
+ipp-non-chp,60879,"NGI-Kayenta Solar Lessor I, LLC",61268,WALC,Western Area Power Administration - Desert Southwest Region,OP,55.3,2017-05,-110.263889|36.771944,410,04017942400
+ipp-non-chp,60886,"Gray Hawk Solar, LLC",61272,TEPC,Tucson Electric Power Company,OP,55,2018-06,-113.8978|35.3635,843,04015950704
+ipp-non-chp,61295,"Pinal Central Energy Center, LLC",61678,SRP,Salt River Project,OP,20,2018-04,-111.551111|32.875697,1378,04021001200
+ipp-non-chp,60947,Tesla Inc.,62075,TEPC,Tucson Electric Power Company,OP,1.1,2019-08,-110.816669|32.166494,839,04019004058
+commercial-non-chp,62083,Arizona State University FDM,62643,AZPS,Arizona Public Service Company,OP,2.4,2013-12,-111.92822|33.424279,807,04013318700
+ipp-non-chp,61012,AES Distributed Energy,62899,SRP,Salt River Project,OP,100,2020-12,-111.565072|32.84703,527,04021002002
+electric-utility,803,Arizona Public Service Co,62965,AZPS,Arizona Public Service Company,OP,10,2015-07,-112.659124|33.145593,276,04013723306
+ipp-non-chp,63115,"AZ Solar 1, LLC",63349,WALC,Western Area Power Administration - Desert Southwest Region,OP,32.5,2019-12,-113.656111|33.776667,177,04012020100
+ipp-non-chp,60584,Onyx Asset Services Group,63531,TEPC,Tucson Electric Power Company,OP,1.3,2019-04,-111.02786|32.343491,905,04019004626
+ipp-non-chp,60404,"Constellation Solar Arizona 2, LLC",63554,WALC,Western Area Power Administration - Desert Southwest Region,OP,10,2016-10,-114.5565|34.9843,778,04015952002
+commercial-non-chp,57369,"Apple, Inc",64404,SRP,Salt River Project,OP,4.6,2020-03,-111.602|33.347,1225,04013422646
+ipp-non-chp,61944,Goldman Sachs Renewable Power Group,64580,TEPC,Tucson Electric Power Company,OP,3,2013-12,-111.2611|32.24817,904,04019004425
+electric-utility,16534,Sacramento Municipal Util Dist,529,BANC,Balancing Authority of Northern California,OP,2,1984-08,-121.113861|38.340015,5445,06067009406
+ipp-non-chp,60246,"Sunray Energy 2, LLC",10437,CISO,California Independent System Operator,OP,20,2017-06,-116.827627|34.863356,2452,06071010300
+ipp-non-chp,60247,Sunray Energy 3 LLC,10438,CISO,California Independent System Operator,OP,13.8,2017-06,-116.827627|34.863356,2452,06071010300
+commercial-chp,16625,San Diego State University,50061,CISO,California Independent System Operator,OP,0.8,2009-09,-117.070114|32.778225,9403,06073002801
+ipp-non-chp,55961,CalRenew-1 LLC,56768,CISO,California Independent System Operator,OP,5,2010-04,-120.3658|36.7575,4122,06019008301
+ipp-non-chp,56028,MMA Fresno Power LP,56813,CISO,California Independent System Operator,OP,1,2007-12,-119.741665|36.809841,4230,06019005408
+ipp-non-chp,56027,MMA LA Power LP,56814,CISO,California Independent System Operator,OP,1,2008-05,-118.148056|34.040278,8741,06037530400
+ipp-non-chp,56105,MMA WBF Power LP,56862,CISO,California Independent System Operator,OP,1.2,2008-11,-117.6933|34.5644,4553,06037900102
+ipp-non-chp,57170,"EDF Renewable Asset Holdings, Inc.",56875,BANC,Balancing Authority of Northern California,OP,1,2008-08,-121.16469|38.44979,6603,06067008600
+commercial-non-chp,56113,MMA GDC Power LP,56909,CISO,California Independent System Operator,OP,1.2,2008-10,-119.7094|36.7839,8455,06019003104
+ipp-non-chp,56167,"Imperial Valley Solar, LLC",56917,CISO,California Independent System Operator,OP,199.9,2013-11,-115.587265|32.671099,9094,06025011900
+ipp-non-chp,59399,NRG Solar Blythe,56939,CISO,California Independent System Operator,OP,21,2009-12,-114.7444|33.5917,2361,06065046900
+electric-utility,17609,Southern California Edison Co,56996,CISO,California Independent System Operator,OP,1,2009-12,-117.700826|33.985244,2230,06071000504
+ipp-non-chp,56294,SunE WG113 Moreno Valley LLC,57004,CISO,California Independent System Operator,OP,1,2007-09,-117.23|33.8672,1830,06065042507
+ipp-non-chp,56431,SunE U6 Holdings LLC,57005,CISO,California Independent System Operator,OP,1,2008-11,-121.96366|38.40008,9077,06095253206
+ipp-non-chp,56296,SunE WG45 Woodland LLC,57006,CISO,California Independent System Operator,OP,1,2007-08,-121.713362|38.674894,9120,06113011206
+ipp-non-chp,56297,SunE CPA CDC2 LLC,57007,CISO,California Independent System Operator,OP,1,2008-05,-114.917979|33.567268,2361,06065046900
+ipp-non-chp,56431,SunE U6 Holdings LLC,57008,CISO,California Independent System Operator,OP,1,2009-10,-119.13|34.2089,5486,06111004902
+ipp-non-chp,56300,SunE KHL55 San Bernardino LLC,57009,CISO,California Independent System Operator,OP,1,2007-11,-117.266831|34.094695,4043,06071980100
+ipp-non-chp,56434,SunE M5 Holdings LLC,57010,CISO,California Independent System Operator,OP,1,2008-12,-122.092706|38.232108,8011,06095252305
+ipp-non-chp,56302,SunE CPA CDC1 LLC,57011,CISO,California Independent System Operator,OP,1,2006-06,-114.903629|33.565329,1904,06065981000
+ipp-non-chp,56434,SunE M5 Holdings LLC,57012,CISO,California Independent System Operator,OP,1,2009-03,-117.2|34.5975,8026,06071012101
+electric-utility,14328,Pacific Gas & Electric Co.,57041,CISO,California Independent System Operator,OP,2,2009-12,-121.9264|38.4106,8178,06095252904
+electric-utility,17609,Southern California Edison Co,57217,CISO,California Independent System Operator,OP,1,2011-03,-117.400113|34.094279,3553,06071003510
+electric-utility,17609,Southern California Edison Co,57219,CISO,California Independent System Operator,OP,2.5,2012-11,-117.230571|34.086276,4419,06071007800
+electric-utility,17609,Southern California Edison Co,57220,CISO,California Independent System Operator,OP,2,2011-08,-117.573055|34.041389,6425,06071012700
+electric-utility,17609,Southern California Edison Co,57221,CISO,California Independent System Operator,OP,2.5,2012-11,-117.2275|34.086111,4419,06071007800
+electric-utility,17609,Southern California Edison Co,57222,CISO,California Independent System Operator,OP,2,2011-08,-117.565|34.041944,6425,06071012700
+electric-utility,17609,Southern California Edison Co,57223,CISO,California Independent System Operator,OP,1,2011-08,-117.571666|34.042778,6425,06071012700
+electric-utility,17609,Southern California Edison Co,57224,CISO,California Independent System Operator,OP,1.5,2013-01,-117.516944|34.075,6246,06071002204
+electric-utility,17609,Southern California Edison Co,57225,CISO,California Independent System Operator,OP,3.5,2015-02,-117.241388|34.075833,4419,06071007800
+electric-utility,17609,Southern California Edison Co,57226,CISO,California Independent System Operator,OP,0.5,2011-08,-117.561666|34.042222,6425,06071012700
+electric-utility,17609,Southern California Edison Co,57227,CISO,California Independent System Operator,OP,3.5,2015-02,-117.23557|34.083499,4419,06071007800
+electric-utility,17609,Southern California Edison Co,57229,CISO,California Independent System Operator,OP,3.5,2013-01,-117.516666|34.079167,6246,06071002204
+electric-utility,17609,Southern California Edison Co,57230,CISO,California Independent System Operator,OP,1.5,2015-02,-117.233611|34.085556,4419,06071007800
+electric-utility,17609,Southern California Edison Co,57231,CISO,California Independent System Operator,OP,3.5,2015-01,-117.503333|34.072778,6246,06071002204
+electric-utility,17609,Southern California Edison Co,57232,CISO,California Independent System Operator,OP,1.5,2012-11,-117.516388|34.083333,6246,06071002204
+electric-utility,17609,Southern California Edison Co,57236,CISO,California Independent System Operator,OP,2.5,2013-01,-117.520277|34.080833,6246,06071002204
+electric-utility,17609,Southern California Edison Co,57237,CISO,California Independent System Operator,OP,2,2011-08,-117.2114|34.08,4419,06071007800
+electric-utility,17609,Southern California Edison Co,57245,CISO,California Independent System Operator,OP,6,2015-02,-117.425324|34.131214,1969,06071002306
+electric-utility,17609,Southern California Edison Co,57246,CISO,California Independent System Operator,OP,2,2015-02,-117.421666|34.131111,1969,06071002306
+electric-utility,17609,Southern California Edison Co,57247,CISO,California Independent System Operator,OP,3.5,2015-02,-117.274166|34.094167,6742,06071006500
+commercial-non-chp,56618,Victor Valley Community College District,57254,CISO,California Independent System Operator,OP,1,2010-06,-117.257938|34.48017,4567,06071010004
+ipp-non-chp,59397,NRG Solar Alpine,57295,CISO,California Independent System Operator,OP,66,2013-02,-118.5047|34.7892,7484,06037901209
+electric-utility,11208,Los Angeles Department of Water & Power,57305,LDWP,Los Angeles Department of Water and Power,OP,10,2012-06,-117.435277|34.550833,6101,06071009117
+electric-utility,11208,Los Angeles Department of Water & Power,57306,LDWP,Los Angeles Department of Water and Power,OP,8.5,2013-03,-118.1957|35.229635,3403,06029006004
+electric-utility,11208,Los Angeles Department of Water & Power,57308,LDWP,Los Angeles Department of Water and Power,OP,2.2,2017-04,-118.430833|34.319722,7177,06037106020
+commercial-non-chp,11208,Los Angeles Department of Water & Power,57309,LDWP,Los Angeles Department of Water and Power,OP,1.1,2010-09,-118.27722|33.7331,4657,06037980031
+commercial-non-chp,57320,Konoike Pacific,57310,LDWP,Los Angeles Department of Water and Power,OP,1.3,2011-03,-118.241405|33.794283,7721,06037294120
+commercial-non-chp,11208,Los Angeles Department of Water & Power,57311,LDWP,Los Angeles Department of Water and Power,OP,1,2013-02,-118.206903|34.1283,2935,06037181600
+commercial-non-chp,57275,Metropolitan Transportation Authority,57313,LDWP,Los Angeles Department of Water and Power,OP,1.2,2005-04,-118.229722|34.0578,2672,06037206020
+commercial-non-chp,57276,Los Angeles Community College District,57314,LDWP,Los Angeles Department of Water and Power,OP,1.2,2010-10,-118.28493|33.783102,9192,06037980015
+ipp-non-chp,56769,Consolidated Edison Development Inc.,57340,CISO,California Independent System Operator,OP,140,2018-01,-120.879|36.627,7828,06069000802
+ipp-non-chp,56700,Avenal Solar Holdings LLC,57359,CISO,California Independent System Operator,OP,6,2011-08,-120.11|35.989722,7362,06031001701
+ipp-non-chp,56700,Avenal Solar Holdings LLC,57360,CISO,California Independent System Operator,OP,20,2011-08,-120.110277|35.983056,7362,06031001701
+ipp-non-chp,56700,Avenal Solar Holdings LLC,57361,CISO,California Independent System Operator,OP,19,2011-08,-120.110277|35.982778,7362,06031001701
+ipp-non-chp,56722,AV Solar Ranch 1 LLC,57378,CISO,California Independent System Operator,OP,253,2014-08,-118.42444|34.780278,7484,06037901209
+commercial-non-chp,56751,Yolo County of,57422,CISO,California Independent System Operator,OP,1,2010-12,-121.7294|38.659722,9120,06113011206
+ipp-non-chp,56762,"NRG Renew Operation & Maintenance, LLC",57439,CISO,California Independent System Operator,OP,249.8,2013-10,-119.91663|35.323739,2081,06079012702
+electric-utility,17609,Southern California Edison Co,57441,CISO,California Independent System Operator,OP,5,2012-11,-119.074722|36.028056,6105,06107003400
+ipp-non-chp,57271,NRG Solar Borrego I,57455,CISO,California Independent System Operator,OP,26,2013-02,-116.35083|33.298889,3549,06073021000
+ipp-non-chp,56819,CSOLAR IV South LLC,57490,CISO,California Independent System Operator,OP,128.9,2013-11,-115.658284|32.663289,9094,06025011900
+ipp-non-chp,57260,CSOLAR IV West LLC,57491,CISO,California Independent System Operator,OP,148.7,2016-04,-115.779311|32.772225,8844,06025012301
+electric-utility,14328,Pacific Gas & Electric Co.,57497,CISO,California Independent System Operator,OP,20,2011-09,-120.106944|36.531389,8900,06019008200
+electric-utility,14328,Pacific Gas & Electric Co.,57498,CISO,California Independent System Operator,OP,15,2011-09,-120.103333|36.400278,7148,06019007802
+electric-utility,14328,Pacific Gas & Electric Co.,57499,CISO,California Independent System Operator,OP,15,2011-08,-120.124898|36.378726,7148,06019007802
+ipp-non-chp,56827,FRV SI Transport Solar LP,57506,CISO,California Independent System Operator,OP,1,2010-08,-121.3911|38.4869,2292,06067005102
+electric-utility,14328,Pacific Gas & Electric Co.,57521,CISO,California Independent System Operator,OP,10,2012-06,-120.316111|36.530278,8900,06019008200
+electric-utility,14328,Pacific Gas & Electric Co.,57522,CISO,California Independent System Operator,OP,20,2012-06,-120.343543|36.425085,2690,06019007902
+electric-utility,14328,Pacific Gas & Electric Co.,57523,CISO,California Independent System Operator,OP,20,2012-06,-120.030555|36.181389,9114,06019007801
+electric-utility,17609,Southern California Edison Co,57534,CISO,California Independent System Operator,OP,1.5,2015-02,-117.571944|34.031667,6425,06071012700
+electric-utility,17609,Southern California Edison Co,57535,CISO,California Independent System Operator,OP,1,2015-01,-117.569166|34.0325,6425,06071012700
+electric-utility,17609,Southern California Edison Co,57540,CISO,California Independent System Operator,OP,8,2015-02,-117.220833|33.839167,9475,06065042620
+ipp-non-chp,56902,"RE SFCity1, LP",57559,CISO,California Independent System Operator,OP,4.5,2010-09,-122.481758|37.750894,3168,06075032802
+electric-utility,17573,South San Joaquin Irr District,57579,CISO,California Independent System Operator,OP,1.3,2008-05,-120.8917|37.8583,6876,06099000101
+ipp-chp,56917,Broadridge Customer Communications,57580,CISO,California Independent System Operator,OP,0.8,2011-12,-121.0564|38.6183,4086,06017030704
+ipp-non-chp,56980,"Regulus Solar, LLC",57650,CISO,California Independent System Operator,OP,60,2014-11,-118.851944|35.3,3803,06029006202
+ipp-non-chp,17650,Southern Power Co,57651,CISO,California Independent System Operator,OP,20,2014-05,-118.954444|35.102778,3803,06029006202
+commercial-non-chp,56982,Kern Community College District,57655,CISO,California Independent System Operator,OP,1.1,2010-11,-118.96864|35.411817,3292,06029000800
+ipp-non-chp,56984,"Temescal Canyon RV, LLC",57656,CISO,California Independent System Operator,OP,1.5,2011-05,-117.511667|33.826389,8625,06065041909
+ipp-non-chp,56995,"Sacramento PV Energy, LLC",57669,BANC,Balancing Authority of Northern California,OP,17,2011-12,-121.41278|38.364722,6802,06067009638
+ipp-non-chp,56995,"Sacramento PV Energy, LLC",57670,BANC,Balancing Authority of Northern California,OP,2.9,2011-12,-121.278888|38.253056,5446,06067009408
+ipp-non-chp,56995,"Sacramento PV Energy, LLC",57671,BANC,Balancing Authority of Northern California,OP,2.9,2011-12,-121.3375|38.237778,5807,06067009501
+ipp-non-chp,57006,"SunE GIL1, LLC",57682,CISO,California Independent System Operator,OP,1.2,2009-09,-120.1572|36.9408,4613,06039000503
+ipp-non-chp,57007,"SunE WF3-ST Holdings, LLC",57683,CISO,California Independent System Operator,OP,1.1,2009-03,-118.0175|33.881667,8800,06037503902
+ipp-non-chp,59874,Topaz Solar Farms LLC,57695,CISO,California Independent System Operator,OP,585.9,2013-04,-120.068611|35.405556,2081,06079012702
+ipp-non-chp,60281,"Altus Power America Management, LLC",57697,CISO,California Independent System Operator,OP,3,2009-12,-121.162879|38.613508,5470,06067008705
+ipp-non-chp,60281,"Altus Power America Management, LLC",57698,CISO,California Independent System Operator,OP,2.7,2010-06,-121.1703|38.6086,5470,06067008705
+ipp-non-chp,57170,"EDF Renewable Asset Holdings, Inc.",57708,CISO,California Independent System Operator,OP,110,2012-12,-118.334492|34.938261,7885,06029005506
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,57722,CISO,California Independent System Operator,OP,4,2012-10,-116.5625|33.909722,9261,06065044522
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,57743,CISO,California Independent System Operator,OP,2.5,2012-04,-116.593333|33.924167,9261,06065044522
+ipp-non-chp,56995,"Sacramento PV Energy, LLC",57753,BANC,Balancing Authority of Northern California,OP,1,2011-12,-121.431342|38.338868,6802,06067009638
+commercial-non-chp,57073,"Solar Star California XV, LLC",57764,CISO,California Independent System Operator,OP,11.1,2012-09,-117.68137|35.68771,4705,06029005300
+commercial-non-chp,58315,SSA Solar of CA 2 LLC,57773,CISO,California Independent System Operator,OP,1.2,2009-08,-114.651667|33.661667,2361,06065046900
+ipp-non-chp,57354,X-Elio North America Inc,57777,BANC,Balancing Authority of Northern California,OP,3,2012-01,-121.181944|38.468611,6603,06067008600
+ipp-non-chp,57354,X-Elio North America Inc,57778,BANC,Balancing Authority of Northern California,OP,5,2012-01,-121.381101|38.365053,6802,06067009638
+ipp-non-chp,57354,X-Elio North America Inc,57779,BANC,Balancing Authority of Northern California,OP,3,2012-01,-121.177778|38.466111,6603,06067008600
+ipp-non-chp,57354,X-Elio North America Inc,57780,BANC,Balancing Authority of Northern California,OP,5,2012-02,-121.381101|38.365053,6802,06067009638
+ipp-non-chp,57354,X-Elio North America Inc,57781,BANC,Balancing Authority of Northern California,OP,3,2012-01,-121.180278|38.461944,6603,06067008600
+ipp-non-chp,57354,X-Elio North America Inc,57782,BANC,Balancing Authority of Northern California,OP,5,2012-02,-121.381101|38.365053,6802,06067009638
+ipp-non-chp,57354,X-Elio North America Inc,57783,BANC,Balancing Authority of Northern California,OP,5,2012-01,-121.412777|38.3475,6802,06067009638
+ipp-non-chp,57354,X-Elio North America Inc,57784,BANC,Balancing Authority of Northern California,OP,5,2012-02,-121.412777|38.3475,6802,06067009638
+ipp-non-chp,57354,X-Elio North America Inc,57785,BANC,Balancing Authority of Northern California,OP,5,2012-02,-121.412777|38.3475,6802,06067009638
+ipp-non-chp,57104,Golden Springs Development Company LLC,57796,CISO,California Independent System Operator,OP,1.2,2012-02,-118.053611|33.914167,6359,06037504102
+ipp-non-chp,57104,Golden Springs Development Company LLC,57797,CISO,California Independent System Operator,OP,1.3,2012-03,-118.052222|33.911944,6359,06037504102
+ipp-non-chp,57354,X-Elio North America Inc,57806,BANC,Balancing Authority of Northern California,OP,0.4,2012-01,-121.180278|38.461944,6603,06067008600
+ipp-non-chp,57354,X-Elio North America Inc,57816,BANC,Balancing Authority of Northern California,OP,5,2012-11,-121.295819|38.302594,9438,06067009403
+ipp-non-chp,57354,X-Elio North America Inc,57817,BANC,Balancing Authority of Northern California,OP,5,2012-11,-121.295819|38.302594,9438,06067009403
+ipp-non-chp,57354,X-Elio North America Inc,57818,BANC,Balancing Authority of Northern California,OP,5,2012-11,-121.295819|38.302594,9438,06067009403
+ipp-non-chp,57354,X-Elio North America Inc,57819,BANC,Balancing Authority of Northern California,OP,5,2012-11,-121.295819|38.302594,9438,06067009403
+ipp-non-chp,57354,X-Elio North America Inc,57820,BANC,Balancing Authority of Northern California,OP,5,2012-11,-121.295819|38.302594,9438,06067009403
+ipp-non-chp,57354,X-Elio North America Inc,57821,BANC,Balancing Authority of Northern California,OP,5,2012-11,-121.295819|38.302594,9438,06067009403
+commercial-non-chp,58661,"Sustainable Power Group, LLC",57827,CISO,California Independent System Operator,OP,1,2011-11,-119.426388|36.538056,9538,06107000301
+ipp-non-chp,57154,Heliocentric LLC,57831,CISO,California Independent System Operator,OP,1.5,2012-03,-117.971004|34.65434,8728,06037900201
+ipp-non-chp,57159,L-8 Solar Project LLC,57836,CISO,California Independent System Operator,OP,1.5,2012-05,-117.973103|34.654347,8728,06037900201
+ipp-non-chp,59139,SunEdison LLC,57840,CISO,California Independent System Operator,OP,1.1,2011-12,-117.095277|32.791667,4411,06073009604
+ipp-non-chp,59139,SunEdison LLC,57841,CISO,California Independent System Operator,OP,1.1,2011-09,-118.124444|33.921667,5904,06037551101
+ipp-non-chp,57177,SEAI Elk Grove LLC,57849,BANC,Balancing Authority of Northern California,OP,3,2012-09,-121.464676|38.282021,6441,06067009900
+ipp-non-chp,57177,SEAI Elk Grove LLC,57850,BANC,Balancing Authority of Northern California,OP,1,2012-09,-121.461264|38.28357,6441,06067009900
+commercial-non-chp,56918,University of California San Diego,57856,CISO,California Independent System Operator,OP,1.2,2008-12,-117.238927|32.874379,3998,06073008305
+electric-utility,57194,City of Industry,57860,CISO,California Independent System Operator,OP,1.5,2012-04,-117.845603|34.008661,5318,06037403312
+commercial-non-chp,57213,Castle Rock Cooling,57870,CISO,California Independent System Operator,OP,1,2010-09,-119.110556|35.801111,4499,06107004300
+commercial-non-chp,11208,Los Angeles Department of Water & Power,57871,LDWP,Los Angeles Department of Water and Power,OP,1,2012-03,-118.224167|34.026944,7632,06037206050
+electric-utility,14328,Pacific Gas & Electric Co.,57891,CISO,California Independent System Operator,OP,20,2013-08,-119.650556|36.163889,3885,06031001200
+electric-utility,14328,Pacific Gas & Electric Co.,57892,CISO,California Independent System Operator,OP,20,2013-06,-120.114167|36.176389,9114,06019007801
+commercial-non-chp,57262,Kern County Water Agency,57895,CISO,California Independent System Operator,OP,1.1,2009-01,-119.038611|35.402778,9083,06029000400
+electric-utility,17609,Southern California Edison Co,57900,CISO,California Independent System Operator,OP,5,2015-02,-117.228056|34.081111,4419,06071007800
+ipp-non-chp,57273,SS San Antonio West LLC,57904,CISO,California Independent System Operator,OP,1.5,2012-08,-117.659059|33.965617,5950,06071000115
+ipp-non-chp,58101,Solar Star California II LLC,57933,BANC,Balancing Authority of Northern California,OP,2,2012-08,-121.47528|38.516389,9365,06067004501
+ipp-non-chp,49893,Invenergy Services LLC,57959,CISO,California Independent System Operator,OP,6.3,2014-11,-116.34805|33.27055,3549,06073021000
+commercial-non-chp,57345,Butte-Glenn Community College District,57970,CISO,California Independent System Operator,OP,3.5,2011-07,-121.644167|39.648056,6759,06007002200
+ipp-non-chp,57354,X-Elio North America Inc,57982,CISO,California Independent System Operator,OP,1.1,2010-12,-120.566944|35.670278,3368,06079010300
+ipp-non-chp,58289,"NextEra Energy Desert Sunlight 300, LLC",57993,CISO,California Independent System Operator,OP,313.7,2013-11,-115.393889|33.823056,2361,06065046900
+ipp-non-chp,56769,Consolidated Edison Development Inc.,58002,CISO,California Independent System Operator,OP,20,2012-12,-119.442778|35.9025,4499,06107004300
+ipp-non-chp,56769,Consolidated Edison Development Inc.,58003,CISO,California Independent System Operator,OP,50,2012-12,-119.435278|35.898333,4499,06107004300
+commercial-non-chp,57389,IKEA Property Inc,58028,CISO,California Independent System Operator,OP,1.5,2011-04,-118.946944|34.975278,4176,06029003306
+ipp-non-chp,57405,NLH1 Solar LLC,58034,CISO,California Independent System Operator,OP,1.5,2012-11,-119.716512|35.647295,7660,06029004500
+ipp-non-chp,60898,Axium US Solar Holdings LLC,58039,CISO,California Independent System Operator,OP,25,2012-12,-120.995556|37.734167,6574,06099000501
+industrial-non-chp,57435,MillerCoors Irwindale Brewery,58056,CISO,California Independent System Operator,OP,2.5,2015-03,-117.938333|34.121667,6045,06037404600
+ipp-non-chp,57439,Imperial Valley Solar Company 1 LLC,58062,IID,Imperial Irrigation District,OP,23,2012-06,-115.496667|33.245833,9344,06025010101
+ipp-non-chp,57354,X-Elio North America Inc,58073,CISO,California Independent System Operator,OP,2,2012-05,-117.939444|34.618861,6488,06037910001
+ipp-non-chp,57354,X-Elio North America Inc,58074,CISO,California Independent System Operator,OP,2,2012-06,-116.152778|34.174167,5059,06071010416
+ipp-non-chp,59622,"Ahana Renewables, LLC",58076,CISO,California Independent System Operator,OP,3,2011-12,-117.9206|34.9077,8866,06029005700
+ipp-non-chp,60947,Tesla Inc.,58086,BANC,Balancing Authority of Northern California,OP,1,2010-07,-121.172999|38.645119,8952,06067008504
+ipp-non-chp,57354,X-Elio North America Inc,58118,CISO,California Independent System Operator,OP,1.5,2012-12,-119.7975|36.678611,5919,06019001800
+ipp-non-chp,57497,Golden State Energy LLC,58119,BANC,Balancing Authority of Northern California,OP,3,2010-12,-121.398333|38.515,6882,06067009201
+ipp-non-chp,58111,RE Kansas South LLC,58148,CISO,California Independent System Operator,OP,20,2013-06,-119.834167|36.226111,3897,06031001601
+ipp-non-chp,58112,TA-High Desert LLC,58149,CISO,California Independent System Operator,OP,20,2013-03,-118.304722|34.708889,9050,06037900900
+commercial-chp,58104,California State University at Fullerton,58169,CISO,California Independent System Operator,OP,4.3,2012-01,-117.88656|33.880638,7038,06059011504
+commercial-non-chp,58140,San Bernardino Comm College Dist,58170,CISO,California Independent System Operator,OP,1.3,2012-06,-117.098889|34.043056,7929,06071008706
+ipp-non-chp,57354,X-Elio North America Inc,58202,CISO,California Independent System Operator,OP,20,2013-12,-117.47753|34.51231,6101,06071009117
+ipp-non-chp,56751,Yolo County of,58204,CISO,California Independent System Operator,OP,2.5,2013-07,-121.694167|38.500278,5471,06113010401
+electric-utility,14328,Pacific Gas & Electric Co.,58206,CISO,California Independent System Operator,OP,10,2013-05,-120.1325|36.142222,9114,06019007801
+ipp-non-chp,56751,Yolo County of,58217,CISO,California Independent System Operator,OP,2.5,2013-07,-121.694167|38.500278,5471,06113010401
+ipp-non-chp,58197,Newberry Solar 1 LLC,58226,CISO,California Independent System Operator,OP,1.5,2013-12,-116.683108|34.853581,2452,06071010300
+ipp-non-chp,58198,"Highlander Solar 2, LLC",58227,CISO,California Independent System Operator,OP,9,2013-06,-116.090278|34.192222,5059,06071010416
+commercial-non-chp,58661,"Sustainable Power Group, LLC",58232,CISO,California Independent System Operator,OP,1,2012-09,-117.0175|33.767222,4951,06065043504
+ipp-non-chp,58211,"Highlander Solar 1, LLC",58234,CISO,California Independent System Operator,OP,12,2013-06,-116.1525|34.171944,5059,06071010416
+commercial-non-chp,58661,"Sustainable Power Group, LLC",58244,CISO,California Independent System Operator,OP,1,2012-09,-117.009722|33.719722,6052,06065043317
+commercial-non-chp,57276,Los Angeles Community College District,58248,LDWP,Los Angeles Department of Water and Power,OP,1.9,2013-01,-118.574722|34.183611,2717,06037134905
+commercial-non-chp,59553,VA Sepulveda Ambulatory Care Center,58249,LDWP,Los Angeles Department of Water and Power,OP,3.5,2014-10,-118.483333|34.248889,9433,06037117202
+commercial-non-chp,61247,"CBS Broadcasting, Inc.",58253,LDWP,Los Angeles Department of Water and Power,OP,1.6,2013-07,-118.36|34.075,3837,06037214501
+ipp-non-chp,58238,Enfinity NorCal 1 FAA LLC,58261,BANC,Balancing Authority of Northern California,OP,1,2012-12,-121.257556|38.559533,6881,06067008801
+ipp-non-chp,59455,"Venable Solar, LLC",58289,CISO,California Independent System Operator,OP,1.5,2015-04,-114.571667|33.598889,4764,06065046200
+ipp-non-chp,59455,"Venable Solar, LLC",58290,CISO,California Independent System Operator,OP,1.5,2015-04,-114.571667|33.597222,4764,06065046200
+ipp-non-chp,58269,Tulare PV II LLC,58304,CISO,California Independent System Operator,OP,3.7,2013-12,-119.540278|36.505278,9538,06107000301
+ipp-non-chp,58268,Tulare PV I LLC,58306,CISO,California Independent System Operator,OP,3.5,2014-02,-119.128581|36.2675,4554,06107001400
+ipp-non-chp,58268,Tulare PV I LLC,58307,CISO,California Independent System Operator,OP,3.5,2014-01,-119.255|36.3875,4540,06107000800
+ipp-non-chp,58268,Tulare PV I LLC,58308,CISO,California Independent System Operator,OP,4,2014-01,-119.133889|36.211944,9410,06107002500
+ipp-non-chp,58268,Tulare PV I LLC,58309,CISO,California Independent System Operator,OP,3.5,2014-01,-119.039722|36.102778,6106,06107003502
+ipp-non-chp,58309,Radiance Solar LLC,58354,CISO,California Independent System Operator,OP,1.5,2013-07,-118.288056|34.665556,8729,06037901205
+ipp-non-chp,58309,Radiance Solar LLC,58355,CISO,California Independent System Operator,OP,1.5,2013-07,-118.286944|34.665556,8729,06037901205
+ipp-non-chp,58355,SPS Atwell Island LLC,58366,CISO,California Independent System Operator,OP,20.2,2013-03,-119.510833|35.895,4499,06107004300
+ipp-non-chp,58358,Light Beam Power Co LLC,58370,CISO,California Independent System Operator,OP,1,2013-03,-121.684167|39.373333,4226,06007003400
+ipp-non-chp,58358,Light Beam Power Co LLC,58371,CISO,California Independent System Operator,OP,2.5,2013-04,-121.681667|39.373333,4226,06007003400
+ipp-non-chp,56769,Consolidated Edison Development Inc.,58373,CISO,California Independent System Operator,OP,20,2013-07,-119.4625|35.871389,4499,06107004300
+ipp-non-chp,56769,Consolidated Edison Development Inc.,58374,CISO,California Independent System Operator,OP,20,2013-08,-119.573333|36.138333,3885,06031001200
+ipp-non-chp,58363,Oakley Solar Project LLC,58376,CISO,California Independent System Operator,OP,1.5,2013-06,-121.747778|38.001667,2701,06013302005
+ipp-non-chp,59873,"Solar Star California XIX, LLC",58388,CISO,California Independent System Operator,OP,318,2015-06,-118.4036|34.8181,7484,06037901209
+ipp-non-chp,59872,"Solar Star California XX, LLC",58389,CISO,California Independent System Operator,OP,279,2014-03,-118.352778|34.848611,7885,06029005506
+ipp-non-chp,60898,Axium US Solar Holdings LLC,58398,IID,Imperial Irrigation District,OP,10.9,2014-05,-115.540556|32.7125,9094,06025011900
+ipp-non-chp,58413,Lone Valley Solar Park I LLC,58417,CISO,California Independent System Operator,OP,10,2014-12,-116.865517|34.398059,4042,06071012103
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58418,CISO,California Independent System Operator,OP,5,2015-06,-117.466667|34.501111,8707,06071009118
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58419,CISO,California Independent System Operator,OP,5,2015-06,-117.471111|34.497778,8707,06071009118
+commercial-chp,58416,"California State University, Northridge",58422,LDWP,Los Angeles Department of Water and Power,OP,0.6,2005-04,-118.530556|34.243333,3905,06037115103
+ipp-non-chp,58427,Centinela Solar Energy LLC,58430,CISO,California Independent System Operator,OP,174.8,2013-07,-115.647778|32.686944,9094,06025011900
+ipp-non-chp,58440,CD US Solar MT 2 LLC,58445,CISO,California Independent System Operator,OP,2,2013-08,-118.051111|34.655,8728,06037900201
+ipp-non-chp,58440,CD US Solar MT 2 LLC,58446,CISO,California Independent System Operator,OP,1.5,2013-08,-118.051944|34.650556,8728,06037900201
+ipp-non-chp,58440,CD US Solar MT 2 LLC,58447,CISO,California Independent System Operator,OP,4,2013-09,-118.061111|34.647778,6611,06037980004
+ipp-non-chp,58440,CD US Solar MT 2 LLC,58448,CISO,California Independent System Operator,OP,1,2013-07,-117.154444|34.509167,9351,06071012104
+ipp-non-chp,58440,CD US Solar MT 2 LLC,58449,CISO,California Independent System Operator,OP,4,2014-01,-118.163056|34.643889,4457,06037910202
+ipp-non-chp,58440,CD US Solar MT 2 LLC,58450,CISO,California Independent System Operator,OP,1.5,2013-07,-118.061389|34.668889,2864,06037900508
+ipp-non-chp,58440,CD US Solar MT 2 LLC,58451,CISO,California Independent System Operator,OP,1.5,2013-10,-118.0625|34.695278,3483,06037900300
+ipp-non-chp,58440,CD US Solar MT 2 LLC,58452,CISO,California Independent System Operator,OP,1.5,2013-10,-118.274167|34.708889,9050,06037900900
+ipp-non-chp,58440,CD US Solar MT 2 LLC,58454,CISO,California Independent System Operator,OP,2,2013-08,-117.642222|34.600833,6101,06071009117
+ipp-non-chp,58451,"McCoy Solar, LLC",58462,CISO,California Independent System Operator,OP,270.6,2016-03,-114.739722|33.694722,2361,06065046900
+ipp-non-chp,17650,Southern Power Co,58467,CISO,California Independent System Operator,OP,147.4,2013-10,-115.726389|32.753333,4201,06025011100
+ipp-non-chp,57354,X-Elio North America Inc,58498,CISO,California Independent System Operator,OP,20,2014-01,-118.246944|34.9,7885,06029005506
+ipp-non-chp,57354,X-Elio North America Inc,58499,CISO,California Independent System Operator,OP,20,2014-01,-118.238333|34.900278,7885,06029005506
+ipp-non-chp,57354,X-Elio North America Inc,58500,CISO,California Independent System Operator,OP,5,2013-12,-118.16451|35.00745,1769,06029006500
+ipp-non-chp,57354,X-Elio North America Inc,58502,CISO,California Independent System Operator,OP,10,2014-01,-118.164167|35.024722,1769,06029006500
+ipp-non-chp,58486,Chuckawalla Solar LLC,58506,CISO,California Independent System Operator,OP,4,2012-06,-114.918056|33.568333,2361,06065046900
+ipp-non-chp,58135,Ecos Energy LLC,58508,CISO,California Independent System Operator,OP,1.5,2014-02,-121.148889|38.136389,6726,06077004704
+ipp-non-chp,58135,Ecos Energy LLC,58509,CISO,California Independent System Operator,OP,1.5,2014-04,-120.68287|35.55795,3368,06079010300
+ipp-non-chp,58135,Ecos Energy LLC,58510,CISO,California Independent System Operator,OP,1,2014-04,-121.14122|38.12139,6726,06077004704
+ipp-non-chp,58490,Ironwood Solar LLC,58513,CISO,California Independent System Operator,OP,4,2012-04,-114.918056|33.565,1904,06065981000
+ipp-non-chp,57365,Consolidated Edison Solutions Inc,58514,CISO,California Independent System Operator,OP,2.3,2013-12,-116.53|33.923056,9261,06065044522
+ipp-non-chp,59622,"Ahana Renewables, LLC",58522,CISO,California Independent System Operator,OP,1,2011-10,-120.046667|36.941111,4612,06039000502
+ipp-chp,58500,City of Hayward,58525,CISO,California Independent System Operator,OP,1,2010-11,-122.139717|37.633526,7515,06001437101
+industrial-non-chp,58501,Five Crowns Inc,58527,IID,Imperial Irrigation District,OP,1,2011-12,-115.5325|32.967222,3281,06025010700
+ipp-non-chp,58503,Garnet Solar Generation Station I LLC,58528,CISO,California Independent System Operator,OP,4,2014-12,-116.5431|33.8906,9003,06065044904
+ipp-non-chp,58290,"NextEra Energy Desert Sunlight 250, LLC",58542,CISO,California Independent System Operator,OP,249.7,2013-12,-115.3947|33.8055,2361,06065046900
+ipp-non-chp,58518,NRG Solar Community 1 LLC,58545,IID,Imperial Irrigation District,OP,5.7,2014-06,-115.481944|32.982778,4242,06025010300
+ipp-non-chp,58537,Fresh Air Energy IV LLC,58578,CISO,California Independent System Operator,OP,1.5,2013-12,-120.528723|37.889753,2146,06109005201
+ipp-non-chp,58540,California PV Energy LLC,58581,CISO,California Independent System Operator,OP,1,2013-12,-117.531111|34.043889,6425,06071012700
+ipp-non-chp,58540,California PV Energy LLC,58582,CISO,California Independent System Operator,OP,1.5,2013-12,-117.596111|34.05,9225,06071001600
+industrial-chp,58544,Sierra Nevada Brewing Co,58585,CISO,California Independent System Operator,OP,1.7,2007-09,-121.815278|39.724167,7927,06007001300
+ipp-non-chp,58546,Cascade Solar LLC,58590,CISO,California Independent System Operator,OP,18.5,2014-01,-116.234444|34.157222,1801,06071010420
+ipp-non-chp,17650,Southern Power Co,58592,CISO,California Independent System Operator,OP,160.5,2014-11,-115.47|33.08,9344,06025010101
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58609,CISO,California Independent System Operator,OP,1.5,2013-12,-117.456944|34.553056,6101,06071009117
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58610,CISO,California Independent System Operator,OP,1.5,2013-12,-117.191111|34.551111,7936,06071009714
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58611,CISO,California Independent System Operator,OP,1.5,2013-12,-117.145|34.496944,9351,06071012104
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58612,CISO,California Independent System Operator,OP,1.5,2013-12,-117.191944|34.545,7936,06071009714
+ipp-non-chp,58568,"Westlands Solar Farms, LLC",58616,CISO,California Independent System Operator,OP,18,2014-02,-120.075833|36.138056,9114,06019007801
+ipp-non-chp,58575,"Sol Orchard Imperial 1, LLC",58621,IID,Imperial Irrigation District,OP,20,2013-10,-115.546389|32.803333,4202,06025011400
+ipp-chp,58549,County of Alameda GSA,58625,CISO,California Independent System Operator,OP,2.3,2016-12,-121.886944|37.719167,8595,06001450102
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58626,CISO,California Independent System Operator,OP,20,2014-11,-118.324722|34.681667,7484,06037901209
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58627,CISO,California Independent System Operator,OP,10,2016-12,-118.320278|34.688889,8729,06037901205
+ipp-non-chp,60947,Tesla Inc.,58633,CISO,California Independent System Operator,OP,1,2010-12,-121.787778|36.721111,7045,06053014302
+ipp-non-chp,60947,Tesla Inc.,58634,CISO,California Independent System Operator,OP,1,2011-12,-118.058889|34.695833,3483,06037900300
+ipp-non-chp,60947,Tesla Inc.,58636,BANC,Balancing Authority of Northern California,OP,1,2013-02,-121.416389|38.643611,8664,06067006400
+ipp-non-chp,58593,Sequoia PV 1 LLC,58642,CISO,California Independent System Operator,OP,3,2014-01,-119.42|36.2,6218,06107003100
+commercial-non-chp,58622,Costco Wholesale,58698,CISO,California Independent System Operator,OP,3,2011-11,-117.5375|34.013056,4945,06065040607
+ipp-non-chp,17650,Southern Power Co,58711,CISO,California Independent System Operator,OP,32,2015-04,-119.85|35.62,7660,06029004500
+ipp-non-chp,17650,Southern Power Co,58713,CISO,California Independent System Operator,OP,62.5,2015-06,-120.41|36.73,7234,06019008302
+ipp-non-chp,58654,Orion Solar I LLC,58718,CISO,California Independent System Operator,OP,12,2014-04,-118.875|35.150694,3803,06029006202
+ipp-non-chp,58655,"Orion Solar II, LLC",58721,CISO,California Independent System Operator,OP,8,2014-06,-118.875278|35.150694,3803,06029006202
+commercial-non-chp,58661,"Sustainable Power Group, LLC",58748,CISO,California Independent System Operator,OP,1,2013-08,-121.966389|38.300556,8418,06095252317
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58750,CISO,California Independent System Operator,OP,5,2014-11,-118.289444|34.716944,9050,06037900900
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58751,CISO,California Independent System Operator,OP,1.5,2014-05,-118.289444|34.713333,9050,06037900900
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58752,CISO,California Independent System Operator,OP,1.5,2014-05,-118.289444|34.713333,9050,06037900900
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58753,CISO,California Independent System Operator,OP,1.5,2014-06,-118.289722|34.723056,9050,06037900900
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58754,CISO,California Independent System Operator,OP,1.5,2014-06,-118.289722|34.723056,9050,06037900900
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58755,CISO,California Independent System Operator,OP,1.5,2014-06,-118.289722|34.723056,9050,06037900900
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58756,CISO,California Independent System Operator,OP,1,2014-07,-118.289722|34.723056,9050,06037900900
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58757,CISO,California Independent System Operator,OP,6.5,2014-12,-118.289722|34.723056,9050,06037900900
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58761,CISO,California Independent System Operator,OP,2,2014-05,-117.341667|34.582222,6101,06071009117
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58762,CISO,California Independent System Operator,OP,2,2014-05,-117.340278|34.583333,6101,06071009117
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58763,CISO,California Independent System Operator,OP,1.5,2014-11,-117.341389|34.584444,6101,06071009117
+ipp-non-chp,58696,Ignite Solar Holdings LLC,58814,CISO,California Independent System Operator,OP,3,2014-03,-121.4225|41.031389,5640,06089012702
+ipp-non-chp,58661,"Sustainable Power Group, LLC",58831,CISO,California Independent System Operator,OP,16.6,2015-10,-118.812778|35.321944,3803,06029006202
+ipp-non-chp,58759,Perpetual Energy Systems,58889,CISO,California Independent System Operator,OP,1,2009-02,-122.975278|38.761389,5686,06097154201
+ipp-non-chp,58759,Perpetual Energy Systems,58890,CISO,California Independent System Operator,OP,1.2,2009-01,-122.479722|38.510833,1882,06055201602
+ipp-non-chp,58775,Sol Orchard San Diego 22 LLC,58906,CISO,California Independent System Operator,OP,2.5,2013-12,-117.001667|33.234167,8313,06073019106
+ipp-non-chp,58776,Sol Orchard San Diego 23 LLC,58907,CISO,California Independent System Operator,OP,5,2013-12,-117.001667|33.234167,8313,06073019106
+ipp-non-chp,58786,Sol Orchard San Diego 20 LLC,58909,CISO,California Independent System Operator,OP,2,2013-12,-116.875|33.012222,4568,06073020801
+ipp-non-chp,58787,Sol Orchard San Diego 21 LLC,58911,CISO,California Independent System Operator,OP,5,2013-12,-116.875|33.012222,4568,06073020801
+ipp-non-chp,57104,Golden Springs Development Company LLC,58912,CISO,California Independent System Operator,OP,1.8,2015-03,-118.044444|33.910833,6359,06037504102
+ipp-non-chp,57104,Golden Springs Development Company LLC,58913,CISO,California Independent System Operator,OP,1.5,2015-03,-118.044444|33.910833,6359,06037504102
+ipp-non-chp,61315,Solarenewal LLC,58918,CISO,California Independent System Operator,OP,1.2,2014-02,-119.415833|36.67,7875,06019006300
+ipp-non-chp,61315,Solarenewal LLC,58919,CISO,California Independent System Operator,OP,1.3,2014-04,-121.669722|39.291667,6329,06101050701
+ipp-non-chp,61315,Solarenewal LLC,58920,CISO,California Independent System Operator,OP,1.5,2014-04,-120.506944|37.352222,7381,06047002500
+ipp-non-chp,58812,GLT Cloverdale Solar LLC,58949,CISO,California Independent System Operator,OP,1.5,2014-06,-123.017778|38.773056,4329,06097154202
+ipp-non-chp,60947,Tesla Inc.,58954,BANC,Balancing Authority of Northern California,OP,1,2012-10,-121.163889|38.643611,8952,06067008504
+ipp-non-chp,60947,Tesla Inc.,58963,CISO,California Independent System Operator,OP,1,2014-02,-118.701944|34.136111,5932,06037800202
+ipp-non-chp,56769,Consolidated Edison Development Inc.,58973,CISO,California Independent System Operator,OP,19.8,2014-09,-119.046111|35.874722,4500,06107004500
+ipp-non-chp,17650,Southern Power Co,58975,CISO,California Independent System Operator,OP,102,2016-08,-119.805833|36.218806,3897,06031001601
+ipp-non-chp,58468,Dominion Renewable Energy,58983,CISO,California Independent System Operator,OP,45,2014-12,-118.185556|35.026667,7644,06029005900
+ipp-non-chp,58468,Dominion Renewable Energy,58984,CISO,California Independent System Operator,OP,19,2014-12,-120.290833|36.6175,8900,06019008200
+ipp-non-chp,58468,Dominion Renewable Energy,58985,CISO,California Independent System Operator,OP,20,2014-12,-119.833889|36.247778,3897,06031001601
+ipp-non-chp,58468,Dominion Renewable Energy,58986,CISO,California Independent System Operator,OP,20,2014-12,-119.088889|35.223333,7618,06029003204
+ipp-non-chp,58468,Dominion Renewable Energy,58990,CISO,California Independent System Operator,OP,15,2014-12,-118.185556|35.026667,7644,06029005900
+ipp-non-chp,58468,Dominion Renewable Energy,58991,CISO,California Independent System Operator,OP,20,2014-12,-119.905278|36.226111,3897,06031001601
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59008,CISO,California Independent System Operator,OP,15,2015-12,-118.821389|35.323056,3803,06029006202
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59009,CISO,California Independent System Operator,OP,27,2015-12,-118.878611|35.325278,7646,06029006201
+ipp-non-chp,57130,Janssen Pharmaceutical Co,59058,CISO,California Independent System Operator,OP,1,2007-09,-121.960278|38.399444,8178,06095252904
+ipp-non-chp,58468,Dominion Renewable Energy,59086,CISO,California Independent System Operator,OP,12,2015-05,-119.58|35.593611,7660,06029004500
+ipp-non-chp,58468,Dominion Renewable Energy,59087,CISO,California Independent System Operator,OP,12,2015-05,-119.554444|36.134444,3886,06031001300
+ipp-non-chp,17650,Southern Power Co,59088,IID,Imperial Irrigation District,OP,20,2016-02,-115.532222|33.165833,7258,06025010102
+ipp-non-chp,60947,Tesla Inc.,59094,CISO,California Independent System Operator,OP,1.5,2014-06,-118.130556|34.708333,1865,06037900602
+ipp-non-chp,60947,Tesla Inc.,59095,CISO,California Independent System Operator,OP,1,2014-06,-118.130556|34.708333,1865,06037900602
+ipp-non-chp,60947,Tesla Inc.,59096,CISO,California Independent System Operator,OP,1,2014-06,-118.130556|34.708333,1865,06037900602
+ipp-non-chp,60947,Tesla Inc.,59098,CISO,California Independent System Operator,OP,1,2014-06,-118.123611|34.700278,4923,06037900606
+ipp-non-chp,60947,Tesla Inc.,59099,CISO,California Independent System Operator,OP,1,2014-06,-118.123611|34.700278,4923,06037900606
+ipp-non-chp,58944,"Enerparc CA 1, LLC",59122,CISO,California Independent System Operator,OP,1.5,2014-06,-121.404167|36.831667,6234,06069000702
+ipp-non-chp,59622,"Ahana Renewables, LLC",59129,CISO,California Independent System Operator,OP,1.1,2013-08,-121.719444|37.969722,3662,06013302010
+ipp-non-chp,59622,"Ahana Renewables, LLC",59130,CISO,California Independent System Operator,OP,1.3,2013-09,-121.755556|37.921944,7924,06013304001
+ipp-non-chp,59622,"Ahana Renewables, LLC",59132,CISO,California Independent System Operator,OP,1.1,2012-02,-117.907222|34.9325,8866,06029005700
+ipp-non-chp,59622,"Ahana Renewables, LLC",59133,CISO,California Independent System Operator,OP,1.1,2012-02,-117.900278|34.917222,8866,06029005700
+ipp-non-chp,59622,"Ahana Renewables, LLC",59138,CISO,California Independent System Operator,OP,1.1,2011-02,-117.121389|32.906111,6290,06073008359
+ipp-non-chp,59622,"Ahana Renewables, LLC",59139,CISO,California Independent System Operator,OP,1.1,2011-05,-117.170556|33.21,8479,06073019208
+ipp-non-chp,58968,RE Mustang LLC,59150,CISO,California Independent System Operator,OP,100,2016-08,-119.903056|36.221667,3897,06031001601
+ipp-non-chp,58976,"PsomasFMG Lancaster Solar Crest, LLC",59167,CISO,California Independent System Operator,OP,1.5,2014-11,-118.095|34.715,3485,06037900609
+ipp-non-chp,58976,"PsomasFMG Lancaster Solar Crest, LLC",59169,CISO,California Independent System Operator,OP,1.5,2014-11,-118.166111|34.710556,9050,06037900900
+ipp-non-chp,59139,SunEdison LLC,59182,CISO,California Independent System Operator,OP,1.5,2014-08,-117.378056|34.435,6337,06071010009
+ipp-non-chp,58468,Dominion Renewable Energy,59183,CISO,California Independent System Operator,OP,20,2014-12,-119.564722|36.138056,3885,06031001200
+ipp-non-chp,58593,Sequoia PV 1 LLC,59203,CISO,California Independent System Operator,OP,4.5,2014-07,-119.12|36.19,9410,06107002500
+ipp-non-chp,59004,Sequoia PV 3 LLC,59219,CISO,California Independent System Operator,OP,3,2014-07,-119.02|36.05,6153,06107004102
+ipp-non-chp,59041,Lone Valley Solar Park II LLC,59237,CISO,California Independent System Operator,OP,20,2014-12,-116.8625|34.408333,4042,06071012103
+ipp-non-chp,60605,"Rio Bravo Solar I, LLC",59249,CISO,California Independent System Operator,OP,20,2016-12,-119.6825|35.416111,7563,06029003304
+ipp-non-chp,60606,"Rio Bravo Solar II, LLC",59250,CISO,California Independent System Operator,OP,20,2016-12,-119.629167|35.4225,7563,06029003304
+ipp-non-chp,60607,"Wildwood Solar II, LLC",59253,CISO,California Independent System Operator,OP,15,2017-01,-119.573889|35.63,7660,06029004500
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59262,CISO,California Independent System Operator,OP,5,2014-12,-117.932778|34.599444,6488,06037910001
+ipp-non-chp,59089,Merced Solar LLC,59265,CISO,California Independent System Operator,OP,1.5,2014-12,-120.484444|37.267778,3614,06047000901
+ipp-non-chp,59090,Mission Solar LLC,59267,CISO,California Independent System Operator,OP,1.5,2014-12,-120.4825|37.267778,3614,06047000901
+ipp-non-chp,59091,Hollister Solar LLC,59268,CISO,California Independent System Operator,OP,1.5,2014-12,-121.428889|36.8625,9440,06069000300
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59269,CISO,California Independent System Operator,OP,1.5,2014-11,-117.387222|34.512778,6100,06071009110
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59270,CISO,California Independent System Operator,OP,1.5,2014-11,-117.387222|34.511389,6100,06071009110
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59271,CISO,California Independent System Operator,OP,1.5,2014-11,-117.387222|34.509444,6100,06071009110
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59272,CISO,California Independent System Operator,OP,1.5,2014-11,-117.387222|34.508056,6100,06071009110
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59273,CISO,California Independent System Operator,OP,10,2015-08,-117.938889|34.613056,6488,06037910001
+ipp-non-chp,58540,California PV Energy LLC,59283,CISO,California Independent System Operator,OP,1,2014-08,-121.703889|38.001111,8596,06013302006
+ipp-non-chp,59104,"Sequoia PV 2, LLC",59300,CISO,California Independent System Operator,OP,3,2014-08,-119.629167|36.306667,9420,06031001100
+ipp-non-chp,60865,"CD Global Solar Holdings, LLC",59308,LDWP,Los Angeles Department of Water and Power,OP,37.8,2017-12,-118.034444|35.248889,1769,06029006500
+ipp-non-chp,60865,"CD Global Solar Holdings, LLC",59309,LDWP,Los Angeles Department of Water and Power,OP,47.3,2017-12,-117.999167|35.265833,1769,06029006500
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59315,LDWP,Los Angeles Department of Water and Power,OP,56,2017-04,-118.014444|35.269444,1769,06029006500
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59316,LDWP,Los Angeles Department of Water and Power,OP,56,2016-12,-118.014722|35.253056,1769,06029006500
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59317,LDWP,Los Angeles Department of Water and Power,OP,50,2016-12,-118.026944|35.253611,1769,06029006500
+ipp-non-chp,59121,"Pumpjack Solar I, LLC",59322,CISO,California Independent System Operator,OP,20,2015-01,-119.6225|35.305556,7563,06029003304
+ipp-non-chp,57081,"WGL Energy Systems, Inc",59323,BANC,Balancing Authority of Northern California,OP,1.5,2014-08,-121.457778|38.587222,7267,06067005301
+ipp-non-chp,58468,Dominion Renewable Energy,59334,CISO,California Independent System Operator,OP,18,2015-08,-118.352778|34.812222,7484,06037901209
+ipp-non-chp,59138,"SunPower Corporation, Systems",59339,CISO,California Independent System Operator,OP,108,2015-11,-121.052222|37.130278,3554,06047002000
+ipp-non-chp,59139,SunEdison LLC,59359,CISO,California Independent System Operator,OP,1.5,2014-10,-117.562778|34.473889,9245,06071009108
+ipp-non-chp,59139,SunEdison LLC,59360,CISO,California Independent System Operator,OP,1,2014-10,-117.562222|34.471389,9245,06071009108
+ipp-non-chp,59158,"Wildwood Solar I, LLC",59380,CISO,California Independent System Operator,OP,19.5,2015-02,-119.578333|35.615833,7660,06029004500
+commercial-non-chp,59173,City of Tulare Water Pollution Control,59395,CISO,California Independent System Operator,OP,1.1,2011-02,-119.375|36.185,8620,06107003002
+ipp-non-chp,59174,"CD US Solar MT3, LLC",59397,CISO,California Independent System Operator,OS,1.5,2014-12,-117.338889|34.762222,1803,06071011600
+ipp-non-chp,59174,"CD US Solar MT3, LLC",59398,CISO,California Independent System Operator,OS,1.5,2014-12,-117.338889|34.762222,1803,06071011600
+ipp-non-chp,59174,"CD US Solar MT3, LLC",59399,CISO,California Independent System Operator,OS,1.5,2014-12,-117.338889|34.762222,1803,06071011600
+ipp-non-chp,59176,Diamond Valley Solar LLC,59405,CISO,California Independent System Operator,OP,1.3,2015-01,-117.0725|33.713056,5871,06065042723
+ipp-non-chp,59183,Shafter Solar LLC,59408,CISO,California Independent System Operator,OP,20,2015-05,-119.127778|35.393333,8990,06029003807
+ipp-non-chp,59185,"CD US Solar PO 3, LLC",59409,CISO,California Independent System Operator,OP,1,2014-12,-117.323611|34.768333,1803,06071011600
+ipp-non-chp,59185,"CD US Solar PO 3, LLC",59410,CISO,California Independent System Operator,OP,1.5,2014-12,-117.323611|34.766389,1803,06071011600
+ipp-non-chp,59185,"CD US Solar PO 3, LLC",59411,CISO,California Independent System Operator,OP,1.5,2014-12,-117.323611|34.765,1803,06071011600
+ipp-non-chp,59050,Algonquin Power Co,59412,CISO,California Independent System Operator,OP,20,2015-05,-119.243333|35.126111,7563,06029003304
+ipp-non-chp,56769,Consolidated Edison Development Inc.,59413,CISO,California Independent System Operator,OP,19.8,2015-05,-119.581667|36.141944,3885,06031001200
+ipp-non-chp,56769,Consolidated Edison Development Inc.,59414,CISO,California Independent System Operator,OP,20,2015-05,-119.459722|35.815,4499,06107004300
+electric-utility,59187,Anaheim Public Utilities,59416,CISO,California Independent System Operator,OP,2.1,2014-08,-117.919722|33.8025,3420,06059087503
+ipp-non-chp,59139,SunEdison LLC,59421,CISO,California Independent System Operator,OP,1.5,2014-11,-117.470833|34.413056,8522,06071009119
+ipp-non-chp,59139,SunEdison LLC,59422,CISO,California Independent System Operator,OP,1.5,2014-11,-117.469722|34.4175,8522,06071009119
+ipp-non-chp,59139,SunEdison LLC,59423,CISO,California Independent System Operator,OP,1.5,2014-11,-117.47|34.415278,8522,06071009119
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59431,CISO,California Independent System Operator,OP,20,2015-11,-118.334167|34.703611,7484,06037901209
+ipp-non-chp,59212,"Adelanto Solar II, LLC",59440,CISO,California Independent System Operator,OP,7,2015-07,-117.3775|34.557222,6100,06071009110
+ipp-non-chp,59211,"Adelanto Solar, LLC",59441,CISO,California Independent System Operator,OP,20,2015-09,-117.3775|34.557222,6100,06071009110
+ipp-non-chp,58468,Dominion Renewable Energy,59443,CISO,California Independent System Operator,OP,20,2014-11,-118.324722|34.689167,7484,06037901209
+ipp-non-chp,58468,Dominion Renewable Energy,59469,CISO,California Independent System Operator,OP,20,2015-05,-117.3475|34.682222,5638,06071011700
+industrial-non-chp,57369,"Apple, Inc",59473,CISO,California Independent System Operator,OP,14.4,2017-06,-122.01|37.33,9355,06085508102
+ipp-non-chp,59257,"Giffen Solar Park, LLC",59522,CISO,California Independent System Operator,OP,20,2017-06,-120.316111|36.544722,8900,06019008200
+ipp-non-chp,59258,"Five Points Solar Park, LLC",59523,CISO,California Independent System Operator,OP,60,2016-09,-120.236667|36.386944,2690,06019007902
+ipp-non-chp,56769,Consolidated Edison Development Inc.,59524,CISO,California Independent System Operator,OP,20,2019-01,-119.845|35.612,7660,06029004500
+ipp-non-chp,59260,Wright Solar Park LLC,59525,CISO,California Independent System Operator,OP,200,2019-12,-120.957222|37.009444,3004,06047002100
+ipp-non-chp,59262,"NRG Solar Oasis, LLC",59528,CISO,California Independent System Operator,OP,20,2016-01,-118.076667|34.648889,6611,06037980004
+ipp-non-chp,59272,"41MB 8me, LLC",59531,CISO,California Independent System Operator,OP,50,2020-06,-119.96|36.941111,9194,06039000508
+ipp-non-chp,59273,"62SK 8me, LLC",59532,LDWP,Los Angeles Department of Water and Power,OP,105,2016-07,-117.955278|35.249167,1769,06029006500
+ipp-non-chp,59275,CF SBC Master Tenant One LLC,59536,CISO,California Independent System Operator,OP,1.5,2015-01,-117.464444|34.548056,6101,06071009117
+ipp-non-chp,59275,CF SBC Master Tenant One LLC,59537,CISO,California Independent System Operator,OP,1.5,2015-01,-117.464444|34.548056,6101,06071009117
+ipp-non-chp,59284,"Kona Solar, LLC",59539,CISO,California Independent System Operator,OP,1.5,2015-03,-117.283611|33.896111,8936,06065046700
+ipp-non-chp,59284,"Kona Solar, LLC",59540,CISO,California Independent System Operator,OP,1.8,2015-04,-117.552778|34.100278,4652,06071002110
+ipp-non-chp,59284,"Kona Solar, LLC",59541,CISO,California Independent System Operator,OP,1.5,2015-03,-117.606667|34.039722,8704,06071001803
+ipp-non-chp,59290,Solvida Energy Group/Blue Oak Energy,59550,CISO,California Independent System Operator,OP,2,2014-12,-121.993889|38.521111,6267,06113011300
+ipp-non-chp,59298,"Vega Solar, LLC",59555,CISO,California Independent System Operator,OP,20,2015-03,-120.82|36.925833,3004,06047002100
+ipp-non-chp,59345,"Colton Solar One, LLC",59597,CISO,California Independent System Operator,OP,2.5,2015-06,-117.319444|34.093333,9430,06071004900
+ipp-non-chp,59346,"Colton Solar Two, LLC",59598,CISO,California Independent System Operator,OP,1,2015-04,-117.361667|34.042222,9429,06071004004
+ipp-non-chp,60184,"Tropico, LLC",59599,CISO,California Independent System Operator,OP,14,2016-09,-119.056111|35.831944,4499,06107004300
+ipp-non-chp,60185,"Nicolis, LLC",59600,CISO,California Independent System Operator,OP,20,2016-09,-119.056111|35.835833,4499,06107004300
+ipp-non-chp,58468,Dominion Renewable Energy,59607,CISO,California Independent System Operator,OP,20,2015-12,-119.317778|35.115278,7563,06029003304
+ipp-non-chp,59353,"AP North Lake I, LP",59610,CISO,California Independent System Operator,OP,20,2015-08,-117.010556|33.74,4951,06065043504
+ipp-non-chp,59381,EE Kettleman California LLC,59633,CISO,California Independent System Operator,OP,20,2015-07,-119.9475|36.050833,3897,06031001601
+ipp-non-chp,59393,"Coronal Lost Hills, LLC",59638,CISO,California Independent System Operator,OP,20,2015-05,-119.905833|35.726667,7660,06029004500
+ipp-non-chp,11208,Los Angeles Department of Water & Power,59651,LDWP,Los Angeles Department of Water and Power,OP,1.7,2015-02,-118.196111|34.071389,8574,06037199120
+ipp-non-chp,11208,Los Angeles Department of Water & Power,59652,LDWP,Los Angeles Department of Water and Power,OP,1.2,2014-09,-118.565833|34.236667,9019,06037113303
+ipp-non-chp,58468,Dominion Renewable Energy,59657,IID,Imperial Irrigation District,OP,20,2015-06,-115.4975|33.252222,9344,06025010101
+ipp-non-chp,59457,"Sun Harvest Solar, LLC",59687,CISO,California Independent System Operator,OP,1.5,2015-05,-120.653625|37.05758,7119,06047002401
+ipp-non-chp,58468,Dominion Renewable Energy,59703,CISO,California Independent System Operator,OP,1,2016-05,-122.568158|38.129759,6689,06041102100
+ipp-non-chp,59491,Seville Solar One LLC,59722,IID,Imperial Irrigation District,OP,20,2015-12,-116.0139|33.1125,8844,06025012301
+ipp-non-chp,59492,Seville Solar Two LLC,59723,IID,Imperial Irrigation District,OP,30,2015-12,-116.0059|33.1101,8844,06025012301
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59730,CISO,California Independent System Operator,OP,2,2016-01,-117.93439|34.613602,6488,06037910001
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59737,CISO,California Independent System Operator,OP,9,2017-09,-120.352481|36.552186,8900,06019008200
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59738,CISO,California Independent System Operator,OP,5,2015-12,-120.432139|36.723806,7234,06019008302
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59739,CISO,California Independent System Operator,OP,5,2017-04,-118.19333|34.780192,9050,06037900900
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59740,CISO,California Independent System Operator,OP,20,2016-06,-118.282694|35.022903,2845,06029006007
+ipp-non-chp,59512,"Team-Solar, Inc.",59746,CISO,California Independent System Operator,OP,2,2014-07,-120.218453|36.13726,2690,06019007902
+ipp-non-chp,59512,"Team-Solar, Inc.",59748,CISO,California Independent System Operator,OP,1.2,2014-07,-120.224445|36.137219,2690,06019007902
+ipp-non-chp,11208,Los Angeles Department of Water & Power,59798,LDWP,Los Angeles Department of Water and Power,OP,1.3,2015-12,-118.252407|33.792694,7721,06037294120
+ipp-non-chp,59616,"63SU 8me, LLC",59840,LDWP,Los Angeles Department of Water and Power,OP,155,2016-09,-117.976847|35.250031,1769,06029006500
+ipp-non-chp,59745,First Solar Asset Management,59868,CISO,California Independent System Operator,OP,20,2016-04,-118.432|34.819,7484,06037901209
+ipp-non-chp,61219,Longroad Energy Services LLC,59870,CISO,California Independent System Operator,OP,40,2020-12,-120.415|36.716,7234,06019008302
+commercial-non-chp,59660,"Solar Star California XXXII, LLC",59872,CISO,California Independent System Operator,OP,13,2015-03,-121.75|38.55,5478,06113010701
+ipp-non-chp,61785,EDP Renewables North America LLC,59878,CISO,California Independent System Operator,OP,20,2019-12,-118.2879|35.0199,2845,06029006007
+ipp-non-chp,61943,"North Rosamond Solar, LLC",59879,CISO,California Independent System Operator,OP,151.1,2019-06,-118.38|34.862,7885,06029005506
+ipp-non-chp,56769,Consolidated Edison Development Inc.,59900,CISO,California Independent System Operator,OP,20,2016-02,-119.58542|36.15042,3885,06031001200
+ipp-non-chp,56769,Consolidated Edison Development Inc.,59915,CISO,California Independent System Operator,OP,20,2017-01,-120.667608|36.876847,3852,06019008402
+ipp-non-chp,59139,SunEdison LLC,59916,CISO,California Independent System Operator,OP,1,2016-03,-117.5341|34.03527,6425,06071012700
+ipp-non-chp,17650,Southern Power Co,59939,CISO,California Independent System Operator,OP,205.3,2016-07,-120.40447|36.581365,7234,06019008302
+ipp-non-chp,56769,Consolidated Edison Development Inc.,59940,CISO,California Independent System Operator,OP,202.5,2017-12,-120.37957|36.581182,8900,06019008200
+ipp-non-chp,57081,"WGL Energy Systems, Inc",59942,CISO,California Independent System Operator,OP,1.5,2015-09,-118.0836|34.6608,4921,06037900504
+ipp-non-chp,59711,Bakersfield 111 LLC,59948,PACW,PacifiCorp - West,OP,1.4,2015-07,-118.989894|35.317551,4085,06029003103
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59961,CISO,California Independent System Operator,OP,20,2016-12,-118.313573|34.73206,9050,06037900900
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59962,CISO,California Independent System Operator,OP,20,2016-12,-118.31301|34.719538,9050,06037900900
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59963,CISO,California Independent System Operator,OP,20,2016-05,-118.30046|34.720499,9050,06037900900
+ipp-non-chp,58661,"Sustainable Power Group, LLC",59964,CISO,California Independent System Operator,OP,40,2016-12,-118.30425|34.730263,9050,06037900900
+ipp-non-chp,59727,RE Astoria LLC,59976,CISO,California Independent System Operator,OP,100,2016-12,-118.458466|34.844226,7885,06029005506
+ipp-non-chp,59728,RE Astoria 2 LLC,59977,CISO,California Independent System Operator,OP,75,2016-12,-118.480204|34.836649,7885,06029005506
+ipp-non-chp,59735,"Enerparc CA2, LLC",59978,PACW,PacifiCorp - West,OP,1.5,2016-03,-122.175583|39.69898,7211,06021010200
+ipp-non-chp,59736,Columbia Solar Energy LLC,59979,CISO,California Independent System Operator,OP,19.2,2015-10,-121.86506|38.019671,6538,06013309000
+ipp-non-chp,17650,Southern Power Co,60007,CISO,California Independent System Operator,OP,15,2015-11,-119.818712|35.731362,7660,06029004500
+ipp-non-chp,57081,"WGL Energy Systems, Inc",60026,LDWP,Los Angeles Department of Water and Power,OP,3,2015-12,-117.94751|34.600231,6488,06037910001
+ipp-non-chp,58661,"Sustainable Power Group, LLC",60027,CISO,California Independent System Operator,OP,20,2015-12,-120.32488|37.120586,9208,06039000202
+ipp-non-chp,59773,"SunE Solar XVI Lessor, LLC",60032,CISO,California Independent System Operator,OP,1,2016-08,-117.544529|34.097728,1968,06071002207
+ipp-non-chp,61423,"California Flats Solar 130, LLC",60033,CISO,California Independent System Operator,OP,130,2017-11,-120.404352|35.615573,3368,06079010300
+ipp-non-chp,61230,"CD Arevon USA, Inc.",60034,CISO,California Independent System Operator,OP,150,2019-02,-120.404352|35.615573,3368,06079010300
+ipp-non-chp,59775,"Solar Star California XXXI, LLC",60035,CISO,California Independent System Operator,OP,7.3,2015-10,-117.38514|33.97819,6960,06065030300
+ipp-non-chp,59776,"Frontier Solar, LLC",60039,CISO,California Independent System Operator,OP,20,2016-06,-121.130661|37.379919,3507,06099003400
+ipp-non-chp,61112,"Cuyama Solar, LLC",60043,CISO,California Independent System Operator,OP,40,2017-11,-119.596|34.901,3302,06083001800
+ipp-non-chp,59791,Lindberg Field Solar I LLC,60060,CISO,California Independent System Operator,OP,3.2,2016-02,-117.207718|32.729238,4794,06073006300
+ipp-non-chp,56769,Consolidated Edison Development Inc.,60077,CISO,California Independent System Operator,OP,15.8,2017-01,-120.15146|35.996324,7362,06031001701
+ipp-non-chp,56769,Consolidated Edison Development Inc.,60078,CISO,California Independent System Operator,OP,20,2016-12,-119.068414|35.856278,4499,06107004300
+ipp-non-chp,56769,Consolidated Edison Development Inc.,60079,CISO,California Independent System Operator,OP,20,2016-12,-119.068069|35.844167,4499,06107004300
+ipp-non-chp,56769,Consolidated Edison Development Inc.,60080,CISO,California Independent System Operator,OP,15,2016-12,-119.056992|35.845378,4499,06107004300
+ipp-non-chp,56769,Consolidated Edison Development Inc.,60081,CISO,California Independent System Operator,OP,20,2016-12,-119.026992|35.850403,4500,06107004500
+ipp-non-chp,20323,"Wellhead Energy, LLC",60083,CISO,California Independent System Operator,OP,3,2015-10,-120.105144|36.616846,4107,06019003900
+ipp-non-chp,60947,Tesla Inc.,60085,CISO,California Independent System Operator,OP,3.7,2016-12,-117.973571|34.748894,8728,06037900201
+ipp-non-chp,60947,Tesla Inc.,60086,CISO,California Independent System Operator,OP,3,2016-12,-118.081152|34.66072,4921,06037900504
+ipp-non-chp,59745,First Solar Asset Management,60091,CISO,California Independent System Operator,OP,20,2016-04,-118.438547|34.824206,7885,06029005506
+ipp-non-chp,59843,"Blythe Solar II, LLC",60092,CISO,California Independent System Operator,OP,131.2,2016-07,-114.73|33.68,2361,06065046900
+ipp-non-chp,59842,"Blythe Solar 110, LLC",60093,CISO,California Independent System Operator,OP,109.8,2016-03,-114.742|33.68,2361,06065046900
+ipp-non-chp,59844,"Blythe Solar III, LLC",60094,CISO,California Independent System Operator,OP,136.8,2020-05,-114.742|33.656,2361,06065046900
+ipp-non-chp,59845,"Blythe Solar IV, LLC",60095,CISO,California Independent System Operator,OP,137.4,2020-11,-114.768|33.682,2361,06065046900
+ipp-non-chp,59937,"Lemoore PV1, LLC",60142,CISO,California Independent System Operator,OP,1.5,2016-02,-119.798139|36.257938,8867,06031000402
+ipp-non-chp,57104,Golden Springs Development Company LLC,60151,CISO,California Independent System Operator,OP,1.3,2016-11,-118.050189|33.914356,6359,06037504102
+ipp-non-chp,57104,Golden Springs Development Company LLC,60153,CISO,California Independent System Operator,OP,1.2,2016-09,-118.050561|33.912917,6359,06037504102
+ipp-non-chp,57104,Golden Springs Development Company LLC,60154,CISO,California Independent System Operator,OP,1,2016-11,-118.041944|33.912917,6359,06037504102
+ipp-non-chp,57104,Golden Springs Development Company LLC,60182,CISO,California Independent System Operator,OP,2,2016-09,-117.517753|34.030119,1985,06065040503
+ipp-non-chp,57104,Golden Springs Development Company LLC,60183,CISO,California Independent System Operator,OP,2,2016-10,-118.037564|33.892614,6359,06037504102
+ipp-non-chp,58661,"Sustainable Power Group, LLC",60185,CISO,California Independent System Operator,OP,85,2016-12,-118.298166|34.655694,8729,06037901205
+ipp-non-chp,58661,"Sustainable Power Group, LLC",60186,CISO,California Independent System Operator,OP,50,2016-12,-118.280722|34.655556,8729,06037901205
+ipp-non-chp,58661,"Sustainable Power Group, LLC",60187,CISO,California Independent System Operator,OP,5,2016-12,-118.311722|34.686944,8729,06037901205
+ipp-non-chp,59969,Whitethorn Solar LLC,60193,CISO,California Independent System Operator,OP,3.3,2016-02,-121.717|37.691,7941,06001451101
+ipp-non-chp,60004,"Strata Roof 1, LLC",60219,BANC,Balancing Authority of Northern California,OP,1,2013-05,-121.505506|38.643527,8951,06067007019
+ipp-non-chp,60413,"Rancho Seco Solar, LLC",60226,BANC,Balancing Authority of Northern California,OP,10.8,2016-08,-121.114494|38.339857,5445,06067009406
+ipp-non-chp,60947,Tesla Inc.,60231,CISO,California Independent System Operator,OP,4.5,2016-04,-117.299593|33.211095,4435,06073018513
+ipp-non-chp,17650,Southern Power Co,60233,CISO,California Independent System Operator,OP,185,2016-11,-118.524989|34.825267,7885,06029005506
+ipp-non-chp,58468,Dominion Renewable Energy,60237,IID,Imperial Irrigation District,OP,30,2017-05,-115.531694|33.162056,7258,06025010102
+ipp-non-chp,59050,Algonquin Power Co,60242,CISO,California Independent System Operator,OP,10,2017-01,-119.243361|35.126111,7563,06029003304
+electric-utility,12397,Metropolitan Water District of S CA,60255,CISO,California Independent System Operator,OP,3,2016-06,-117.782246|34.108618,8219,06037401603
+ipp-non-chp,60067,Westside Assets LLC,60275,CISO,California Independent System Operator,OP,2,2016-05,-119.907|36.219,3897,06031001601
+ipp-non-chp,60059,ZGlobal Inc,60277,CISO,California Independent System Operator,OP,1.5,2016-04,-119.387258|35.211044,7563,06029003304
+ipp-non-chp,58661,"Sustainable Power Group, LLC",60279,CISO,California Independent System Operator,OP,20,2016-08,-118.28769|34.694839,8729,06037901205
+ipp-non-chp,58661,"Sustainable Power Group, LLC",60280,CISO,California Independent System Operator,OP,20,2016-07,-118.311006|34.714703,9050,06037900900
+ipp-non-chp,58661,"Sustainable Power Group, LLC",60281,CISO,California Independent System Operator,OP,3,2017-09,-118.301417|34.705549,9050,06037900900
+ipp-non-chp,60412,"Portal Ridge Solar, LLC",60310,CISO,California Independent System Operator,OP,20,2017-02,-118.2821|34.71647,9050,06037900900
+ipp-non-chp,60412,"Portal Ridge Solar, LLC",60311,CISO,California Independent System Operator,OP,11.4,2017-02,-118.2739|34.71412,9050,06037900900
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,60315,IID,Imperial Irrigation District,OP,20,2018-09,-115.544918|33.154761,7258,06025010102
+ipp-non-chp,61672,Willow Spring Solar LLC,60324,CISO,California Independent System Operator,OP,107.9,2019-01,-118.335211|34.826697,7885,06029005506
+ipp-non-chp,60118,"83WI 8ME, LLC",60336,IID,Imperial Irrigation District,OP,50,2018-01,-115.572788|33.176627,7258,06025010102
+ipp-non-chp,17650,Southern Power Co,60386,CISO,California Independent System Operator,OP,20,2016-09,-118.497406|34.821453,7885,06029005506
+ipp-non-chp,60191,"RE Barren Ridge 1, LLC",60389,LDWP,Los Angeles Department of Water and Power,OP,60,2016-08,-118.06875|35.20473,1769,06029006500
+ipp-non-chp,58135,Ecos Energy LLC,60412,CISO,California Independent System Operator,OP,4,2016-10,-117.9955|36.2647,2733,06027000800
+ipp-non-chp,60206,"Solar Star California XL, LLC",60426,CISO,California Independent System Operator,OP,5,2016-06,-117.1815|33.5226,4008,06065051200
+ipp-non-chp,58540,California PV Energy LLC,60428,CISO,California Independent System Operator,OP,2.2,2017-01,-122.344|37.92,6505,06013380000
+ipp-non-chp,57081,"WGL Energy Systems, Inc",60446,CISO,California Independent System Operator,OP,1,2013-12,-119.060029|35.534584,4704,06029005103
+ipp-non-chp,57081,"WGL Energy Systems, Inc",60450,CISO,California Independent System Operator,OP,1.1,2014-01,-119.566516|36.102307,3736,06031001500
+ipp-non-chp,58661,"Sustainable Power Group, LLC",60474,CISO,California Independent System Operator,OP,20,2017-12,-118.302649|34.678305,8729,06037901205
+ipp-non-chp,58661,"Sustainable Power Group, LLC",60475,CISO,California Independent System Operator,OP,20,2017-12,-118.314087|34.681338,8729,06037901205
+ipp-non-chp,58661,"Sustainable Power Group, LLC",60481,CISO,California Independent System Operator,OP,20,2017-12,-118.298089|34.667817,8729,06037901205
+ipp-non-chp,60271,"Longboat Solar, LLC",60485,CISO,California Independent System Operator,OP,20,2016-12,-117.061|34.541,9351,06071012104
+ipp-non-chp,60277,54 KR 8me LLC,60490,CISO,California Independent System Operator,OP,20,2017-12,-118.81192|35.314198,3803,06029006202
+ipp-non-chp,60278,64KT 8me LLC,60491,LDWP,Los Angeles Department of Water and Power,OP,90,2019-07,-118.001652|35.171153,7642,06029005508
+ipp-non-chp,59462,"Heelstone Energy Holdings, LLC",60509,CISO,California Independent System Operator,OP,3,2016-12,-117.0226|33.2503,8313,06073019106
+ipp-non-chp,59462,"Heelstone Energy Holdings, LLC",60516,CISO,California Independent System Operator,OP,3,2016-09,-117.0588|33.2704,9284,06073019103
+ipp-non-chp,60307,NRG Solar Blythe II LLC,60558,CISO,California Independent System Operator,OP,20,2017-04,-114.696182|33.618678,2361,06065046900
+ipp-non-chp,60352,"Golden Fields Solar I, LLC",60590,CISO,California Independent System Operator,OP,54,2016-12,-118.386843|34.839012,7885,06029005506
+ipp-non-chp,60353,"Solar Star California, XLI, LLC",60591,CISO,California Independent System Operator,OP,54,2016-12,-118.386843|34.839012,7885,06029005506
+ipp-non-chp,60399,"GASNA 6P, LLC",60678,CISO,California Independent System Operator,OP,21.3,2018-10,-120.149|36.527,8900,06019008200
+ipp-non-chp,60445,"SEPV Imperial, LLC",60744,IID,Imperial Irrigation District,OP,3,2016-12,-115.779317|32.79411,8844,06025012301
+ipp-non-chp,60445,"SEPV Imperial, LLC",60745,IID,Imperial Irrigation District,OP,2,2016-12,-115.773448|32.792038,8844,06025012301
+ipp-non-chp,61944,Goldman Sachs Renewable Power Group,60777,CISO,California Independent System Operator,OP,128,2020-12,-119.898|36.24,3897,06031001601
+ipp-non-chp,60455,"PVN Milliken, LLC",60790,CISO,California Independent System Operator,OP,3,2017-06,-117.565802|34.038433,6425,06071012700
+electric-utility,796,Arizona Electric Pwr Coop Inc,60791,CISO,California Independent System Operator,OP,3.4,2017-09,-116.639647|33.555267,6948,06065044403
+ipp-non-chp,60496,Enerparc Inc.,60813,CISO,California Independent System Operator,OP,1,2019-05,-123.020724|38.769581,4329,06097154202
+ipp-non-chp,60947,Tesla Inc.,60824,LDWP,Los Angeles Department of Water and Power,OP,1,2016-12,-116.198885|33.708661,3682,06065940400
+ipp-non-chp,60495,"Sunpin Holdings, LLC",60825,IID,Imperial Irrigation District,OP,74.8,2018-12,-115.974771|33.540124,9395,06065045604
+ipp-non-chp,60947,Tesla Inc.,60844,CISO,California Independent System Operator,OP,6.1,2017-05,-121.94777|38.390756,8178,06095252904
+ipp-non-chp,60947,Tesla Inc.,60846,CISO,California Independent System Operator,OP,1.1,2018-03,-121.397929|38.601354,8505,06067005601
+ipp-non-chp,60518,"California PV Energy 2, LLC",60861,BANC,Balancing Authority of Northern California,OP,2.7,2017-07,-121.343|38.565,1820,06067009107
+ipp-non-chp,60525,"Solar Star California, XLIV, LLC",60869,CISO,California Independent System Operator,OP,9.5,2016-12,-117.922819|34.511889,4456,06037910002
+ipp-non-chp,60991,"Westmont Solar, LLC",60914,LDWP,Los Angeles Department of Water and Power,OP,3,2016-12,-118.284733|33.766067,8737,06037295103
+ipp-non-chp,60639,AEP Renewables,60947,CISO,California Independent System Operator,OP,20,2017-07,-116.12896|32.6212,2440,06073021100
+ipp-non-chp,11208,Los Angeles Department of Water & Power,60953,LDWP,Los Angeles Department of Water and Power,OP,1,2016-12,-118.012151|36.275144,2733,06027000800
+ipp-non-chp,60619,"Whitney Point Solar, LLC",60975,CISO,California Independent System Operator,OP,20,2017-03,-120.138472|36.376889,7148,06019007802
+ipp-non-chp,60630,"Solar Star California XLVIII, LLC",60978,CISO,California Independent System Operator,OP,1,2016-12,-117.8887|33.87912,7038,06059011504
+ipp-non-chp,60630,"Solar Star California XLVIII, LLC",60979,CISO,California Independent System Operator,OP,1.9,2016-12,-117.8887|33.87912,7038,06059011504
+ipp-non-chp,60614,"Westside Solar, LLC",60981,CISO,California Independent System Operator,OP,20,2017-03,-120.134486|36.381775,7148,06019007802
+ipp-non-chp,60618,"Lindberg Field Solar 2, LLC",60984,CISO,California Independent System Operator,OP,1.9,2017-02,-117.205083|32.729444,4800,06073006200
+electric-utility,16609,San Diego Gas & Electric Co,60995,CISO,California Independent System Operator,OP,4.3,2017-04,-116.860713|33.018486,5914,06073020809
+ipp-non-chp,60648,"SCDA Solar 1, LLC",61006,CISO,California Independent System Operator,OP,7,2017-10,-121.586514|38.690186,6261,06067007101
+ipp-non-chp,58661,"Sustainable Power Group, LLC",61013,CISO,California Independent System Operator,OP,10.5,2017-12,-122.377202|37.945296,9130,06013378000
+ipp-non-chp,60727,"Manteca Land PV, LLC",61115,CISO,California Independent System Operator,OP,1,2017-12,-121.216191|37.84013,4684,06077005131
+ipp-non-chp,60728,"Delano Land 1, LLC",61116,CISO,California Independent System Operator,OP,1,2017-12,-119.344408|35.761217,6954,06029004604
+ipp-non-chp,60729,"Bakersfield PV 1, LLC",61117,CISO,California Independent System Operator,OP,5.3,2017-12,-118.981522|35.324982,7590,06029002400
+ipp-non-chp,60730,"Bakersfield Industrial PV 1, LLC",61118,CISO,California Independent System Operator,OP,1,2017-12,-118.993119|35.330032,4082,06029002500
+ipp-non-chp,60947,Tesla Inc.,61152,CISO,California Independent System Operator,OP,5.2,2016-04,-121.162623|38.645961,8952,06067008504
+ipp-non-chp,61230,"CD Arevon USA, Inc.",61202,CISO,California Independent System Operator,OP,252.3,2018-11,-115.56721|32.678805,9094,06025011900
+ipp-non-chp,60947,Tesla Inc.,61209,BANC,Balancing Authority of Northern California,OP,3.5,2017-12,-121.46369|38.448604,5842,06067009618
+ipp-non-chp,58661,"Sustainable Power Group, LLC",61215,CISO,California Independent System Operator,OP,3,2018-08,-117.931|34.597,6488,06037910001
+ipp-non-chp,58661,"Sustainable Power Group, LLC",61216,CISO,California Independent System Operator,OP,3,2018-08,-118.08215|34.654976,6611,06037980004
+ipp-non-chp,60991,"Westmont Solar, LLC",61249,LDWP,Los Angeles Department of Water and Power,OP,2.9,2017-03,-118.288925|33.766067,8737,06037295103
+electric-utility,60950,USPS LA Solar FiT A & B,61250,CISO,California Independent System Operator,OP,10.7,2017-07,-118.2587|33.977922,7783,06037239330
+ipp-non-chp,58661,"Sustainable Power Group, LLC",61264,CISO,California Independent System Operator,OP,105,2018-12,-118.309153|34.744977,9050,06037900900
+ipp-non-chp,58661,"Sustainable Power Group, LLC",61265,CISO,California Independent System Operator,OP,20,2019-09,-118.304071|34.736859,9050,06037900900
+ipp-non-chp,11208,Los Angeles Department of Water & Power,61319,LDWP,Los Angeles Department of Water and Power,OP,1.1,2015-10,-118.280032|33.727977,4657,06037980031
+ipp-non-chp,58661,"Sustainable Power Group, LLC",61339,CISO,California Independent System Operator,OP,3,2018-12,-117.989541|34.688042,8728,06037900201
+ipp-non-chp,60991,"Westmont Solar, LLC",61348,LDWP,Los Angeles Department of Water and Power,OP,2.3,2017-07,-118.288925|33.764227,8737,06037295103
+ipp-non-chp,60991,"Westmont Solar, LLC",61349,LDWP,Los Angeles Department of Water and Power,OP,2.2,2017-07,-118.284733|33.764227,8737,06037295103
+ipp-non-chp,60986,"Imperial Valley Solar 2, LLC",61353,CISO,California Independent System Operator,OP,153.5,2020-01,-115.6292|32.6685,9094,06025011900
+ipp-non-chp,61012,AES Distributed Energy,61377,BANC,Balancing Authority of Northern California,OP,2.5,2017-05,-121.166326|37.468888,9565,06099003300
+ipp-non-chp,60059,ZGlobal Inc,61418,IID,Imperial Irrigation District,OP,3,2017-09,-115.62779|33.04358,9153,06025010200
+ipp-non-chp,61058,"One Ten Partners, LLC",61419,CISO,California Independent System Operator,OP,2,2017-09,-117.936594|34.615622,6488,06037910001
+ipp-non-chp,60059,ZGlobal Inc,61420,CISO,California Independent System Operator,OP,3,2018-04,-120.878081|36.989475,3004,06047002100
+ipp-non-chp,60059,ZGlobal Inc,61421,CISO,California Independent System Operator,OP,1.5,2017-12,-120.167021|37.056468,4611,06039000201
+ipp-non-chp,17650,Southern Power Co,61445,CISO,California Independent System Operator,OP,20,2018-03,-118.563578|34.832786,7885,06029005506
+ipp-non-chp,61082,"Vandenberg Solar I, LLC",61463,CISO,California Independent System Operator,OP,22.5,2017-12,-120.509982|34.749708,4428,06083002606
+commercial-non-chp,60991,"Westmont Solar, LLC",61593,LDWP,Los Angeles Department of Water and Power,OP,1.8,2017-11,-118.286558|33.763012,8737,06037295103
+commercial-non-chp,60991,"Westmont Solar, LLC",61594,LDWP,Los Angeles Department of Water and Power,OP,2.9,2017-11,-118.288214|33.762421,8737,06037295103
+commercial-non-chp,61210,Stenner Creek Solar LLC,61607,CISO,California Independent System Operator,OP,4.5,2018-05,-120.691|35.32,2239,06079011504
+ipp-non-chp,61224,"SunE Solano SP Owner, LLC",61619,CISO,California Independent System Operator,OP,1.1,2013-12,-121.97062|38.32272,6464,06095253000
+ipp-non-chp,61225,"SunE Corcoran SP Owner, LLC",61620,CISO,California Independent System Operator,OP,5,2013-12,-119.55756|36.06502,3022,06031001602
+ipp-non-chp,61226,"SunE Wasco SP Owner, LLC",61621,CISO,California Independent System Operator,OP,1.5,2013-12,-119.40366|35.60053,3348,06029004302
+ipp-non-chp,61227,Nautilus Solar Solutions,61628,CISO,California Independent System Operator,OP,1.1,2018-01,-117.234157|32.936137,7894,06073008329
+ipp-non-chp,60059,ZGlobal Inc,61682,IID,Imperial Irrigation District,OP,1,2014-04,-115.857336|32.79278,8844,06025012301
+ipp-non-chp,60059,ZGlobal Inc,61683,IID,Imperial Irrigation District,OP,1,2015-12,-115.863214|32.790403,8844,06025012301
+ipp-non-chp,60059,ZGlobal Inc,61692,IID,Imperial Irrigation District,OP,3,2016-12,-115.506629|32.83186,4158,06025011000
+ipp-non-chp,58970,"Ecoplexus, Inc",61698,BANC,Balancing Authority of Northern California,OP,1.3,2019-05,-121.16|38.687,3290,06067988300
+industrial-non-chp,61348,"PCS Energy, LLC 								",61718,LDWP,Los Angeles Department of Water and Power,OP,1.5,2018-08,-118.451355|34.189857,7104,06037127806
+ipp-non-chp,56769,Consolidated Edison Development Inc.,61750,CISO,California Independent System Operator,OP,106.7,2018-12,-115.619858|32.672613,9094,06025011900
+ipp-non-chp,61418,"Stage Gulch Solar, LLC",61791,CISO,California Independent System Operator,OP,1,2018-04,-122.542866|38.216841,5645,06097150612
+ipp-non-chp,61417,"Lavio Solar, LLC",61792,CISO,California Independent System Operator,OP,1,2018-04,-122.663388|38.194599,8040,06097150800
+ipp-non-chp,61443,"Good Fellow Solar 1 PH1, LLC",61824,CISO,California Independent System Operator,OP,3,2018-06,-117.27326|34.11193,3940,06071006401
+electric-utility,61453,Soboba Band of Luiseno Indians,61834,CISO,California Independent System Operator,OP,2,2016-08,-116.905874|33.767061,8635,06065941500
+ipp-non-chp,60584,Onyx Asset Services Group,61843,CISO,California Independent System Operator,OP,1,2018-05,-117.004884|32.586536,4524,06073010014
+industrial-non-chp,61510,National Raisin,61894,CISO,California Independent System Operator,OP,2.9,2015-10,-119.673088|36.624512,5918,06019001600
+industrial-non-chp,61575,Pacific Ethanol Madera,61989,CISO,California Independent System Operator,OP,4.3,2018-08,-119.97138|36.916111,4386,06039001000
+ipp-non-chp,61872,Gavilan District College Solar Project,61993,CISO,California Independent System Operator,OP,1.4,2018-12,-121.593567|37.003832,7918,06085512510
+ipp-non-chp,61591,"Solar University, LLC",61995,CISO,California Independent System Operator,OP,4.5,2018-12,-120.432228|37.365688,7381,06047002500
+ipp-non-chp,58661,"Sustainable Power Group, LLC",62004,CISO,California Independent System Operator,OP,100,2019-08,-118.280345|34.723748,9050,06037900900
+ipp-non-chp,61589,RE Mustang Two LLC,62015,CISO,California Independent System Operator,OP,150,2020-11,-119.896389|36.216806,3897,06031001601
+ipp-non-chp,61600,"Solar Star California LXVI, LLC",62016,CISO,California Independent System Operator,OP,4,2017-12,-117.33099|33.97036,3664,06065046500
+ipp-non-chp,61602,"Solar Star California XLII, LLC",62020,CISO,California Independent System Operator,OP,3.4,2017-03,-122.16077|37.43434,2139,06085513000
+ipp-non-chp,61601,"Solar Star California XLVII, LLC",62028,CISO,California Independent System Operator,OP,4.5,2017-12,-118.11357|33.78104,8566,06037574601
+ipp-non-chp,61987,Sonoma County Junior College District,62039,CISO,California Independent System Operator,OP,1.2,2018-07,-122.72188|38.46905,8601,06097152400
+ipp-non-chp,58871,Citizens Enterprises Corporation,62052,IID,Imperial Irrigation District,OP,30,2019-08,-115.433783|33.191661,9344,06025010101
+ipp-non-chp,61633,AVS Phase 2 LLC,62056,CISO,California Independent System Operator,OP,3,2018-11,-117.972222|34.743383,8728,06037900201
+ipp-non-chp,60947,Tesla Inc.,62077,BANC,Balancing Authority of Northern California,OP,1.5,2019-07,-121.074115|38.650627,4086,06017030704
+ipp-non-chp,61674,Greenskies,62114,BANC,Balancing Authority of Northern California,OP,1,2018-12,-121.385301|38.791779,8623,06061021322
+commercial-non-chp,61686,Chaffey Community College District,62150,CISO,California Independent System Operator,OP,4,2017-02,-117.570404|34.148139,4793,06071002019
+ipp-non-chp,61709,"Desert Harvest, LLC",62177,CISO,California Independent System Operator,OP,80,2020-12,-115.38|33.8,2361,06065046900
+ipp-non-chp,61710,"Maverick Solar, LLC",62178,CISO,California Independent System Operator,OP,125,2020-12,-115.38|33.7,2361,06065046900
+ipp-non-chp,61766,"Solar Star California LXIII, LLC",62242,CISO,California Independent System Operator,OP,1.3,2018-12,-117.07775|32.63266,4278,06073013000
+ipp-non-chp,61443,"Good Fellow Solar 1 PH1, LLC",62246,CISO,California Independent System Operator,OP,2.3,2018-12,-121.723451|38.682746,9120,06113011206
+commercial-non-chp,61798,"Kern Highschool District Solar,LLC",62274,CISO,California Independent System Operator,OP,1.5,2018-12,-119.127496|35.364408,7656,06029003813
+commercial-non-chp,61798,"Kern Highschool District Solar,LLC",62275,CISO,California Independent System Operator,OP,1.4,2018-12,-119.14888|35.41824,4177,06029003803
+commercial-non-chp,61811,AES LA FiT Sun Valley LLC,62286,LDWP,Los Angeles Department of Water and Power,OP,1.9,2018-12,-118.392921|34.224041,7599,06037121802
+commercial-non-chp,61812,AES LA FiT Francisco LLC,62287,LDWP,Los Angeles Department of Water and Power,OP,1.2,2018-12,-118.3055|33.8482,7555,06037292000
+ipp-non-chp,57170,"EDF Renewable Asset Holdings, Inc.",62288,CISO,California Independent System Operator,OP,111.2,2019-11,-118.384341|34.90422,7885,06029005506
+ipp-non-chp,61980,Valta Energy,62378,LDWP,Los Angeles Department of Water and Power,OP,1.6,2018-12,-118.429836|34.277355,7173,06037104310
+ipp-non-chp,61219,Longroad Energy Services LLC,62463,CISO,California Independent System Operator,OP,20,2020-12,-120.415|36.716,7234,06019008302
+ipp-non-chp,61219,Longroad Energy Services LLC,62464,CISO,California Independent System Operator,OP,50,2020-12,-120.415|36.716,7234,06019008302
+ipp-non-chp,61219,Longroad Energy Services LLC,62465,CISO,California Independent System Operator,OP,50,2020-12,-120.415|36.716,7234,06019008302
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,62545,BANC,Balancing Authority of Northern California,OP,1.7,2020-11,-121.29319|38.39945,9438,06067009403
+commercial-non-chp,62067,EnterSolar,62578,CISO,California Independent System Operator,OP,2,2017-07,-122.150665|37.711995,7856,06001433104
+ipp-non-chp,62028,PFMG Solar Grossmont Helix LLC,62611,CISO,California Independent System Operator,OP,1.2,2018-05,-117.035241|32.753281,4912,06073014601
+ipp-non-chp,58661,"Sustainable Power Group, LLC",62649,CISO,California Independent System Operator,OP,6.3,2019-12,-122.231965|38.132245,2107,06095251901
+ipp-non-chp,62131,HL Solar LLC,62655,CISO,California Independent System Operator,OP,7.6,2019-06,-120.262|40.373,5520,06035040600
+ipp-non-chp,62162,"RP Napa Solar 1, LLC",62687,CISO,California Independent System Operator,OP,3,2019-09,-122.214014|38.160858,8556,06055201003
+ipp-non-chp,62628,County of Santa Clara (CA),62688,CISO,California Independent System Operator,OP,3.1,2017-10,-121.738616|37.228736,2356,06085513500
+ipp-non-chp,62628,County of Santa Clara (CA),62689,CISO,California Independent System Operator,OP,2.2,2017-08,-121.81508|37.286958,6353,06085503210
+ipp-non-chp,62628,County of Santa Clara (CA),62690,CISO,California Independent System Operator,OP,1.7,2018-09,-121.861079|37.269039,9346,06085512005
+ipp-non-chp,62648,"DG 1 Acquisition Co., LLC",62732,CISO,California Independent System Operator,OP,1.3,2019-08,-122.148864|37.411011,5658,06085511705
+ipp-non-chp,62701,"Vista Solar, Inc.",62806,CISO,California Independent System Operator,OP,2.5,2020-02,-122.4289|37.61909,2085,06081603801
+ipp-non-chp,62772,CA ODEVI LLC,62902,CISO,California Independent System Operator,OP,1.5,2020-11,-122.81508|38.53917,5689,06097153801
+commercial-non-chp,62854,"Solar Star California LXXVIII, LLC",62987,CISO,California Independent System Operator,OP,1.4,2018-12,-116.999589|32.816542,6323,06073016201
+ipp-non-chp,62842,"Lightsource Renewable Energy Asset Management, LLC",62988,BANC,Balancing Authority of Northern California,OP,13,2020-12,-121.477|38.705,5953,06067007206
+ipp-non-chp,62856,"Forefront Power, LLC",63021,CISO,California Independent System Operator,OP,1.3,2018-12,-119.731899|36.885463,2665,06019005504
+ipp-non-chp,62885,"CalCity Solar 1 , LLC",63054,CISO,California Independent System Operator,OP,3,2019-11,-117.965748|35.141374,7642,06029005508
+ipp-non-chp,62856,"Forefront Power, LLC",63068,CISO,California Independent System Operator,OP,2.2,2018-10,-119.79858|36.76655,3950,06019003500
+ipp-non-chp,62856,"Forefront Power, LLC",63074,CISO,California Independent System Operator,OP,2.6,2018-12,-119.4577|36.60563,5700,06019006603
+ipp-non-chp,60059,ZGlobal Inc,63078,CISO,California Independent System Operator,OP,3,2019-12,-119.39522|35.214023,7563,06029003304
+ipp-non-chp,62988,DG California Solar LLC,63204,CISO,California Independent System Operator,OP,2,2019-09,-119.566896|36.140764,3885,06031001200
+ipp-non-chp,63091,"Solar Star California LXIV, LLC",63303,CISO,California Independent System Operator,OP,1.2,2017-12,-117.99608|33.878585,8338,06059110607
+ipp-non-chp,62067,EnterSolar,63361,CISO,California Independent System Operator,OP,1,2018-04,-121.508945|37.734761,8053,06077005207
+ipp-non-chp,62067,EnterSolar,63363,CISO,California Independent System Operator,OP,1,2018-01,-121.24891|37.894817,7233,06077003803
+ipp-non-chp,63125,Phelan Pinon Hills Community Services District,63376,CISO,California Independent System Operator,OP,1.2,2015-11,-117.58281|34.57654,6101,06071009117
+ipp-non-chp,63142,"Solar Star California XXVIII, LLC",63385,CISO,California Independent System Operator,OP,3.5,2014-12,-118.510837|34.433332,8448,06037920013
+ipp-non-chp,61620,IOS II LLC,63414,CISO,California Independent System Operator,OP,4,2020-02,-117.45|34.09,7216,06071003101
+industrial-non-chp,17164,Sierra Pacific Industries Inc,63416,CISO,California Independent System Operator,OP,8.4,2020-05,-122.191944|40.121389,8443,06103000800
+ipp-non-chp,62856,"Forefront Power, LLC",63418,CISO,California Independent System Operator,OP,2.3,2020-07,-119.407215|35.593903,3348,06029004302
+ipp-non-chp,62856,"Forefront Power, LLC",63419,CISO,California Independent System Operator,OP,2,2020-12,-120.149966|37.089701,4611,06039000201
+ipp-non-chp,62856,"Forefront Power, LLC",63420,CISO,California Independent System Operator,OP,1.2,2020-03,-119.810408|36.818646,6823,06019004506
+ipp-non-chp,62856,"Forefront Power, LLC",63421,CISO,California Independent System Operator,OP,1.2,2020-03,-119.770709|36.817816,6775,06019005409
+ipp-non-chp,62856,"Forefront Power, LLC",63422,CISO,California Independent System Operator,OP,1.6,2020-12,-119.717809|36.734014,5916,06019001409
+ipp-non-chp,63198,RE-VFO LLC,63455,CISO,California Independent System Operator,OP,1,2009-05,-119.400823|36.353675,6059,06107000900
+ipp-non-chp,63226,CalCom Energy,63486,CISO,California Independent System Operator,OP,1.7,2019-03,-121.636|36.616,1711,06053010606
+electric-utility,57353,Plumas Sierra Rural Electric Coop,63493,CISO,California Independent System Operator,OP,2.5,2018-09,-120.123352|40.15006,5520,06035040600
+ipp-non-chp,60947,Tesla Inc.,63510,CISO,California Independent System Operator,OP,1.8,2020-02,-117.85051|34.02188,3121,06037403402
+ipp-non-chp,63226,CalCom Energy,63514,CISO,California Independent System Operator,OP,1.4,2019-06,-119.469986|36.585794,8204,06019006802
+ipp-non-chp,61944,GSRP,63516,CISO,California Independent System Operator,OP,1.9,2018-07,-117.981|35.157,7642,06029005508
+ipp-non-chp,61944,Goldman Sachs Renewable Power Group,63527,CISO,California Independent System Operator,OP,1.9,2020-08,-118.18|34.05,2908,06037530802
+ipp-non-chp,61944,Goldman Sachs Renewable Power Group,63545,CISO,California Independent System Operator,OP,30,2020-04,-119.69|35.62,7660,06029004500
+ipp-non-chp,61944,Goldman Sachs Renewable Power Group,63623,CISO,California Independent System Operator,OP,1.7,2020-08,-118.24|33.92,9548,06037540700
+commercial-non-chp,62715,Westbound Solar LLC,63630,CISO,California Independent System Operator,OP,1.1,2019-11,-121.874678|37.662431,1565,06001450607
+ipp-non-chp,63344,"SunE P11L Holdings, LLC",63651,CISO,California Independent System Operator,OP,4,2012-09,-119.30875|35.780407,1766,06029004601
+ipp-non-chp,63393,VS Dedeaux LLC,63674,LDWP,Los Angeles Department of Water and Power,OP,0.9,2019-12,-118.241894|34.013113,7557,06037228100
+industrial-non-chp,63452,Ralph's Grocery Company,63758,CISO,California Independent System Operator,OP,1.2,2020-04,-117.939825|33.917918,3397,06059001304
+ipp-non-chp,63675,Soscol Ferry Solar,63761,CISO,California Independent System Operator,OP,2,2020-12,-122.275184|38.237422,5049,06055201005
+ipp-non-chp,63545,"Golden Field Solar III, LLC",63859,CISO,California Independent System Operator,OP,192,2020-12,-118.395|34.847,7885,06029005506
+commercial-non-chp,56476,Ameresco,63928,CISO,California Independent System Operator,OP,1.5,2019-12,-121.93864|38.38867,8178,06095252904
+ipp-non-chp,63602,"Titan Solar 1, LLC",63932,CISO,California Independent System Operator,OP,70,2020-12,-116.010024|33.101555,8844,06025012301
+ipp-non-chp,60584,Onyx Asset Services Group,63986,CISO,California Independent System Operator,OP,0.9,2017-11,-117.355604|34.090318,3495,06071004401
+industrial-non-chp,63648,Family Tree Farms,63993,CISO,California Independent System Operator,OP,1,2013-06,-119.430179|36.546901,9538,06107000301
+industrial-non-chp,63649,Mike Woolf Farming,63994,CISO,California Independent System Operator,OP,1,2015-03,-120.612773|36.734667,7234,06019008302
+industrial-non-chp,63689,"Wonderful Renewable Energy, LLC.",64055,CISO,California Independent System Operator,OP,5,2020-09,-120.317876|36.8249,1694,06039000400
+ipp-non-chp,63731,Desert Harvest II LLC,64103,CISO,California Independent System Operator,OP,70,2020-12,-115.38|33.8,2361,06065046900
+ipp-non-chp,63732,"Maverick Solar 4, LLC",64104,CISO,California Independent System Operator,OP,100,2020-12,-115.38|33.7,2361,06065046900
+industrial-non-chp,63689,"Wonderful Renewable Energy, LLC.",64221,CISO,California Independent System Operator,OP,5,2020-12,-119.74935|35.50012,7660,06029004500
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,64264,LDWP,Los Angeles Department of Water and Power,OP,3,2020-12,-118.70404|34.1265,5932,06037800202
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,64267,IID,Imperial Irrigation District,OP,3,2020-12,-115.52641|33.0218,4242,06025010300
+ipp-non-chp,63248,Palmetto Power Management LLC,64308,CISO,California Independent System Operator,OP,3,2020-12,-122.866189|38.584405,4955,06097154000
+ipp-non-chp,63992,"Tranquillity Solar 1, LLC",64376,CISO,California Independent System Operator,OP,1.3,2018-03,-120.24594|36.648026,8900,06019008200
+industrial-non-chp,63432,SkyHigh 2 Solar,64391,CISO,California Independent System Operator,OP,1.6,2020-11,-120.694306|35.595877,3368,06079010300
+ipp-non-chp,64034,"Los Palos Street Operating, LLC",64418,LDWP,Los Angeles Department of Water and Power,OP,5.5,2020-12,-118.192851|34.015287,4115,06037204920
+ipp-non-chp,58970,"Ecoplexus, Inc",64517,BANC,Balancing Authority of Northern California,OP,2.4,2020-04,-121.44855|38.548056,4497,06067001700
+ipp-non-chp,58970,"Ecoplexus, Inc",64518,CISO,California Independent System Operator,OP,1,2020-02,-117.636427|33.949722,6242,06071001903
+ipp-non-chp,58970,"Ecoplexus, Inc",64519,IID,Imperial Irrigation District,OP,6,2019-12,-115.782916|32.825833,8844,06025012301
+ipp-non-chp,58970,"Ecoplexus, Inc",64521,IID,Imperial Irrigation District,OP,6,2019-12,-115.484805|33.163055,9344,06025010101
+ipp-non-chp,58970,"Ecoplexus, Inc",64523,CISO,California Independent System Operator,OP,1.1,2020-08,-120.634011|35.463333,2499,06079012800
+ipp-non-chp,61944,Goldman Sachs Renewable Power Group,64579,CISO,California Independent System Operator,OP,3,2014-09,-117.33101|33.97034,3664,06065046500
+ipp-non-chp,62067,EnterSolar,64600,CISO,California Independent System Operator,OP,3,2018-08,-121.529783|37.725044,8053,06077005207
+ipp-non-chp,62854,"Solar Star California LXXVIII, LLC",64601,CISO,California Independent System Operator,OP,1.7,2020-07,-117.131123|32.833645,5619,06073008511
+ipp-non-chp,64229,"SEPV Sierra, LLC",64611,CISO,California Independent System Operator,OP,2.3,2020-04,-118.138525|34.733011,3483,06037900300
+industrial-non-chp,59213,Maas Energy Works,64687,CISO,California Independent System Operator,OP,1,2017-08,-120.098148|36.504015,8900,06019008200
+ipp-non-chp,60950,USPS LA Solar FiT A & B,64836,CISO,California Independent System Operator,OP,1,2020-12,-118.278469|33.749947,4657,06037980031
+ipp-non-chp,60950,USPS LA Solar FiT A & B,64837,CISO,California Independent System Operator,OP,1,2020-12,-118.275617|33.717993,4657,06037980031
+ipp-non-chp,54902,SunE Alamosa1 LLC,56481,PSCO,Public Service Company of Colorado,OP,8.2,2007-12,-105.880501|37.690304,10065,08003960000
+ipp-non-chp,56026,MMA DAS Power,56815,PSCO,Public Service Company of Colorado,OP,1.9,2008-09,-104.697149|39.836789,10149,08031980000
+ipp-non-chp,56431,SunE U6 Holdings LLC,56922,PSCO,Public Service Company of Colorado,OP,1.5,2009-02,-107.81341|39.522904,9788,08045952002
+commercial-non-chp,56493,RV CSU Power LLC,57141,PSCO,Public Service Company of Colorado,OP,1.9,2009-12,-105.145904|40.591099,9928,08069002300
+ipp-non-chp,15399,Avangrid Renewables LLC,57317,PSCO,Public Service Company of Colorado,OP,35,2011-12,-105.927622|37.694535,10065,08003960000
+ipp-non-chp,56696,Alamosa Operating Services LLC,57368,PSCO,Public Service Company of Colorado,OP,30,2012-04,-105.955832|37.598579,10065,08003960000
+ipp-non-chp,56720,Greater Sandhill I LLC,57377,PSCO,Public Service Company of Colorado,OP,19,2010-09,-105.8909|37.685467,10065,08003960000
+commercial-non-chp,56828,RV CSU Power II LLC,57507,PSCO,Public Service Company of Colorado,OP,3,2010-12,-105.147097|40.592841,9928,08069002300
+ipp-non-chp,56830,Carson Solar 1 LLC,57509,WACM,Western Area Power Administration - Rocky Mountain Region,OP,2,2007-12,-104.7817|38.7228,10029,08041004403
+ipp-non-chp,56892,Solar Star Colorado II LLC,57554,WACM,Western Area Power Administration - Rocky Mountain Region,OP,5.5,2011-03,-104.806627|38.957901,10008,08041003802
+ipp-non-chp,56974,"Denver Airport Solar, LLC",57645,PSCO,Public Service Company of Colorado,OP,3.4,2011-06,-104.654183|39.904133,10149,08031980000
+ipp-non-chp,57005,"SunE NLB-2, LLC",57681,PSCO,Public Service Company of Colorado,OP,1,2010-06,-105.180327|40.048025,10470,08013012707
+commercial-non-chp,57017,DOE National Renewable Energy Laboratory,57692,PSCO,Public Service Company of Colorado,OP,1.1,2009-10,-105.2318|39.909,10151,08059060500
+commercial-non-chp,57017,DOE National Renewable Energy Laboratory,57693,PSCO,Public Service Company of Colorado,OP,0.7,2019-01,-105.2153|39.9139,10151,08059060500
+commercial-non-chp,57017,DOE National Renewable Energy Laboratory,57694,PSCO,Public Service Company of Colorado,OP,3.3,2008-12,-105.170993|39.740896,10531,08059010100
+commercial-non-chp,58467,"SSA Solar of CO 1, LLC",58481,WACM,Western Area Power Administration - Rocky Mountain Region,OP,1,2008-12,-104.58|38.306111,9927,08101000903
+ipp-non-chp,58519,Clean Energy Collective LLC,58547,PSCO,Public Service Company of Colorado,OP,1,2012-12,-108.785556|38.2725,10519,08085966100
+ipp-non-chp,58949,Hangar 160 LLC,59144,WACM,Western Area Power Administration - Rocky Mountain Region,OP,1.8,2012-12,-104.940833|39.9825,10064,08001061200
+ipp-non-chp,59076,Fresh Air Energy VII LLC,59198,PSCO,Public Service Company of Colorado,OP,1.6,2014-12,-103.194694|40.6316,10657,08075966200
+ipp-non-chp,59078,Fresh Air Energy VIII LLC,59199,PSCO,Public Service Company of Colorado,OP,1.6,2014-12,-108.509139|39.0672,10658,08077000800
+ipp-non-chp,59045,Eagle Springs Solar LLC,59239,PSCO,Public Service Company of Colorado,OP,1,2013-08,-107.696111|39.526111,10489,08045951901
+ipp-non-chp,59229,Denver Int'l Airport IV Solar,59462,SWPP,Southwest Power Pool,OP,1.5,2014-07,-104.669444|39.900556,10149,08031980000
+ipp-non-chp,59429,"Comanche Solar PV, LLC",59656,PSCO,Public Service Company of Colorado,OP,120,2016-09,-104.566667|38.205278,10014,08101003106
+ipp-non-chp,58519,Clean Energy Collective LLC,59742,PSCO,Public Service Company of Colorado,OP,1.5,2015-04,-107.157188|39.415027,10426,08045951803
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,59807,SWPP,Southwest Power Pool,OP,1.5,2009-12,-104.675338|39.899444,10149,08031980000
+ipp-non-chp,59650,Pikes Peak Solar Garden 1 LLC,59848,WACM,Western Area Power Administration - Rocky Mountain Region,OP,2,2015-07,-104.7458|38.7745,10782,08041004502
+ipp-non-chp,59651,Adams Community Solar Garden LLC,59849,PSCO,Public Service Company of Colorado,OP,1.2,2015-07,-104.5859|39.7876,10256,08001008401
+ipp-non-chp,59652,Adams Community Solar Garden III LLC,59850,PSCO,Public Service Company of Colorado,OP,1.2,2015-07,-104.5877|39.7867,10256,08001008401
+ipp-non-chp,59744,"Solar Star Colorado III, LLC",60008,PSCO,Public Service Company of Colorado,OP,52,2015-12,-105.990812|37.691863,10065,08003960000
+ipp-non-chp,59766,"SR Jenkins, LLC",60023,PSCO,Public Service Company of Colorado,OP,13,2016-05,-104.746661|40.081444,10061,08123001902
+ipp-non-chp,60036,SR Clinch,60247,WACM,Western Area Power Administration - Rocky Mountain Region,OP,4,2015-12,-104.891944|40.418786,9987,08123002209
+ipp-non-chp,60036,SR Clinch,60248,WACM,Western Area Power Administration - Rocky Mountain Region,OP,4,2015-12,-104.894792|40.577889,10541,08123002208
+ipp-non-chp,60060,"SR Mavericks, LLC",60283,WACM,Western Area Power Administration - Rocky Mountain Region,OP,7.8,2016-12,-105.03|40.23,9986,08123002103
+ipp-non-chp,60097,"San Isabel Solar, LLC",60304,PSCO,Public Service Company of Colorado,OP,30,2016-12,-104.843|37.372,9733,08071000100
+ipp-non-chp,60970,SunShare Management,60320,PSCO,Public Service Company of Colorado,OP,1.2,2016-05,-105.149694|39.859564,10151,08059060500
+ipp-non-chp,60143,Bison Solar LLC,60351,PSCO,Public Service Company of Colorado,OP,30,2016-10,-105.0111|40.863809,9971,08069002503
+ipp-non-chp,60263,"SR Skylark B, LLC",60497,WACM,Western Area Power Administration - Rocky Mountain Region,OP,2,2016-09,-104.895675|40.579472,10541,08123002208
+ipp-non-chp,60293,"DG Colorado Solar, LLC",60511,WACM,Western Area Power Administration - Rocky Mountain Region,OP,10,2016-10,-104.694688|38.602102,9980,08041004511
+ipp-non-chp,60609,"Clean Focus Renewables, Inc.",60720,PSCO,Public Service Company of Colorado,OP,1.5,2017-10,-104.791865|40.232146,10551,08123001800
+ipp-non-chp,60609,"Clean Focus Renewables, Inc.",60722,PSCO,Public Service Company of Colorado,OP,1.7,2017-10,-103.145084|40.609968,9736,08075966400
+ipp-non-chp,60609,"Clean Focus Renewables, Inc.",60723,PSCO,Public Service Company of Colorado,OP,1.5,2017-11,-105.982424|37.195886,10732,08021974800
+ipp-non-chp,60609,"Clean Focus Renewables, Inc.",60724,PSCO,Public Service Company of Colorado,OP,1.8,2017-09,-104.674249|39.638358,10078,08005007104
+ipp-non-chp,60609,"Clean Focus Renewables, Inc.",60725,PSCO,Public Service Company of Colorado,OP,1.5,2017-12,-104.583391|39.784937,10256,08001008401
+ipp-non-chp,60609,"Clean Focus Renewables, Inc.",60726,PSCO,Public Service Company of Colorado,OP,1.8,2017-09,-104.588631|39.765479,10256,08001008401
+ipp-non-chp,60452,Victory Solar LLC,60764,PSCO,Public Service Company of Colorado,OP,12.8,2016-12,-104.433|39.795,10256,08001008401
+ipp-non-chp,60609,"Clean Focus Renewables, Inc.",60801,PSCO,Public Service Company of Colorado,OP,1.5,2018-08,-104.523951|38.284425,9802,08101003600
+ipp-non-chp,60916,"SR Kersey, LLC",61314,WACM,Western Area Power Administration - Rocky Mountain Region,OP,3.5,2017-08,-104.55095|40.386197,10550,08123001600
+electric-utility,15257,"Poudre Valley REA, Inc",61425,WACM,Western Area Power Administration - Rocky Mountain Region,OP,1.5,2017-10,-105.13143|40.500969,10409,08069001809
+electric-utility,15466,Public Service Co of Colorado,61439,PSCO,Public Service Company of Colorado,OP,1.3,2017-05,-104.781494|39.808719,10149,08031980000
+ipp-non-chp,61081,SR Platte,61462,PSCO,Public Service Company of Colorado,OP,16,2017-11,-104.692067|40.181742,10551,08123001800
+ipp-non-chp,61090,San Luis Solar Garden LLC,61472,PS,Public Service Company of Colorado,OP,1.2,2017-08,-106.018925|37.068132,10732,08021974800
+ipp-non-chp,61163,Denver Metro Solar LLC,61563,PSCO,Public Service Company of Colorado,OP,1.6,2017-12,-104.621139|39.759298,10246,08001008353
+ipp-non-chp,60571,AEP Onsite Partners,61605,PSCO,Public Service Company of Colorado,OP,2.7,2017-11,-106.22|37.777,10448,08109977700
+ipp-non-chp,60571,AEP Onsite Partners,61606,PSCO,Public Service Company of Colorado,OP,4,2017-12,-102.466|37.384,9700,08009964700
+ipp-non-chp,60571,AEP Onsite Partners,61752,PSCO,Public Service Company of Colorado,OP,1.5,2018-05,-104.662508|39.638409,10078,08005007104
+ipp-non-chp,60571,AEP Onsite Partners,61753,PSCO,Public Service Company of Colorado,OP,3,2018-05,-104.583574|39.786769,10256,08001008401
+ipp-non-chp,61436,"Titan Solar, LLC",61811,PSCO,Public Service Company of Colorado,OP,50,2018-12,-104.01398|39.68646,10019,08005007101
+ipp-non-chp,61060,Cypress Creek Renewables,61886,WACM,Western Area Power Administration - Rocky Mountain Region,OP,4,2018-12,-108.462709|39.923679,9915,08103951100
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,62224,PSCO,Public Service Company of Colorado,OP,1.5,2018-11,-104.64|40.44,10564,08123000705
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,62239,PSCO,Public Service Company of Colorado,OP,1.5,2018-12,-105.878021|37.453381,10050,08003960300
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,62243,PSCO,Public Service Company of Colorado,OP,1.5,2018-12,-104.604|39.638,10080,08005007106
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,62244,PSCO,Public Service Company of Colorado,OP,1.5,2018-12,-108.32|39.145,9913,08077001800
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,62245,PSCO,Public Service Company of Colorado,OP,1.5,2018-12,-104.529|39.637,10080,08005007106
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,62251,PSCO,Public Service Company of Colorado,OP,1.5,2019-03,-107.815|39.523,9788,08045952002
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,62252,PSCO,Public Service Company of Colorado,OP,1.5,2019-01,-104.6848|39.904373,10149,08031980000
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,62253,PSCO,Public Service Company of Colorado,OP,1.5,2019-01,-104.561|39.637,10080,08005007106
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,62254,PSCO,Public Service Company of Colorado,OP,1.5,2019-01,-104.659|39.899,10149,08031980000
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,62255,PSCO,Public Service Company of Colorado,OP,1.5,2019-06,-104.779|40.237,10551,08123001800
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,62256,PSCO,Public Service Company of Colorado,OP,1.5,2019-01,-104.62146|39.80165,10256,08001008401
+ipp-non-chp,60571,AEP Onsite Partners,62260,PSCO,Public Service Company of Colorado,OP,2,2019-01,-106.1104|38.8151,9617,08015000402
+ipp-non-chp,61912,"Grazing Yak Solar, LLC",62376,WACM,Western Area Power Administration - Rocky Mountain Region,OP,35,2019-11,-104.252715|38.977759,10812,08041003909
+ipp-non-chp,62009,Palmer Solar LLC,62495,WACM,Western Area Power Administration - Rocky Mountain Region,OP,60,2020-04,-104.6526|38.6299,9980,08041004511
+ipp-non-chp,57081,"WGL Energy Systems, Inc",62663,WACM,Western Area Power Administration - Rocky Mountain Region,OP,1.5,2018-08,-104.783613|40.289366,10060,08123001700
+ipp-non-chp,57081,"WGL Energy Systems, Inc",62664,WACM,Western Area Power Administration - Rocky Mountain Region,OP,1.5,2018-09,-104.562645|39.63838,10685,08005007103
+ipp-non-chp,62147,Lafayette Horizon Solar CSG LLC,62667,PSCO,Public Service Company of Colorado,OP,1.6,2019-02,-105.063747|39.981606,10267,08013060800
+ipp-non-chp,60531,Standard Solar,62718,PSCO,Public Service Company of Colorado,OP,1.5,2019-05,-108.419672|39.044814,9656,08077001900
+ipp-non-chp,60531,Standard Solar,62719,PSCO,Public Service Company of Colorado,OP,1.5,2019-05,-108.64387|39.108785,9654,08077000900
+commercial-non-chp,62715,Westbound Solar LLC,62877,PSCO,Public Service Company of Colorado,OP,4.6,2019-11,-104.982339|39.885061,10315,08001009203
+electric-utility,62902,"Highline Services, LLC",63092,WACM,Western Area Power Administration - Rocky Mountain Region,OP,1.5,2019-11,-103.132442|40.66583,9736,08075966400
+ipp-non-chp,62961,"Mountain Parks Services, Inc.",63163,WACM,Western Area Power Administration - Rocky Mountain Region,OP,1,2019-11,-105.846|39.959166,9789,08049000202
+ipp-non-chp,62961,"Mountain Parks Services, Inc.",63164,WACM,Western Area Power Administration - Rocky Mountain Region,OP,1,2019-11,-106.289722|40.8125,9883,08057955600
+ipp-non-chp,60531,Standard Solar,63276,PSCO,Public Service Company of Colorado,OP,1.5,2019-08,-104.58591|39.777621,10256,08001008401
+ipp-non-chp,60531,Standard Solar,63277,PSCO,Public Service Company of Colorado,OP,1.5,2019-09,-104.59054|39.766772,10256,08001008401
+ipp-non-chp,60531,Standard Solar,63278,PSCO,Public Service Company of Colorado,OP,1.5,2019-10,-104.583391|39.784879,10256,08001008401
+ipp-non-chp,60531,Standard Solar,63379,PSCO,Public Service Company of Colorado,OP,1.5,2020-01,-103.61911|40.280904,10593,08087000800
+ipp-non-chp,63259,Solar Star Prime 1 LLC,63536,PSCO,Public Service Company of Colorado,OP,1.2,2019-10,-104.75|39.75,10246,08001008353
+ipp-non-chp,63282,"SR Kersey II, LLC",63586,WACM,Western Area Power Administration - Rocky Mountain Region,OP,1,2019-12,-104.554038|40.386223,10550,08123001600
+ipp-non-chp,63283,"SR Skylark C, LLC",63587,WACM,Western Area Power Administration - Rocky Mountain Region,OP,1.1,2019-12,-104.89577|40.575118,10541,08123002208
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,63681,PSCO,Public Service Company of Colorado,OP,3,2020-01,-106.0753|38.5357,10073,08015000200
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,63753,PSCO,Public Service Company of Colorado,OP,1.3,2020-01,-104.77471|40.22833,10551,08123001800
+ipp-non-chp,60293,"DG Colorado Solar, LLC",63869,PSCO,Public Service Company of Colorado,OP,8.1,2019-07,-105.244892|40.038266,10750,08013012203
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,64021,PSCO,Public Service Company of Colorado,OP,1.6,2020-03,-104.58107|40.45633,10550,08123001600
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,64024,PSCO,Public Service Company of Colorado,OP,1.6,2020-05,-106.09988|37.57176,10021,08105976700
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,64031,PSCO,Public Service Company of Colorado,OP,1.8,2020-01,-105.21246|38.46446,10745,08043978300
+ipp-non-chp,63771,"SR Rattlesnake, LLC",64152,WACM,Western Area Power Administration - Rocky Mountain Region,OP,6,2020-12,-104.413144|40.105427,10543,08123002502
+ipp-non-chp,63818,Jack's Solar Garden,64200,PSCO,Public Service Company of Colorado,OP,1,2020-10,-105.130321|40.122552,10610,08013013211
+ipp-non-chp,60025,Greenbacker Renewable Energy Corporation,64265,WACM,Western Area Power Administration - Rocky Mountain Region,OP,1.6,2020-12,-105.90341|37.39955,9775,08003960100
